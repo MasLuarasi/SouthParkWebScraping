@@ -1,20 +1,20 @@
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
-import re
 from better_profanity import profanity
+import re
 import json
 import time
 import operator
 
-file = open("Seasons\\26\\Links.txt", "r")
+file = open("Seasons\\Movie\\Links.txt", "r")
 episodeLinks = file.read().split("\n")
 file.close()
 
 episodeNumber = 1
 
-def analyzeLine(charDia):#Count the number of words and profanities in the one line.
+def analyzeLine(line):#Count the number of words and profanities in the one line.
     ret = [1]#1 as the first element representing the line. We also want to see how many lines each character has.
-    l = charDia[1].split(" ")#Split into list of words and add length of the split to list.
+    l = line.split(" ")#Split into list of words and add length of the split to list.
     while("" in l):l.remove("")#Remove an empty elements in list that went through
     ret.append(len(l))#Length of list represents number of words in line.
     profanityCount = 0
@@ -75,7 +75,7 @@ for episode in episodeLinks:
 
         if(len(characterAndDialogue) == 1): characterAndDialogue.append('i')#Very rare cases where the only "dialogue" on the script is an action in the '[]', so there would be no actual words to analyze
 
-        lineWordProf = analyzeLine(characterAndDialogue)#Get the data for each line
+        lineWordProf = analyzeLine(characterAndDialogue[1])#Get the data for each line
 
         if(characterAndDialogue[0] in characterData):#If character already has an entry in the dictionary
             for i in range(0,3):
@@ -95,7 +95,7 @@ for episode in episodeLinks:
     for i in range(len(sortedCharacterDataByLines)):
         sortedCharacterDataByLines[i][1][3] = dict(sorted(sortedCharacterDataByLines[i][1][3].items(), key=operator.itemgetter(1), reverse=True))#For each character, sort their profanity frequency dictionary so most common used ones are first 
 
-    with open('Seasons\\26\\' + titleFile + '.json', 'w') as convert_file:
+    with open('Seasons\\Movie\\' + titleFile + '.json', 'w') as convert_file:
         convert_file.write(json.dumps(sortedCharacterDataByLines))
 
 # Bugs to fix
