@@ -8,11 +8,12 @@ import json
 import time
 import operator
 
-file = open("Seasons\\Movie\\Links.txt", "r")
+file = open("Seasons\\26\\Links.txt", "r")
 episodeLinks = file.read().split("\n")
 file.close()
 
 episodeNumber = 1
+episodeTitles = []
 
 def analyzeLine(line):#Count the number of words and profanities in the one line
     ret = [1]#1 as the first element representing the line. We also want to see how many lines each character has
@@ -27,6 +28,26 @@ def analyzeLine(line):#Count the number of words and profanities in the one line
     ret.append(profanityFrequency)#Add list of them
     return ret
 
+def computeSummary():
+    seasonSummary = dict()
+
+    for e in episodeTitles:#Subsequent episodes and their data
+        current =  json.load(open('Seasons\\26\\' + e + '.json'))#Get the data of this episode
+        for c in current:#For each key
+            if(c in seasonSummary.keys()):#If character already has an entry in the dictionary, so if they were in one of previous episodes
+                for j in range(0,3):
+                    seasonSummary[c][j] += current[c][j]#Update lines, words, and profanity count
+                seasonSummary[c][4] = round(seasonSummary[c][2]/seasonSummary[c][1] * 100, 2)#Update the profanity % with updated words and profanity count data
+                seasonSummary[c][3] = dict(sorted((Counter(seasonSummary[c][3]) + Counter(current[c][3])).items(), key=operator.itemgetter(1), reverse=True))#Merge the profanity frequency dictionaries and sort in descending order 
+            else:
+                seasonSummary[c] = current[c]#Make a new entry
+
+    seasonSummary = dict(sorted(seasonSummary.items(), key=operator.itemgetter(1), reverse=True))#Sort dictionary so character with most lines is first
+
+    with open('Seasons\\26\\Summary.json', 'w') as convert_file:
+        convert_file.write(json.dumps(seasonSummary))
+        
+
 for episode in episodeLinks:
     time.sleep(2)
     characterData = dict()
@@ -39,6 +60,7 @@ for episode in episodeLinks:
     title = element[1:element.find("/")]#Extract title name
     titleFile = ("".join([str(episodeNumber), "-", title]))#Modify it to be the format of the output text file
     if(':' in titleFile): titleFile = titleFile.replace(':', '')#In case the title has a ':' in it, remove it since file names can't have colons in names
+    episodeTitles.append(titleFile)
     print(titleFile)
 
     episodeNumber += 1
@@ -76,15 +98,58 @@ for episode in episodeLinks:
         else:
             characterData[characterAndDialogue[0]] = lineWordProf#Create a new entry and set it to the data found in the current line
 
-    sortedCharacterDataByLines = sorted(characterData.items(), key=operator.itemgetter(1), reverse=True)#Sort dictionary so character with most lines is first
+    sortedCharacterDataByLines = dict(sorted(characterData.items(), key=operator.itemgetter(1), reverse=True))#Sort dictionary so character with most lines is first
 
+    names = sortedCharacterDataByLines.keys()#Temp variable
+    for k in names:
+        values = sortedCharacterDataByLines.get(k)
+        values.append(round(values[2]/values[1] * 100, 2))
+        values[3] = dict(Counter(values[3]).most_common())
+        
     for i in range(len(sortedCharacterDataByLines)):
-        t = sortedCharacterDataByLines[i][1]#Temp variable
-        t.append(round(t[2]/t[1] * 100, 2))#Append the frequency of profanities as a %. Profanities/Words
-        t[3] = OrderedDict(Counter(t[3]).most_common())#Count the frequency of each profanity. Replace the list in the character data with a dictionary that has profanity as key and frequency as value
+        t = sortedCharacterDataByLines.keys()#Temp variable
+        # t.append(round(t[2]/t[1] * 100, 2))#Append the frequency of profanities as a %. Profanities/Words
+        # t[3] = OrderedDict(Counter(t[3]).most_common())#Count the frequency of each profanity. Replace the list in the character data with a dictionary that has profanity as key and frequency as value
 
-    with open('Seasons\\Movie\\' + titleFile + '.json', 'w') as convert_file:
+    with open('Seasons\\26\\' + titleFile + '.json', 'w') as convert_file:
         convert_file.write(json.dumps(sortedCharacterDataByLines))
+
+convert_file.close()
+computeSummary()
+
+# seasonSummary = dict()
+
+# for e in episodeTitles:#Subsequent episodes and their data
+#     current =  json.load(open('Seasons\\26\\' + e + '.json'))#Get the data of this episode
+#     for c in current:#For each key
+#         if(c in seasonSummary.keys()):#If character already has an entry in the dictionary, so if they were in one of previous episodes
+#             for j in range(0,3):
+#                 seasonSummary[c][j] += current[c][j]#Update lines, words, and profanity count
+#             seasonSummary[c][4] = round(seasonSummary[c][2]/seasonSummary[c][1] * 100, 2)#Update the profanity % with updated words and profanity count data
+#             seasonSummary[c][3] = dict(sorted((Counter(seasonSummary[c][3]) + Counter(current[c][3])).items(), key=operator.itemgetter(1), reverse=True))#Merge the profanity frequency dictionaries and sort in descending order 
+#         else:
+#             seasonSummary[c] = current[c]#Make a new entry
+
+# seasonSummary = dict(sorted(seasonSummary.items(), key=operator.itemgetter(1), reverse=True))#Sort dictionary so character with most lines is first
+
+# print(seasonSummary)
+
+    #         print(c[0])
+
+        #     for i in range(0,3):
+                # print(c[1][i])
+        #         first[c[1]][i] += c[i]#Increment the existing elements by the data found in the current line
+        #     if(lineWordProf[3] != None):#If the profanity frequency dictionary is not empty
+        #         characterData[characterAndDialogue[0]][3] += lineWordProf[3]#Add the profanities from the line we just analyzed
+        # else:
+        #     characterData[characterAndDialogue[0]] = lineWordProf#Create a new entry and set it to the data found in the current line
+
+
+
+
+    # first = first + next
+
+# print(first)
 
 
 # Bugs to fix
