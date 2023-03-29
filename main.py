@@ -43,7 +43,7 @@ def computeSummary(index):#Add all the data from each episode in the season
     f.close()
 
 
-for index in range(18,20):
+for index in range(6,10):
     print(index)
     file = open("Seasons\\"+ str(index) + "\\Links.txt", "r")
     episodeLinks = file.read().split("\n")
