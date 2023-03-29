@@ -43,7 +43,7 @@ def computeSummary(index):#Add all the data from each episode in the season
     f.close()
 
 
-for index in range(6,11):
+for index in range(13,16):
     print(index)
     file = open("Seasons\\"+ str(index) + "\\Links.txt", "r")
     episodeLinks = file.read().split("\n")
@@ -150,5 +150,5 @@ print((et-st)*1000)
             # if(lineWordProf[3] != None):#If the profanity frequency dictionary is not empty
             #     characterData[characterAndDialogue[0]][3] += lineWordProf[3]#Add the profanities from the line we just analyzed
 
-#Crapped Out: 3(Ep 15), 
+#Crapped Out: 3(Ep 15), 12(Ep 13)
 
