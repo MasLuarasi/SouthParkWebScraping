@@ -43,8 +43,8 @@ def computeSummary(index):#Add all the data from each episode in the season
     f.close()
 
 
-for index in range(6,10):
-    print(index)
+for index in range(3,4):
+    # print(index)
     file = open("Seasons\\"+ str(index) + "\\Links.txt", "r")
     episodeLinks = file.read().split("\n")
     file.close()
@@ -61,9 +61,8 @@ for index in range(6,10):
 
         element = soup.find("td", class_="headersthemes").get_text()#Trying to get the title of the episode
         title = element[1:element.find("/")]#Extract title name
-        title = re.sub(r'[^\w\s]', '', title)
+        title = re.sub(r'[^\w\s]', '', title)#Discard any characters that are not allowed in file names.
         titleFile = ("".join([str(episodeNumber), "-", title]))#Modify it to be the format of the output text file
-        # if(':' or '?' in titleFile): titleFile = titleFile.replace(':' or '?', '')#In case the title has a ':' in it, remove it since file names can't have colons in names
         episodeTitles.append(titleFile)
 
         print(titleFile)
@@ -126,29 +125,4 @@ print((et-st)*1000)
 
 
 # Bugs to fix
-    # profanityFrequency = dict()
-    # for word in l:#Library only checks if parameter has profanity, loop through split list from earlier to get total number
-    #     if(profanity.contains_profanity(word) or (word[len(word)-1] == 's' and profanity.contains_profanity(word[:len(word)-1]))):#Some words in dictionary don't account for plural cases.
-    #         profanityCount += 1
-    #         if word in profanityFrequency:#If profanity has more than one occurence in the line
-    #             profanityFrequency[word] += 1#Increment the value for it by one
-    #         else:
-    #             profanityFrequency[word] = 1#Create a new entry and set it to one
-
-
-                # for p in lineWordProf[3]:#For every word in the profanity frequency dictionary
-                #     characterData[characterAndDialogue[0]][3].append(p)
-                    # if (p in characterData[characterAndDialogue[0]][3]):#If that profanity already exists in that characters profanity frequency dictionary
-                    #     characterData[characterAndDialogue[0]][3][p] += 1#Increment the value for the key in the dictionary by one
-                    # else:
-                    #     characterData[characterAndDialogue[0]][3][p] = 1#Create a new entry and set it to one
-
-    # for i in range(len(sortedCharacterDataByLines)):
-    #     sortedCharacterDataByLines[i][1][3] = dict(sorted(sortedCharacterDataByLines[i][1][3].items(), key=operator.itemgetter(1), reverse=True))#For each character, sort their profanity frequency dictionary so most common used ones are first 
-
-
-            # if(lineWordProf[3] != None):#If the profanity frequency dictionary is not empty
-            #     characterData[characterAndDialogue[0]][3] += lineWordProf[3]#Add the profanities from the line we just analyzed
-
 #Crapped Out: 3(Ep 15), 12(Ep 13), 17(Ep 9)
-
