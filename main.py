@@ -43,7 +43,7 @@ def computeSummary(index):#Add all the data from each episode in the season
     f.close()
 
 
-for index in range(12,13):
+for index in range(17,18):
     # print(index)
     file = open("Seasons\\"+ str(index) + "\\Links.txt", "r")
     episodeLinks = file.read().split("\n")
@@ -77,7 +77,7 @@ for index in range(12,13):
 
         for d in dialogue:
             s = d
-            # print(s)
+            print(s)
             while('[' in s):#Scene descriptions are in []. Since they are not dialogue, remove them so they don't count.
                 start = s.find('[')
                 end = s.find(']') + 1
@@ -126,19 +126,3 @@ print((et-st)*1000)
 
 
 # Bugs to fix
-#Crapped Out: 12(Ep 13), 17(Ep 9)
-
-# https://southpark.fandom.com/wiki/Tonsil_Trouble/Script
-# https://southpark.fandom.com/wiki/Britney%27s_New_Look/Script
-# https://southpark.fandom.com/wiki/Major_Boobage/Script
-# https://southpark.fandom.com/wiki/Canada_on_Strike/Script
-# https://southpark.fandom.com/wiki/Eek,_A_Penis!/Script
-# https://southpark.fandom.com/wiki/Over_Logging/Script
-# https://southpark.fandom.com/wiki/Super_Fun_Time/Script
-# https://southpark.fandom.com/wiki/The_China_Probrem/Script
-# https://southpark.fandom.com/wiki/Breast_Cancer_Show_Ever/Script
-# https://southpark.fandom.com/wiki/Pandemic/Script
-# https://southpark.fandom.com/wiki/Pandemic_2:_The_Startling/Script
-# https://southpark.fandom.com/wiki/About_Last_Night.../Script
-# https://southpark.fandom.com/wiki/Elementary_School_Musical/Script
-# https://southpark.fandom.com/wiki/The_Ungroundable/Script
