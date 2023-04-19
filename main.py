@@ -11,7 +11,7 @@ st = time.time()#Start time
 
 def analyzeLine(line):#Count the number of words and profanities in the one line
     ret = [1]#1 as the first element representing the line. We also want to see how many lines each character has
-    l = line.split(" ")#Split into list of words and add length of the split to list
+    l = line.split(" ")#Split into list of words
     while("" in l):l.remove("")#Remove an empty elements in list that went through
     ret.append(len(l))#Length of list represents number of words in line
     profanityFrequency = []#Contains all the profanities for this line
@@ -75,7 +75,6 @@ for index in range(26,27):#Seasons 1-26
 
         for d in dialogue:
             s = d
-            # print(s)#Prints character name, new line, dialogue. Debuggin purposes. See if HTML for either is mislabeled.
             while('[' in s):#Scene descriptions are in []. Since they are not dialogue, remove them so they don't count.
                 start = s.find('[')
                 end = s.find(']') + 1
@@ -104,7 +103,7 @@ for index in range(26,27):#Seasons 1-26
         names = sortedCharacterDataByLines.keys()#Temp variable containing the keys (character names)
         for k in names:#For each character
             values = sortedCharacterDataByLines.get(k)#Get their values(line, word, prof)
-            if(values[1] == 0): #Trying to get how often their words have profanities. If words == 0
+            if(values[1] == 0):#Trying to get how often their words have profanities. If words == 0
                 values.append(0)#just add 0 to avoid divide by zero error
             else:
                 values.append(round(values[2]/values[1] * 100, 2))#Append how often character uses profanity as a %. Profanities/Words 
@@ -123,5 +122,4 @@ print((et-st)*1000)#Total time for program to run
 
 
 # To do
-#Write code to compute series summary
 #Write data in more organized fashion

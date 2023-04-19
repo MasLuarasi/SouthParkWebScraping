@@ -1,14 +1,12 @@
 import json
 from collections import Counter
 import json
-import operator
-import itertools
 
-def printFirstTen(d, index):
+def printFirstTen(d, index):#Print first ten elements of input dictionary and the specified dictionary value
     topTen = {}
-    for i, key in enumerate(d.keys()):
+    for i, key in enumerate(d.keys()):#Iterate through dictionary via keys
         if i < 10:
-            topTen[key] = d[key][index]
+            topTen[key] = d[key][index]#Assign key and specific data value in topTen dictionary
         else:
             break
     print(topTen)
