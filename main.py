@@ -122,4 +122,6 @@ et = time.time()#End time
 print((et-st)*1000)#Total time for program to run
 
 
-# Bugs to fix
+# To do
+#Write code to compute series summary
+#Write data in more organized fashion
