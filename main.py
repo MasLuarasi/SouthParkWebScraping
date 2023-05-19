@@ -63,7 +63,7 @@ for index in range(26,27):#Seasons 1-26
         titleFile = ("".join([str(episodeNumber), "-", title]))#Modify it to be the format of the output text file
         episodeTitles.append(titleFile)
 
-        # print(titleFile)#Keep track of episode while running. If external error, we know which episodes html caused it
+        print(titleFile)#Keep track of episode while running. If external error, we know which episodes html caused it
         episodeNumber += 1#Keep count so the files names maintain episode order
 
         lines = soup.find_all("tr")#Everything in the script is contained in <tr> elements
