@@ -1,6 +1,7 @@
 import os
 import json
 
+#MAYBE WE DONT NEED THIS
 
 def modifyJSON():#Add all the data from each season summary into a series summary
     directory = "Seasons\\26"#Navigate to folder
