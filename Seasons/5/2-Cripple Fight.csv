@@ -1,0 +1,44 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+timmy,40,65,0,{},0.0
+stan,38,358,10,"{'gay': 5, 'gays': 2, 'suck': 1, 'asshole': 1, 'ugly': 1}",2.79
+jimmy,35,668,9,"{'god': 5, 'pot': 1, 'jerk': 1, 'ass': 1, 'motherfucker': 1}",1.35
+big gay al,26,527,3,"{'gay': 2, 'gays': 1}",0.57
+randy,22,173,6,"{'asshole': 2, 'god': 2, 'gay': 1, 'molest': 1}",3.47
+cartman,18,113,7,"{'ass': 2, 'asshole': 1, 'bitch': 1, 'sucks': 1, 'gay': 1, 'toots': 1}",6.19
+head scoutmaster,11,127,4,"{'gay': 3, 'naked': 1}",3.15
+stuart,11,97,1,{'gay': 1},1.03
+mr grazier,10,235,5,"{'naked': 4, 'strip': 1}",2.13
+butters,9,78,0,{},0.0
+boys,5,13,4,{'gays': 4},30.77
+reporter,4,95,2,{'gays': 2},2.11
+gloria allred,4,82,2,{'gay': 2},2.44
+scouts,4,8,0,{},0.0
+tom,3,53,1,{'naked': 1},1.89
+man,3,25,1,{'sex': 1},4.0
+crowd,3,7,0,{},0.0
+kenny,3,5,0,{},0.0
+chief justice,2,63,3,"{'gay': 2, 'gays': 1}",4.76
+marc,2,40,1,{'fat': 1},2.5
+scoutmaster 2,2,34,0,{},0.0
+man 5,2,16,0,{},0.0
+man 6,2,11,1,{'gay': 1},9.09
+priest maxi,1,46,0,{},0.0
+skeeter,1,27,1,{'gay': 1},3.7
+farmer,1,17,0,{},0.0
+steven spielberg,1,17,0,{},0.0
+joe,1,16,1,{'gays': 1},6.25
+scoutmaster 1,1,16,1,{'gay': 1},6.25
+jimbo,1,12,2,{'kill': 2},16.67
+sheila,1,12,0,{},0.0
+tolkiens father,1,9,0,{},0.0
+stephen,1,5,1,{'gay': 1},20.0
+sharon,1,5,0,{},0.0
+little girl,1,4,0,{},0.0
+susan,1,3,1,{'god': 1},33.33
+jimmy valmer,1,3,0,{},0.0
+crowd members,1,3,0,{},0.0
+man 2,1,2,0,{},0.0
+man 3,1,2,0,{},0.0
+stan cartman,1,2,0,{},0.0
+bailiff,1,2,0,{},0.0
+another man,1,2,0,{},0.0

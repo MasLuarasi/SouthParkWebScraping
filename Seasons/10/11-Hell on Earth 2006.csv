@@ -1,0 +1,51 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+satan,33,727,7,"{'hell': 3, 'screw': 1, 'hitler': 1, 'god': 1, 'stupid': 1}",0.96
+bundy,30,200,4,"{'kill': 2, 'whore': 1, 'sex': 1}",2.0
+butters,21,172,2,"{'ass': 1, 'damn': 1}",1.16
+smalls,19,198,10,"{'god': 2, 'pissed': 2, 'punkass': 1, 'damn': 1, 'shit': 1, 'hell': 1, 'ass': 1, 'motherfucking': 1}",5.05
+dahmer,14,60,1,{'sex': 1},1.67
+demon 1,13,121,1,{'hell': 1},0.83
+gacy,13,52,1,{'sex': 1},1.92
+cartman,11,126,1,{'god': 1},0.79
+kyle,10,62,1,{'crap': 1},1.61
+male staffer,9,71,1,{'hell': 1},1.41
+demonius,6,56,0,{},0.0
+zazul,6,42,0,{},0.0
+randy,6,31,0,{},0.0
+cardinal mahoney,5,109,2,"{'hell': 1, 'damn': 1}",1.83
+stan,5,35,0,{},0.0
+stephen,4,47,0,{},0.0
+head baker,3,28,0,{},0.0
+frank sinatra,3,27,1,{'jerk': 1},3.7
+demon 3,2,84,1,{'hells': 1},1.19
+resident bishop,2,34,0,{},0.0
+george burns,2,21,1,{'hitler': 1},4.76
+steve irwin,2,17,0,{},0.0
+a guest,2,15,0,{},0.0
+jimmy,2,14,0,{},0.0
+demon 2,2,12,0,{},0.0
+tweek,2,12,0,{},0.0
+biggie smalls,2,6,1,{'fuck': 1},16.67
+a cowboy,1,17,1,{'hell': 1},5.88
+john elway,1,17,0,{},0.0
+priest 1,1,13,0,{},0.0
+ticket agent,1,12,0,{},0.0
+female staffer,1,11,0,{},0.0
+officer,1,10,0,{},0.0
+hitler,1,10,0,{},0.0
+ghandi,1,9,0,{},0.0
+princess diana,1,9,0,{},0.0
+linda,1,8,0,{},0.0
+white bouncer,1,8,0,{},0.0
+cowboy,1,8,0,{},0.0
+man,1,6,0,{},0.0
+black bouncer,1,6,0,{},0.0
+the other boys,1,5,0,{},0.0
+bishop 3,1,5,0,{},0.0
+baker 2,1,5,0,{},0.0
+priest,1,5,0,{},0.0
+priest 2,1,4,0,{},0.0
+a bishop,1,4,0,{},0.0
+bishop 2,1,3,0,{},0.0
+bishop 1,1,1,0,{},0.0
+dahmer gacy,1,1,0,{},0.0

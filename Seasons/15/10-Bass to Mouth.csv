@@ -1,0 +1,32 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+cartman,48,743,13,"{'god': 4, 'kill': 2, 'crap': 2, 'craps': 2, 'shits': 1, 'stupid': 1, 'screw': 1}",1.75
+stan,41,399,4,"{'fuck': 1, 'bitch': 1, 'hell': 1, 'stupid': 1}",1.0
+mr mackey,26,530,7,"{'hell': 2, 'god': 2, 'fuck': 1, 'shit': 1, 'fat': 1}",1.32
+kyle,24,183,4,"{'fucked': 1, 'kill': 1, 'stupid': 1, 'hell': 1}",2.19
+principal victoria,15,207,2,{'kill': 2},0.97
+frog king,15,193,2,"{'god': 1, 'fucking': 1}",1.04
+craig,10,125,0,{},0.0
+singers,10,88,2,"{'suck': 1, 'asshole': 1}",2.27
+jenny,10,68,0,{},0.0
+catatafish,8,232,5,"{'stupid': 2, 'ass': 2, 'sex': 1}",2.16
+butters,8,41,1,{'undies': 1},2.44
+mr adler,5,59,0,{},0.0
+wendy,5,54,0,{},0.0
+sparrow prince,4,45,1,{'kill': 1},2.22
+mr garrison,4,33,1,{'retards': 1},3.03
+vernon,4,17,0,{},0.0
+kenny,4,12,1,{'fuck': 1},8.33
+emily,3,30,0,{},0.0
+nurse bronski,2,47,0,{},0.0
+singer,2,32,0,{},0.0
+tammy nelson,2,21,0,{},0.0
+mrs trumski,2,5,0,{},0.0
+tommy edwards,1,16,0,{},0.0
+selena gomez,1,15,0,{},0.0
+clyde,1,11,1,{'shit': 1},9.09
+mrs melman,1,8,0,{},0.0
+tolkien,1,2,0,{},0.0
+class,1,1,0,{},0.0
+kids,1,1,0,{},0.0
+timmy,1,1,0,{},0.0
+the three adults,1,1,0,{},0.0

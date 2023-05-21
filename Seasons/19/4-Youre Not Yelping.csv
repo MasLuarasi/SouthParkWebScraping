@@ -1,0 +1,49 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+cartman,54,913,14,"{'shit': 3, 'god': 2, 'poop': 2, 'fuck': 2, 'asshole': 1, 'raped': 1, 'fucking': 1, 'sucked': 1, 'willy': 1}",1.53
+gerald,20,241,3,"{'ass': 1, 'god': 1, 'fat': 1}",1.24
+kyle,18,132,5,"{'fuck': 1, 'willys': 1, 'fucking': 1, 'fat': 1, 'ass': 1}",3.79
+lead singer,16,105,3,"{'cum': 1, 'piss': 1, 'shit': 1}",2.86
+mr rodriguez,15,155,0,{},0.0
+backup singers,15,49,11,{'cum': 11},22.45
+davíd,14,94,0,{},0.0
+butters,10,88,0,{},0.0
+sgt yates,9,99,0,{},0.0
+male food critic,8,102,2,"{'willy': 1, 'hell': 1}",1.96
+barkley,7,37,2,{'god': 2},5.41
+whistlin willy,6,94,9,"{'fuck': 4, 'willys': 1, 'hell': 1, 'asses': 1, 'fuckin': 1, 'bitches': 1}",9.57
+sheila,5,49,0,{},0.0
+randy,5,40,0,{},0.0
+liane,5,34,0,{},0.0
+mayor mcdaniels,4,101,0,{},0.0
+yates,4,96,0,{},0.0
+tuong lu kim,4,91,3,"{'shitty': 1, 'fuck': 1, 'asses': 1}",3.3
+david,4,89,3,"{'bullshit': 1, 'ass': 1, 'prick': 1}",3.37
+maggie,4,34,0,{},0.0
+geralds review,3,114,1,{'hell': 1},0.88
+greeter,3,26,0,{},0.0
+waiter,3,20,0,{},0.0
+other yelpers,3,9,0,{},0.0
+mrs rodriguez,3,8,0,{},0.0
+reporter,2,101,0,{},0.0
+female food critic,2,17,0,{},0.0
+a yelper,2,8,0,{},0.0
+anchor tom,1,35,1,{'willys': 1},2.86
+diner 1,1,32,0,{},0.0
+yelper 4,1,26,0,{},0.0
+yelper 1,1,24,0,{},0.0
+tolkien,1,14,2,"{'assholes': 1, 'asses': 1}",14.29
+yelper 3,1,14,0,{},0.0
+waiter 2,1,11,1,{'cum': 1},9.09
+yelpers,1,11,0,{},0.0
+dr doctor,1,10,1,{'cum': 1},10.0
+diner 2,1,10,0,{},0.0
+diner 3,1,10,0,{},0.0
+wendy,1,9,0,{},0.0
+diner 4,1,9,0,{},0.0
+yelper 2,1,6,0,{},0.0
+a reviewer,1,5,0,{},0.0
+all singers,1,3,1,{'cum': 1},33.33
+chef,1,3,0,{},0.0
+stan,1,2,0,{},0.0
+son,1,2,0,{},0.0
+mr davis,1,1,0,{},0.0

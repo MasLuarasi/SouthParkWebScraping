@@ -1,0 +1,42 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+mr mackey,20,597,17,"{'fucking': 5, 'fuckin': 4, 'fuck': 2, 'fat': 1, 'ass': 1, 'shit': 1, 'goddamned': 1, 'shits': 1, 'god': 1}",2.85
+scott,18,275,17,"{'dick': 4, 'fart': 3, 'god': 1, 'assholes': 1, 'fuck': 1, 'pissed': 1, 'shit': 1, 'stupid': 1, 'blowjob': 1, 'penis': 1, 'goddamned': 1, 'gooks': 1}",6.18
+ugly bob,13,274,3,{'ugly': 3},1.09
+kyle,9,82,0,{},0.0
+princess,7,48,2,"{'kill': 1, 'god': 1}",4.17
+ike,7,33,2,{'dick': 2},6.06
+narrator,6,716,6,"{'farts': 1, 'queef': 1, 'god': 1, 'ugly': 1, 'dick': 1, 'ass': 1}",0.84
+leader,6,111,4,"{'dick': 3, 'crap': 1}",3.6
+female,6,22,0,{},0.0
+dental floss,5,29,1,{'sucks': 1},3.45
+toothbrush,5,29,0,{},0.0
+male,5,27,0,{},0.0
+cast,4,78,0,{},0.0
+tooth,4,31,0,{},0.0
+anchor,3,105,1,{'fuck': 1},0.95
+sgt yates,3,40,1,{'bitch': 1},2.5
+dentist,2,11,0,{},0.0
+baby,2,9,0,{},0.0
+group,2,3,0,{},0.0
+canadian pm,1,155,3,"{'strip': 1, 'dick': 1, 'god': 1}",1.94
+geddy lee,1,20,0,{},0.0
+pianist,1,16,0,{},0.0
+cartman,1,13,0,{},0.0
+tooth decay,1,9,0,{},0.0
+officer,1,9,0,{},0.0
+stan,1,9,0,{},0.0
+the giant,1,8,0,{},0.0
+hard candy,1,7,0,{},0.0
+canadian 1,1,6,0,{},0.0
+suicide 1,1,5,0,{},0.0
+toothpaste,1,5,0,{},0.0
+suicide 7,1,4,0,{},0.0
+canadian 2,1,3,0,{},0.0
+another kindergartner,1,2,0,{},0.0
+suicide 2,1,1,0,{},0.0
+suicide 3,1,1,0,{},0.0
+suicide 4,1,1,0,{},0.0
+suicide 5,1,1,0,{},0.0
+suicide 6,1,1,0,{},0.0
+mr garrison,1,1,0,{},0.0
+canadian 3,1,1,0,{},0.0

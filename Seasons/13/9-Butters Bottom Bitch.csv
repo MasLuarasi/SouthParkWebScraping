@@ -1,0 +1,40 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+butters,76,1466,49,"{'bitch': 17, 'bitches': 9, 'pimp': 5, 'motherfuckin': 5, 'gals': 4, 'stupid': 3, 'fuckin': 2, 'pimps': 2, 'hell': 1, 'dick': 1}",3.34
+yates,35,549,23,"{'sex': 4, 'oral': 3, 'pimp': 3, 'prostitute': 2, 'anal': 2, 'fuck': 2, 'whore': 2, 'penis': 1, 'prostitutes': 1, 'stupid': 1, 'drunk': 1, 'bitch': 1}",4.19
+sally,14,68,1,{'screw': 1},1.47
+driver 2,11,76,1,{'god': 1},1.32
+cartman,9,135,3,"{'douchebag': 1, 'god': 1, 'damn': 1}",2.22
+receptionist,9,48,0,{},0.0
+kyle,8,110,1,{'pimp': 1},0.91
+bishop,7,142,13,"{'bitch': 8, 'pimp': 3, 'bitches': 2}",9.15
+keshawn,7,73,2,"{'bitch': 1, 'pimp': 1}",2.74
+murphy,6,83,1,{'prostitutes': 1},1.2
+stan,6,52,3,"{'hell': 1, 'bitch': 1, 'ass': 1}",5.77
+charise,5,41,2,{'bitch': 2},4.88
+driver,5,33,0,{},0.0
+clyde,4,52,0,{},0.0
+bebe,3,4,0,{},0.0
+pimp 2,2,65,10,"{'bitchs': 2, 'pimp': 2, 'motherfuckin': 2, 'bitches': 2, 'stupid': 1, 'shit': 1}",15.38
+black bitch,2,34,5,"{'pimp': 2, 'damn': 1, 'bitch': 1, 'ass': 1}",14.71
+mr garrison,2,23,0,{},0.0
+stephen,2,18,0,{},0.0
+jimmy,2,17,0,{},0.0
+white bitch,2,13,3,"{'asshole': 1, 'pimp': 1, 'ass': 1}",23.08
+scott,2,12,0,{},0.0
+wendy,2,4,0,{},0.0
+frat boy 3,1,24,0,{},0.0
+singer,1,8,1,{'titties': 1},12.5
+supervisor,1,8,0,{},0.0
+annie,1,8,0,{},0.0
+boss,1,8,0,{},0.0
+officer,1,5,0,{},0.0
+frat boy 1,1,4,0,{},0.0
+francis,1,3,0,{},0.0
+tweek,1,3,0,{},0.0
+kevin,1,3,0,{},0.0
+craig,1,2,0,{},0.0
+megan,1,2,0,{},0.0
+kenny,1,2,0,{},0.0
+kids,1,1,0,{},0.0
+frat boy 2,1,1,0,{},0.0
+frat boys,1,1,0,{},0.0

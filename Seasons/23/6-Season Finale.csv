@@ -1,0 +1,39 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+randy,35,917,13,"{'weed': 8, 'hell': 1, 'poop': 1, 'shitty': 1, 'ass': 1, 'fuck': 1}",1.42
+bob,28,510,1,{'weed': 1},0.2
+mrs white,16,161,0,{},0.0
+jeff,10,192,0,{},0.0
+garrison,10,166,2,"{'shit': 1, 'fuck': 1}",1.2
+sharon,10,163,0,{},0.0
+cartman,8,101,10,"{'titty': 3, 'farts': 3, 'pubic': 3, 'shitty': 1}",9.9
+mayor,7,132,0,{},0.0
+giuliani,7,103,2,"{'fuck': 1, 'puss': 1}",1.94
+alejandro,7,42,0,{},0.0
+shelly,6,24,0,{},0.0
+doctor,4,67,0,{},0.0
+stan,4,30,0,{},0.0
+crystal,4,21,0,{},0.0
+field reporter,2,39,0,{},0.0
+kyle,2,35,1,{'stupid': 1},2.86
+sheila,2,35,0,{},0.0
+towelie,2,26,0,{},0.0
+agent,2,25,0,{},0.0
+butters,2,19,0,{},0.0
+crowd,2,16,0,{},0.0
+officer peterson,2,12,0,{},0.0
+jason,2,7,0,{},0.0
+anchor,1,49,2,"{'bullshit': 1, 'tampon': 1}",4.08
+fr maxi,1,39,0,{},0.0
+linda black,1,26,0,{},0.0
+mayor mcdaniels,1,22,0,{},0.0
+officer 2,1,11,0,{},0.0
+reporters,1,10,0,{},0.0
+reporter,1,9,0,{},0.0
+baja shepherd,1,8,0,{},0.0
+announcer,1,7,0,{},0.0
+man with orange shirt,1,6,1,{'god': 1},16.67
+the whites,1,6,0,{},0.0
+mexican,1,4,0,{},0.0
+panamanian,1,4,0,{},0.0
+townswoman,1,4,0,{},0.0
+officer 1,1,2,0,{},0.0

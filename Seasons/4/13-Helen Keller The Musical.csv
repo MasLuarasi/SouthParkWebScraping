@@ -1,0 +1,41 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+cartman,53,798,16,"{'hell': 5, 'god': 3, 'crap': 2, 'bitch': 1, 'retarded': 1, 'boner': 1, 'asshole': 1, 'bastards': 1, 'assholes': 1}",2.01
+timmy,33,72,0,{},0.0
+kyle,27,257,4,"{'pissed': 1, 'god': 1, 'ass': 1, 'piss': 1}",1.56
+lamond,22,397,1,{'kill': 1},0.25
+jeffrey,15,160,0,{},0.0
+stan,14,80,2,"{'god': 1, 'asses': 1}",2.5
+wendy,12,85,0,{},0.0
+kids,10,59,0,{},0.0
+clyde,9,71,0,{},0.0
+bebe,8,54,0,{},0.0
+rancher,7,89,0,{},0.0
+butters,6,85,0,{},0.0
+jimbo,6,65,1,{'god': 1},1.54
+jeffrey maynard,5,93,0,{},0.0
+mr garrison,4,50,0,{},0.0
+principal victoria,4,39,1,{'stoned': 1},2.56
+installer,3,33,0,{},0.0
+sharon,3,22,0,{},0.0
+liane,3,18,0,{},0.0
+tolkien,3,17,1,{'sucks': 1},5.88
+sheila,3,14,0,{},0.0
+actors,2,40,0,{},0.0
+boy,2,13,0,{},0.0
+man,2,10,0,{},0.0
+gerald,2,10,0,{},0.0
+kindergartners,2,8,0,{},0.0
+elderly man,1,26,0,{},0.0
+mr mackey,1,19,0,{},0.0
+randy,1,18,0,{},0.0
+woman,1,16,0,{},0.0
+driver,1,14,0,{},0.0
+father,1,9,0,{},0.0
+lady,1,9,0,{},0.0
+cartma,1,8,0,{},0.0
+kelly,1,6,0,{},0.0
+wrangler,1,5,0,{},0.0
+heidi,1,3,0,{},0.0
+hes not gonna work kyle the whole point was to make our play better than the kindergartners,1,1,0,{},0.0
+others,1,1,0,{},0.0
+pilgrim girl,1,1,0,{},0.0

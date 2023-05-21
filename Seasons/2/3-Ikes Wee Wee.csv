@@ -1,0 +1,46 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+mr mackey,85,784,2,"{'bullshit': 1, 'hell': 1}",0.26
+kyle,73,661,12,"{'hell': 2, 'fat': 1, 'fuck': 1, 'dong': 1, 'penis': 1, 'dummy': 1, 'asshole': 1, 'stupid': 1, 'bastards': 1, 'ass': 1, 'weirdo': 1}",1.82
+stan,33,255,3,"{'sucked': 1, 'penis': 1, 'god': 1}",1.18
+sheila,33,236,3,"{'god': 1, 'ass': 1, 'bastard': 1}",1.27
+cartman,29,232,10,"{'hell': 3, 'ass': 2, 'screw': 2, 'penis': 2, 'suck': 1}",4.31
+ike,18,51,0,{},0.0
+chef,17,170,1,{'hell': 1},0.59
+gerald,12,115,1,{'ass': 1},0.87
+dr schwartz,9,97,0,{},0.0
+social worker,9,95,0,{},0.0
+principal victoria,8,161,3,"{'stupid': 1, 'hell': 1, 'vomit': 1}",1.86
+clerk,6,73,1,{'hell': 1},1.37
+blonde,6,45,0,{},0.0
+hobo,6,27,0,{},0.0
+mr freely,5,70,1,{'kill': 1},1.43
+bartender,5,46,0,{},0.0
+teen 1,5,39,0,{},0.0
+mackey,4,47,0,{},0.0
+jimbo,4,27,1,{'damn': 1},3.7
+kenny,4,11,1,{'penis': 1},9.09
+boys,4,7,0,{},0.0
+mr garrison,3,55,0,{},0.0
+teen 2,3,20,1,{'weed': 1},5.0
+father maxi,2,30,0,{},0.0
+guest,2,15,0,{},0.0
+mr allen,1,19,0,{},0.0
+driver 3s passenger,1,17,2,"{'stupid': 1, 'damn': 1}",11.76
+angel,1,15,2,"{'hell': 1, 'pussy': 1}",13.33
+female passenger,1,15,1,{'pot': 1},6.67
+woman,1,15,0,{},0.0
+driver 3,1,10,0,{},0.0
+landlord,1,10,0,{},0.0
+barkeep,1,10,0,{},0.0
+devil,1,9,0,{},0.0
+stan cartman,1,9,0,{},0.0
+sheila gerald,1,8,2,{'pee': 2},25.0
+driver 5,1,8,0,{},0.0
+announcer,1,7,0,{},0.0
+driver 4,1,6,0,{},0.0
+uncle murray,1,6,0,{},0.0
+dr schwartsz,1,4,0,{},0.0
+gerald sheila,1,3,0,{},0.0
+driver 2,1,2,0,{},0.0
+mrs crabtree,1,1,0,{},0.0
+driver,1,1,0,{},0.0

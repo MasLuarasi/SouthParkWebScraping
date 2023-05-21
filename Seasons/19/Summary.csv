@@ -1,0 +1,237 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+cartman,247,3767,68,"{'gay': 13, 'god': 10, 'fuck': 9, 'fat': 4, 'fuckin': 4, 'dick': 4, 'shit': 3, 'hell': 3, 'poop': 2, 'sex': 2, 'ass': 2, 'fucking': 2, 'raping': 1, 'asshole': 1, 'raped': 1, 'sucked': 1, 'willy': 1, 'stupid': 1, 'kill': 1, 'slave': 1, 'titties': 1, 'suck': 1}",1.81
+randy,198,2899,60,"{'gay': 15, 'god': 5, 'yaoi': 4, 'shit': 4, 'hell': 4, 'kill': 3, 'sucks': 2, 'stupid': 2, 'pussy': 2, 'ass': 2, 'fucking': 2, 'dicks': 1, 'dong': 1, 'ugly': 1, 'shitty': 1, 'screw': 1, 'asshole': 1, 'dick': 1, 'goddamned': 1, 'anal': 1, 'rape': 1, 'goddammit': 1, 'fuck': 1, 'bastard': 1, 'damn': 1, 'bitch': 1}",2.07
+pc principal,144,3075,56,"{'fuckin': 9, 'fuck': 8, 'penis': 5, 'shit': 4, 'retarded': 4, 'fucking': 3, 'gay': 3, 'pussy': 2, 'puss': 2, 'hitler': 2, 'hell': 2, 'kill': 2, 'wombs': 1, 'suck': 1, 'bullshit': 1, 'sexual': 1, 'shits': 1, 'asshole': 1, 'asses': 1, 'cunnilingus': 1, 'fucker': 1, 'pisses': 1}",1.82
+kyle,135,1480,32,"{'fuck': 4, 'hell': 4, 'fat': 3, 'gay': 3, 'goddammit': 3, 'ass': 2, 'shit': 2, 'fucking': 2, 'bitch': 2, 'kill': 2, 'stupid': 1, 'willys': 1, 'yaoi': 1, 'fatass': 1, 'goddamned': 1}",2.16
+butters,116,1029,16,"{'god': 6, 'fat': 2, 'dick': 2, 'shit': 1, 'ugly': 1, 'asshole': 1, 'vagina': 1, 'fuckers': 1, 'stupid': 1}",1.55
+stan,96,761,15,"{'gay': 4, 'hell': 3, 'fuck': 2, 'dicks': 1, 'pissed': 1, 'yaoi': 1, 'stupid': 1, 'bitch': 1, 'god': 1}",1.97
+jimmy,87,1272,12,"{'retarded': 3, 'dick': 3, 'yaoi': 1, 'suck': 1, 'stupid': 1, 'ass': 1, 'pussy': 1, 'shit': 1}",0.94
+mr garrison,57,998,38,"{'fuck': 11, 'hell': 5, 'goddamned': 4, 'shit': 4, 'fucking': 2, 'stupid': 1, 'screw': 1, 'pissed': 1, 'suck': 1, 'dick': 1, 'fucked': 1, 'goddammit': 1, 'ass': 1, 'bitch': 1, 'asshole': 1, 'weirdo': 1, 'gay': 1}",3.81
+leslie,39,566,4,"{'god': 2, 'dick': 1, 'kill': 1}",0.71
+tweek,37,347,8,"{'god': 2, 'fuckin': 2, 'gay': 1, 'penis': 1, 'hell': 1, 'shit': 1}",2.31
+gerald,36,415,4,"{'hell': 1, 'ass': 1, 'god': 1, 'fat': 1}",0.96
+craig,35,348,11,"{'gay': 7, 'fuck': 1, 'fuckin': 1, 'goddammit': 1, 'shit': 1}",3.16
+mayor mcdaniels,34,594,2,"{'shit': 1, 'ass': 1}",0.34
+barbrady,34,287,2,"{'god': 1, 'kill': 1}",0.7
+nathan,31,439,2,"{'piss': 1, 'prostitutes': 1}",0.46
+cashier,30,539,1,{'vodka': 1},0.19
+sharon,29,255,2,"{'gay': 1, 'pussy': 1}",0.78
+tuong lu kim,24,669,21,"{'shitty': 17, 'hell': 1, 'ass': 1, 'fuck': 1, 'asses': 1}",3.14
+tom,23,317,7,"{'dick': 4, 'bitch': 1, 'hell': 1, 'douche': 1}",2.21
+sgt yates,21,353,2,"{'fuck': 1, 'shit': 1}",0.57
+cupid me,21,201,4,"{'pee': 2, 'fuck': 1, 'prick': 1}",1.99
+garrison,21,228,10,"{'hell': 2, 'god': 2, 'bitch': 2, 'ass': 1, 'dickhead': 1, 'assholes': 1, 'asshole': 1}",4.39
+stephen,20,535,2,"{'shitty': 1, 'bullshit': 1}",0.37
+stuart,20,230,9,"{'damn': 2, 'fuck': 1, 'ass': 1, 'bitch': 1, 'goddammit': 1, 'fuckin': 1, 'drunk': 1, 'god': 1}",3.91
+liane,20,156,0,{},0.0
+mr mackey,19,317,2,"{'rape': 1, 'damn': 1}",0.63
+thomas,18,349,7,"{'gay': 3, 'asshole': 1, 'fucked': 1, 'god': 1, 'raped': 1}",2.01
+lead singer,16,105,3,"{'cum': 1, 'piss': 1, 'shit': 1}",2.86
+mr rodriguez,15,155,0,{},0.0
+backup singers,15,49,11,{'cum': 11},22.45
+kenny,14,75,4,"{'fuck': 2, 'fucking': 1, 'fuckin': 1}",5.33
+tolkien,14,149,4,"{'assholes': 1, 'asses': 1, 'ass': 1, 'gay': 1}",2.68
+davíd,14,94,0,{},0.0
+agent,14,263,0,{},0.0
+principal victoria,14,178,0,{},0.0
+charlotte,13,116,0,{},0.0
+whole foods rep,13,168,0,{},0.0
+david,13,184,4,"{'bullshit': 1, 'ass': 1, 'prick': 1, 'maxi': 1}",2.17
+caitlyn,13,82,9,"{'asshole': 3, 'fuck': 2, 'shit': 1, 'god': 1, 'stupid': 1, 'bitch': 1}",10.98
+johnson,12,102,1,{'shit': 1},0.98
+japanese singer,12,67,0,{},0.0
+reality,11,270,17,"{'fuck': 6, 'shit': 4, 'fat': 2, 'kill': 1, 'stupid': 1, 'bitch': 1, 'pricks': 1, 'sucked': 1}",6.3
+pc bros,10,45,1,{'fuck': 1},2.22
+mr president,10,97,6,"{'suck': 3, 'pussy': 1, 'homos': 1, 'stupid': 1}",6.19
+barkley,10,70,3,"{'god': 2, 'assholes': 1}",4.29
+pc bro 11,10,207,2,"{'penis': 1, 'puss': 1}",0.97
+classi,10,131,14,"{'ass': 4, 'dick': 3, 'fucks': 2, 'fuckin': 2, 'hell': 1, 'asshole': 1, 'bitch': 1}",10.69
+richard,9,138,2,{'gay': 2},1.45
+wendy,9,145,4,{'yaoi': 4},2.76
+pc bro 1,8,61,4,"{'fuckin': 3, 'hell': 1}",6.56
+male food critic,8,102,2,"{'willy': 1, 'hell': 1}",1.96
+demi lovato,8,159,1,{'god': 1},0.63
+pc bro 2,7,50,1,{'fuck': 1},2.0
+guard,7,74,2,"{'raping': 1, 'shit': 1}",2.7
+mom,7,39,0,{},0.0
+representative,7,173,0,{},0.0
+shelly,7,56,2,{'god': 2},3.57
+weathers,7,82,1,{'god': 1},1.22
+commissioner cartman,6,60,5,"{'fuck': 4, 'fucking': 1}",8.33
+jimbo,6,83,0,{},0.0
+clyde,6,48,0,{},0.0
+officer barbrady,6,46,1,{'god': 1},2.17
+whistlin willy,6,94,9,"{'fuck': 4, 'willys': 1, 'hell': 1, 'asses': 1, 'fuckin': 1, 'bitches': 1}",9.57
+all,6,39,0,{},0.0
+skeeter,6,59,0,{},0.0
+announcer,6,100,0,{},0.0
+victoria,6,133,1,{'shitty': 1},0.75
+cartman brady,5,43,3,{'fuck': 3},6.98
+pc bro 4,5,43,1,{'fuck': 1},2.33
+ryan,5,40,0,{},0.0
+rancher,5,78,0,{},0.0
+sheila,5,49,0,{},0.0
+pc bro 5,4,16,2,{'fuck': 2},12.5
+caitlyn jenner,4,22,0,{},0.0
+anchor tom,4,120,2,"{'fuck': 1, 'willys': 1}",1.67
+aide,4,39,1,{'god': 1},2.56
+voice,4,399,0,{},0.0
+fr maxi,4,41,0,{},0.0
+karen,4,22,0,{},0.0
+carol,4,31,0,{},0.0
+waiter,4,30,0,{},0.0
+yates,4,96,0,{},0.0
+maggie,4,34,0,{},0.0
+reporter,4,160,1,{'pussy': 1},0.62
+seagal,4,14,0,{},0.0
+xi jinping,4,22,0,{},0.0
+isis leader,4,54,0,{},0.0
+pc bro 14,4,120,4,"{'fuckin': 2, 'pussy': 2}",3.33
+mrs nelson,4,65,0,{},0.0
+kevin,4,60,1,{'kill': 1},1.67
+boys,3,3,0,{},0.0
+topher,3,68,1,{'puss': 1},1.47
+pc bro 9,3,35,1,{'puss': 1},2.86
+president obama,3,131,0,{},0.0
+dad,3,63,0,{},0.0
+mr garrsion,3,22,0,{},0.0
+man,3,30,2,{'god': 2},6.67
+teacher,3,60,0,{},0.0
+man 2,3,18,0,{},0.0
+geralds review,3,114,1,{'hell': 1},0.88
+greeter,3,26,0,{},0.0
+other yelpers,3,9,0,{},0.0
+mrs rodriguez,3,8,0,{},0.0
+steven seagal,3,159,3,"{'fat': 2, 'turd': 1}",1.89
+girls,3,3,0,{},0.0
+anchor,3,87,0,{},0.0
+blonde,3,17,0,{},0.0
+pc bro 3,2,34,0,{},0.0
+coach brady,2,25,1,{'fuck': 1},4.0
+janitor,2,23,0,{},0.0
+pc bro 6,2,10,0,{},0.0
+pc bro 7,2,11,0,{},0.0
+townsman,2,3,0,{},0.0
+field reporter,2,44,1,{'fuck': 1},2.27
+female politician,2,17,0,{},0.0
+supporters,2,14,0,{},0.0
+architect,2,63,0,{},0.0
+mike,2,5,0,{},0.0
+girl,2,7,0,{},0.0
+female food critic,2,17,0,{},0.0
+a yelper,2,8,0,{},0.0
+female shopper,2,11,0,{},0.0
+boy,2,5,0,{},0.0
+girl 1,2,18,0,{},0.0
+laura,2,5,0,{},0.0
+homeless man 7,2,16,1,{'gay': 1},6.25
+homeless man 6,2,10,0,{},0.0
+ninjas,2,2,0,{},0.0
+hillary,2,33,0,{},0.0
+brad,2,29,0,{},0.0
+pc bro 16,2,19,1,{'fuck': 1},5.26
+friend,1,8,0,{},0.0
+pc bro 8,1,6,0,{},0.0
+coach cartman,1,5,0,{},0.0
+a passing bro,1,4,0,{},0.0
+pregnant mexican women,1,3,0,{},0.0
+various adults,1,2,0,{},0.0
+pledges,1,2,0,{},0.0
+gerald and kyle,1,1,0,{},0.0
+pledge 1,1,1,0,{},0.0
+pledge 2,1,1,0,{},0.0
+a pc bro,1,1,0,{},0.0
+mr stkrdknmibalz,1,54,1,{'dick': 1},1.85
+dan,1,25,0,{},0.0
+richard adler,1,20,0,{},0.0
+canadian kid 1,1,19,0,{},0.0
+canadian 6,1,14,1,{'fucked': 1},7.14
+male politician,1,14,0,{},0.0
+three students dressed in native american garb,1,11,0,{},0.0
+five students dressed in european clothing,1,10,0,{},0.0
+canadians,1,10,0,{},0.0
+class,1,7,0,{},0.0
+canadian 4,1,5,0,{},0.0
+canadian 5,1,5,0,{},0.0
+supporter 3,1,4,0,{},0.0
+canadian kid 2,1,3,0,{},0.0
+supporter 2,1,3,0,{},0.0
+supporter 4,1,3,0,{},0.0
+canadian 1,1,2,0,{},0.0
+canadian 2,1,2,0,{},0.0
+canadian 3,1,2,0,{},0.0
+stan craig kenny clyde tolkien,1,2,0,{},0.0
+canadian 7,1,2,0,{},0.0
+kindergartner,1,1,0,{},0.0
+supporter 1,1,1,0,{},0.0
+jimmy fallon,1,126,2,"{'shit': 1, 'rape': 1}",1.59
+townfolk,1,14,1,{'bitch': 1},7.14
+man 3,1,9,0,{},0.0
+det harris,1,6,0,{},0.0
+diner,1,2,0,{},0.0
+bob,1,1,0,{},0.0
+diner 1,1,32,0,{},0.0
+yelper 4,1,26,0,{},0.0
+yelper 1,1,24,0,{},0.0
+yelper 3,1,14,0,{},0.0
+waiter 2,1,11,1,{'cum': 1},9.09
+yelpers,1,11,0,{},0.0
+dr doctor,1,10,1,{'cum': 1},10.0
+diner 2,1,10,0,{},0.0
+diner 3,1,10,0,{},0.0
+diner 4,1,9,0,{},0.0
+yelper 2,1,6,0,{},0.0
+a reviewer,1,5,0,{},0.0
+all singers,1,3,1,{'cum': 1},33.33
+chef,1,3,0,{},0.0
+son,1,2,0,{},0.0
+mr davis,1,1,0,{},0.0
+gigi,1,21,0,{},0.0
+cartman and seagal,1,11,0,{},0.0
+plus sized models,1,3,0,{},0.0
+man with cap,1,3,0,{},0.0
+guest,1,3,0,{},0.0
+woman 2,1,1,1,{'dyke': 1},100.0
+fat woman,1,1,0,{},0.0
+girl 2,1,12,0,{},0.0
+bartender,1,9,0,{},0.0
+girl 3,1,8,0,{},0.0
+delivery man,1,6,0,{},0.0
+man 1,1,6,0,{},0.0
+mrs tweek,1,5,0,{},0.0
+patron,1,15,0,{},0.0
+homeless man 4,1,13,0,{},0.0
+driver,1,12,0,{},0.0
+marvin,1,10,1,{'shit': 1},10.0
+homeless man 3,1,10,1,{'bitch': 1},10.0
+homeless man 1,1,9,0,{},0.0
+homeless man 2,1,5,0,{},0.0
+officer 2,1,5,0,{},0.0
+officer 1,1,4,0,{},0.0
+mitch,1,3,0,{},0.0
+passenger,1,3,0,{},0.0
+homeless man 5,1,3,0,{},0.0
+moderator,1,28,0,{},0.0
+pc bro 18,1,17,0,{},0.0
+pc bro 17,1,11,0,{},0.0
+pc bro 15,1,7,0,{},0.0
+computer,1,7,0,{},0.0
+everyone,1,5,1,{'fuck': 1},20.0
+mckinsey,1,5,0,{},0.0
+pc bro 10,1,4,0,{},0.0
+agent 3,1,4,0,{},0.0
+pc bro 12,1,3,0,{},0.0
+agent 2,1,3,0,{},0.0
+other bros,1,2,1,{'hell': 1},50.0
+pc bro 13,1,2,0,{},0.0
+ladies,1,1,0,{},0.0
+pc bro 19,1,1,0,{},0.0
+clerk,1,32,0,{},0.0
+the chevy ad,1,17,0,{},0.0
+newsman,1,12,1,{'douche': 1},8.33
+survey worker,1,9,1,{'gay': 1},11.11
+randy singing,1,7,0,{},0.0
+newsman 2,1,6,0,{},0.0
+russian 3,1,10,0,{},0.0
+russian 2,1,5,0,{},0.0
+russian 1,1,3,0,{},0.0

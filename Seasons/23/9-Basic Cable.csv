@@ -1,0 +1,42 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+scott,64,526,11,"{'god': 4, 'shit': 3, 'asshole': 2, 'fucking': 1, 'assholes': 1}",2.09
+sophie,33,420,4,"{'shit': 2, 'fucking': 1, 'sucks': 1}",0.95
+clark,25,494,12,"{'fucking': 4, 'shit': 2, 'assholes': 1, 'hell': 1, 'asses': 1, 'bitches': 1, 'fuck': 1, 'god': 1}",2.43
+cartman,19,213,0,{},0.0
+nathan,7,81,2,"{'god': 1, 'shit': 1}",2.47
+stan,7,42,1,{'hell': 1},2.38
+jimmy,6,77,1,{'boner': 1},1.3
+pete,6,46,0,{},0.0
+stephen,4,53,0,{},0.0
+announcer,4,43,3,{'queef': 3},6.98
+scotts dad,3,54,6,"{'fucking': 3, 'shit': 2, 'hell': 1}",11.11
+dispatcher,3,40,0,{},0.0
+dave,3,29,0,{},0.0
+dean,3,20,0,{},0.0
+mr mackey,2,56,0,{},0.0
+sheriff,2,19,0,{},0.0
+kyle,2,14,0,{},0.0
+repairman 2,2,11,0,{},0.0
+clyde,2,8,0,{},0.0
+scotts mom,2,6,0,{},0.0
+the other workers,2,3,0,{},0.0
+timmy,2,2,0,{},0.0
+sophie gray,1,37,0,{},0.0
+woman,1,20,0,{},0.0
+a boy,1,18,0,{},0.0
+bob white,1,18,0,{},0.0
+steve black,1,16,0,{},0.0
+repairman 1 bill,1,13,0,{},0.0
+both men,1,13,0,{},0.0
+linda s,1,9,1,{'stupid': 1},11.11
+cashier,1,8,0,{},0.0
+repairman 3 michael,1,6,0,{},0.0
+katie,1,6,0,{},0.0
+sophies mom,1,6,0,{},0.0
+repairman 2 kurt,1,5,0,{},0.0
+emory,1,5,0,{},0.0
+mrs malkinson,1,4,0,{},0.0
+katherine,1,4,0,{},0.0
+the boys,1,2,0,{},0.0
+kurt,1,1,0,{},0.0
+the repairmen,1,1,0,{},0.0

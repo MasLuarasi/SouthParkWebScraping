@@ -1,0 +1,55 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+wendy,43,483,4,"{'god': 3, 'stupid': 1}",0.83
+chef,38,595,11,"{'ass': 5, 'damn': 2, 'slave': 1, 'hell': 1, 'bastards': 1, 'god': 1}",1.85
+cartman,32,347,1,{'screw': 1},0.29
+jimbo,27,476,3,"{'god': 1, 'kkk': 1, 'klan': 1}",0.63
+kyle,20,216,5,"{'kill': 2, 'stupid': 2, 'pissed': 1}",2.31
+kkk leader,13,185,1,{'god': 1},0.54
+mr garrison,13,131,4,"{'klan': 2, 'bastard': 1, 'bitch': 1}",3.05
+stan,13,126,0,{},0.0
+mayor,11,266,0,{},0.0
+mr wyland,10,300,0,{},0.0
+kkk members,9,17,0,{},0.0
+the kkk,8,64,0,{},0.0
+reporter,6,129,2,"{'kkk': 1, 'klan': 1}",1.55
+ned,6,26,0,{},0.0
+man 2,6,24,0,{},0.0
+bebe,5,55,1,{'sexual': 1},1.82
+mr mackey,4,28,0,{},0.0
+man 1,4,28,0,{},0.0
+principal victoria,4,22,0,{},0.0
+kenny,4,21,1,{'fuck': 1},4.76
+man 3,4,13,0,{},0.0
+stan kyle,4,8,0,{},0.0
+gerald,3,19,0,{},0.0
+kyles team,3,3,0,{},0.0
+cartmans voice,2,6,0,{},0.0
+class,2,2,0,{},0.0
+randy,1,26,0,{},0.0
+johnson,1,18,0,{},0.0
+man 8,1,18,0,{},0.0
+man 4,1,17,0,{},0.0
+man 5,1,17,0,{},0.0
+officer barbrady,1,17,0,{},0.0
+assistant,1,15,0,{},0.0
+man 7,1,15,0,{},0.0
+man 9,1,13,0,{},0.0
+member 1,1,13,0,{},0.0
+member 2,1,13,0,{},0.0
+brother anderson,1,11,0,{},0.0
+man 6,1,10,0,{},0.0
+ticket 2974 holder,1,8,0,{},0.0
+wendy cartman,1,7,0,{},0.0
+sheila,1,6,1,{'klan': 1},16.67
+woman 2,1,6,0,{},0.0
+craig,1,3,0,{},0.0
+butters,1,3,0,{},0.0
+audience members,1,3,0,{},0.0
+really shocked man,1,2,1,{'god': 1},50.0
+monk,1,2,0,{},0.0
+a member,1,2,0,{},0.0
+man 2 woman 2,1,1,0,{},0.0
+clyde,1,1,0,{},0.0
+people in audience,1,1,0,{},0.0
+a few people,1,1,0,{},0.0
+some kkk members,1,1,0,{},0.0

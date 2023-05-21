@@ -1,0 +1,22 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+kyle,63,845,16,"{'hell': 4, 'god': 3, 'stupid': 2, 'fucking': 2, 'goddamn': 1, 'screwed': 1, 'fuck': 1, 'damn': 1, 'shit': 1}",1.89
+prince,27,345,4,"{'hell': 2, 'bitch': 1, 'penis': 1}",1.16
+mr davis,22,558,0,{},0.0
+butters,14,219,6,"{'fuck': 2, 'fucking': 2, 'slut': 1, 'bitch': 1}",2.74
+princess,13,155,2,"{'stupid': 1, 'god': 1}",1.29
+stan,12,99,1,{'stupid': 1},1.01
+cartman,8,41,0,{},0.0
+host,7,138,1,{'bitch': 1},0.72
+prince and princess,6,36,0,{},0.0
+ike,6,17,1,{'fuck': 1},5.88
+announcer,5,177,0,{},0.0
+tolkien,4,53,1,{'fucking': 1},1.89
+bebe,4,36,4,"{'shit': 2, 'fucker': 1, 'ass': 1}",11.11
+jimmy,4,36,1,{'shit': 1},2.78
+officer,2,24,0,{},0.0
+kenny,2,8,0,{},0.0
+prince of canada,1,23,0,{},0.0
+reporter,1,14,0,{},0.0
+sir smelly john,1,3,0,{},0.0
+a girl,1,1,0,{},0.0
+a boy,1,1,0,{},0.0

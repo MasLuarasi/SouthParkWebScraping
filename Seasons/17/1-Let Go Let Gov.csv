@@ -1,0 +1,38 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+cartman,66,1100,9,"{'fat': 2, 'boner': 1, 'stupid': 1, 'hell': 1, 'shitter': 1, 'pissed': 1, 'fuck': 1, 'fucking': 1}",0.82
+butters,32,800,5,"{'god': 4, 'whore': 1}",0.62
+lawrence,14,74,0,{},0.0
+pamphleteer,10,261,0,{},0.0
+joe,9,239,2,"{'anus': 1, 'crap': 1}",0.84
+alec baldwin,8,174,4,"{'shitter': 3, 'faggot': 1}",2.3
+kyle,8,113,9,"{'bitch': 3, 'stupid': 1, 'pussy': 1, 'skank': 1, 'goddamned': 1, 'shit': 1, 'hell': 1}",7.96
+liane,6,50,0,{},0.0
+craig,6,31,0,{},0.0
+chief joe,5,119,0,{},0.0
+chief,4,83,0,{},0.0
+barbrady,4,45,2,{'masturbate': 2},4.44
+hippie,4,44,0,{},0.0
+group,4,31,1,{'god': 1},3.23
+toby,4,19,0,{},0.0
+larry,3,147,1,{'hell': 1},0.68
+detective,3,36,0,{},0.0
+receptionist,3,19,0,{},0.0
+larson,2,58,0,{},0.0
+miller,2,54,0,{},0.0
+detective 3,2,41,0,{},0.0
+detective 4,2,13,0,{},0.0
+clerk 2,2,11,0,{},0.0
+clyde,2,8,2,{'shitter': 2},25.0
+clerk,2,8,0,{},0.0
+colleague,2,3,0,{},0.0
+news anchor,1,101,2,{'sex': 2},1.98
+jarvis,1,19,1,{'fat': 1},5.26
+customer 2,1,15,0,{},0.0
+patricia,1,12,0,{},0.0
+clerk 3,1,12,0,{},0.0
+paul,1,11,0,{},0.0
+customer,1,10,0,{},0.0
+man,1,9,0,{},0.0
+terrance,1,6,0,{},0.0
+date,1,4,0,{},0.0
+stan,1,1,0,{},0.0

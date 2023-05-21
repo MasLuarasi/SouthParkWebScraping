@@ -1,0 +1,40 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+cartman,35,737,7,"{'whore': 1, 'goddamn': 1, 'stupid': 1, 'asshole': 1, 'prick': 1, 'fuckin': 1, 'fuck': 1}",0.95
+butters,28,262,1,{'pissed': 1},0.38
+george r r martin,15,288,0,{},0.0
+niles,13,374,3,"{'sex': 1, 'fuck': 1, 'fucking': 1}",0.8
+scott,13,71,2,"{'god': 1, 'shit': 1}",2.82
+gates,10,248,1,{'shit': 1},0.4
+ballmer,10,165,0,{},0.0
+kyle,9,119,0,{},0.0
+stan,7,89,4,"{'fat': 1, 'ass': 1, 'buttholes': 1, 'gods': 1}",4.49
+randy,7,87,0,{},0.0
+thompson,7,72,2,"{'damn': 1, 'fuck': 1}",2.78
+president,7,44,0,{},0.0
+kenny,5,38,3,"{'cock': 1, 'sucking': 1, 'faggot': 1}",7.89
+dave,4,60,0,{},0.0
+tammy,4,48,0,{},0.0
+tom,4,44,0,{},0.0
+chorus,4,32,0,{},0.0
+soloist,4,25,1,{'erect': 1},4.0
+butler,4,19,0,{},0.0
+john,3,28,0,{},0.0
+narrator,2,175,0,{},0.0
+aide,2,44,0,{},0.0
+secretary,2,17,0,{},0.0
+shopper 6,2,16,0,{},0.0
+carol,2,10,0,{},0.0
+announcer,1,16,0,{},0.0
+guard 3,1,12,0,{},0.0
+jimmy,1,10,0,{},0.0
+other kids,1,9,2,{'kill': 2},22.22
+guard 8,1,8,1,{'god': 1},12.5
+stuart,1,7,1,{'hell': 1},14.29
+shopper 7,1,6,0,{},0.0
+guard 9,1,5,1,{'god': 1},20.0
+craig,1,5,0,{},0.0
+guard 6,1,4,0,{},0.0
+guard 7,1,4,0,{},0.0
+guard 5,1,3,1,{'god': 1},33.33
+guard 4,1,1,0,{},0.0
+crowd,1,1,0,{},0.0

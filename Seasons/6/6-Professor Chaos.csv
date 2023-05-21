@@ -1,0 +1,36 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+butters,47,1092,2,"{'tampons': 1, 'kill': 1}",0.18
+cartman,46,728,4,"{'stupid': 1, 'sucked': 1, 'ass': 1, 'crap': 1}",0.55
+kyle,27,231,3,"{'retard': 1, 'fatass': 1, 'stoned': 1}",1.3
+stan,17,171,1,{'fatass': 1},0.58
+ms choksondik,12,151,0,{},0.0
+dougie,12,141,0,{},0.0
+jimmy,9,167,2,{'god': 2},1.2
+linda,5,39,0,{},0.0
+tweek,4,48,0,{},0.0
+pip,4,31,0,{},0.0
+towelie,3,25,0,{},0.0
+tolkien,3,13,0,{},0.0
+timmy,3,3,0,{},0.0
+announcer,2,67,0,{},0.0
+clyde,2,28,1,{'stupid': 1},3.57
+dogpoo petuski,1,30,0,{},0.0
+man 6,1,17,0,{},0.0
+man 1,1,13,0,{},0.0
+dogpoo,1,12,1,{'god': 1},8.33
+bennigans chef,1,12,0,{},0.0
+stephen,1,11,0,{},0.0
+woman,1,8,0,{},0.0
+man 2,1,7,0,{},0.0
+ride operator,1,7,0,{},0.0
+craig,1,7,0,{},0.0
+man 5,1,6,0,{},0.0
+worker 2,1,6,0,{},0.0
+vendor,1,5,0,{},0.0
+man 3,1,3,0,{},0.0
+fans,1,3,0,{},0.0
+worker 1,1,3,0,{},0.0
+man 4,1,2,1,{'god': 1},50.0
+stan cartman,1,1,0,{},0.0
+the class,1,1,0,{},0.0
+all,1,1,0,{},0.0

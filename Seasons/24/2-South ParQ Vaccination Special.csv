@@ -1,0 +1,76 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+cartman,76,1407,19,"{'god': 5, 'vagina': 2, 'ass': 2, 'fucking': 2, 'pissed': 1, 'damn': 1, 'bitch': 1, 'slut': 1, 'fuck': 1, 'stupid': 1, 'hell': 1, 'shit': 1}",1.35
+mr garrison,52,896,18,"{'hell': 4, 'gay': 3, 'shit': 2, 'fucking': 1, 'jackass': 1, 'god': 1, 'damn': 1, 'assholes': 1, 'jerk': 1, 'murder': 1, 'butthole': 1, 'pedophiles': 1}",2.01
+kyle,50,494,5,"{'crap': 2, 'stupid': 1, 'fucking': 1, 'shit': 1}",1.01
+stan,43,479,5,"{'shit': 2, 'hell': 1, 'stupid': 1, 'fuck': 1}",1.04
+bob,21,416,4,"{'damn': 2, 'bitches': 1, 'bitch': 1}",0.96
+chris,15,441,14,"{'fuck': 3, 'fucking': 3, 'shit': 2, 'god': 1, 'damn': 1, 'dickhead': 1, 'cunt': 1, 'prick': 1, 'stupid': 1}",3.17
+mr mackey,14,314,13,"{'god': 4, 'damn': 4, 'fucking': 1, 'bitch': 1, 'stupid': 1, 'shit': 1, 'ass': 1}",4.14
+mrs nelson,14,256,1,{'crap': 1},0.39
+walgreens bouncer,14,129,3,"{'fuck': 1, 'fucking': 1, 'damn': 1}",2.33
+kenny,14,89,0,{},0.0
+scott,13,108,2,"{'dicks': 1, 'stupid': 1}",1.85
+female qanon tutor,10,184,4,"{'sex': 3, 'god': 1}",2.17
+tom,9,188,0,{},0.0
+bob white,8,333,8,"{'shit': 3, 'dick': 2, 'fuck': 2, 'penile': 1}",2.4
+gerald,7,158,1,{'kill': 1},0.63
+man with green coat,7,58,3,"{'suck': 2, 'stupid': 1}",5.17
+clark,5,78,2,"{'bitch': 1, 'screw': 1}",2.56
+elderly woman in wheelchair,5,60,1,{'goddamn': 1},1.67
+man with burgundy coat,5,38,0,{},0.0
+mr service,5,14,0,{},0.0
+bebe,4,45,0,{},0.0
+butters,4,41,1,{'shit': 1},2.44
+walgreens pharmacist,4,29,0,{},0.0
+elderly people,4,6,0,{},0.0
+jake angeli,3,76,1,{'pedophilia': 1},1.32
+pc principal,3,52,0,{},0.0
+stephen,3,47,0,{},0.0
+crystal,3,31,0,{},0.0
+clyde,3,21,0,{},0.0
+everyone in line,3,5,0,{},0.0
+advertiser,2,32,0,{},0.0
+marvin,2,29,1,{'pussy': 1},3.45
+richard,2,28,0,{},0.0
+tutornon member 1,2,27,0,{},0.0
+stephen stotch,2,26,1,{'suck': 1},3.85
+craig,2,26,0,{},0.0
+richard adler,2,21,0,{},0.0
+ellen,2,17,0,{},0.0
+qanon follower 1,2,13,0,{},0.0
+guitar singer,2,12,0,{},0.0
+father maxi,1,90,2,"{'damn': 1, 'screw': 1}",2.22
+randy,1,25,0,{},0.0
+unnamed shopper,1,18,0,{},0.0
+unnamed man 1,1,17,0,{},0.0
+unnamed man 2,1,15,0,{},0.0
+worker,1,14,0,{},0.0
+qanon member 2,1,13,0,{},0.0
+marvins friend 1,1,12,0,{},0.0
+unnamed man 8,1,12,0,{},0.0
+elderly man 2,1,11,0,{},0.0
+elderly man 3,1,11,0,{},0.0
+lil qties blonde girl,1,11,0,{},0.0
+dr alphonse mephesto,1,10,0,{},0.0
+unnamed man 3,1,9,1,{'shit': 1},11.11
+qanon follower 2,1,8,0,{},0.0
+crowd,1,8,0,{},0.0
+mrgarrison,1,7,1,{'hell': 1},14.29
+need a shot woman singer,1,7,0,{},0.0
+qanon member,1,6,0,{},0.0
+unnamed man 7,1,6,0,{},0.0
+lola,1,5,1,{'cocks': 1},20.0
+bus driver,1,5,0,{},0.0
+elderly man 1,1,4,0,{},0.0
+gnome 1,1,4,0,{},0.0
+gnome 2,1,4,0,{},0.0
+unnamed man 4,1,4,0,{},0.0
+unnamed man 5,1,4,0,{},0.0
+thompson,1,3,1,{'fuck': 1},33.33
+red,1,2,2,"{'stupid': 1, 'assholes': 1}",100.0
+elderly woman,1,2,0,{},0.0
+everyone,1,2,0,{},0.0
+unnamed man 6,1,2,0,{},0.0
+kids,1,1,0,{},0.0
+elderly men,1,1,0,{},0.0
+elderly man on motorcycle,1,1,0,{},0.0

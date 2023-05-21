@@ -1,0 +1,33 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+stan,64,581,10,"{'god': 3, 'crap': 2, 'stupid': 1, 'goddamn': 1, 'shit': 1, 'assholes': 1, 'sex': 1}",1.72
+cartman,60,776,14,"{'kill': 2, 'ass': 2, 'crap': 1, 'dumbass': 1, 'god': 1, 'shit': 1, 'asshole': 1, 'douchebag': 1, 'fags': 1, 'screw': 1, 'damn': 1, 'fuck': 1}",1.8
+kyle,57,537,14,"{'fatass': 3, 'god': 3, 'hell': 2, 'goddammit': 1, 'stupid': 1, 'asshole': 1, 'fucked': 1, 'screw': 1, 'kill': 1}",2.61
+butters,28,335,0,{},0.0
+craig,18,140,3,"{'hell': 2, 'shit': 1}",2.14
+roger,8,92,0,{},0.0
+kenny,8,26,0,{},0.0
+chef,6,54,0,{},0.0
+clyde,5,16,0,{},0.0
+linda,4,38,0,{},0.0
+tolkien,4,18,0,{},0.0
+vet,3,75,2,{'murder': 2},2.67
+jimmy,3,35,1,{'pussies': 1},2.86
+nurse,3,14,1,{'god': 1},7.14
+barker,2,100,1,{'hell': 1},1.0
+dr doctor,2,37,1,{'bastard': 1},2.7
+sheila,2,15,1,{'god': 1},6.67
+the boys,2,3,0,{},0.0
+announcer,1,127,0,{},0.0
+singer,1,51,0,{},0.0
+man 1,1,36,0,{},0.0
+skeeter,1,29,1,{'penis': 1},3.45
+man 2,1,27,1,{'penis': 1},3.7
+mayor mcdaniels,1,20,0,{},0.0
+gerald,1,13,0,{},0.0
+mr garrison,1,12,0,{},0.0
+assistant,1,10,0,{},0.0
+randy,1,4,0,{},0.0
+stan kyle cartman,1,3,0,{},0.0
+townsfolk,1,3,0,{},0.0
+all,1,1,0,{},0.0
+man,1,1,0,{},0.0

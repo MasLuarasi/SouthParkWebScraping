@@ -1,0 +1,44 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+randy,34,450,10,"{'god': 8, 'stupid': 1, 'kill': 1}",2.22
+craig,25,520,0,{},0.0
+stan,23,254,0,{},0.0
+michael chertoff,18,286,1,{'damn': 1},0.35
+sharon,18,116,2,"{'hell': 1, 'god': 1}",1.72
+kyle,16,112,1,{'dick': 1},0.89
+cartman,15,117,2,{'asshole': 2},1.71
+cpt taylor,14,160,1,{'god': 1},0.62
+top official,6,73,0,{},0.0
+shelly,6,22,1,{'kill': 1},4.55
+cpt gabriel,5,75,0,{},0.0
+kenny,5,14,2,"{'fucked': 1, 'fuckin': 1}",14.29
+stephen,4,25,1,{'god': 1},4.0
+connor,3,43,0,{},0.0
+top official 2,3,37,0,{},0.0
+official 1,3,29,0,{},0.0
+mr garrison,3,16,0,{},0.0
+soldier 5,2,30,0,{},0.0
+reporter,2,29,0,{},0.0
+soldier 6,2,9,0,{},0.0
+new director,2,8,1,{'god': 1},12.5
+an anchorman,1,20,0,{},0.0
+official 2,1,19,0,{},0.0
+official 3,1,16,0,{},0.0
+soldier 4,1,12,0,{},0.0
+townsman 1,1,10,0,{},0.0
+officer barbrady,1,8,0,{},0.0
+linda,1,7,0,{},0.0
+townsman 2,1,6,0,{},0.0
+a voice,1,5,0,{},0.0
+man,1,5,0,{},0.0
+soldier,1,4,0,{},0.0
+townsman 3,1,4,0,{},0.0
+townsman 4,1,4,0,{},0.0
+townsman 6,1,4,0,{},0.0
+townsman 7,1,4,0,{},0.0
+husband,1,4,0,{},0.0
+a woman,1,3,1,{'god': 1},33.33
+townsman 5,1,3,1,{'god': 1},33.33
+townswoman 2,1,2,1,{'kill': 1},50.0
+butters,1,2,0,{},0.0
+townswoman 1,1,2,0,{},0.0
+soldier 7,1,2,0,{},0.0

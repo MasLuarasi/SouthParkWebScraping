@@ -1,0 +1,25 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+cartman,53,755,13,"{'gay': 2, 'god': 2, 'asshole': 2, 'butthole': 1, 'fuck': 1, 'willy': 1, 'hell': 1, 'testicle': 1, 'kill': 1, 'sucks': 1}",1.72
+stan,43,555,3,"{'crap': 1, 'stupid': 1, 'kill': 1}",0.54
+kyle,30,370,3,"{'stupid': 1, 'pees': 1, 'testicle': 1}",0.81
+jimmy,24,416,2,"{'gods': 1, 'dick': 1}",0.48
+butters,23,267,4,"{'whiz': 2, 'stupid': 1, 'naked': 1}",1.5
+mr meryl,16,359,6,"{'lens': 4, 'gay': 1, 'testicles': 1}",1.67
+tolkien,12,147,0,{},0.0
+craig,7,78,1,{'lens': 1},1.28
+pharmacist,5,104,0,{},0.0
+announcer,3,85,0,{},0.0
+herbert garrison,2,25,0,{},0.0
+whistlin willy,2,20,0,{},0.0
+kenny,2,10,0,{},0.0
+the boys,2,7,0,{},0.0
+principal victoria,2,6,0,{},0.0
+mr slave,2,4,0,{},0.0
+raisins girls,2,2,0,{},0.0
+pete,1,8,1,{'fuckin': 1},12.5
+clyde,1,8,0,{},0.0
+bebe,1,8,0,{},0.0
+kid 1,1,4,0,{},0.0
+kevin,1,4,0,{},0.0
+kids,1,3,0,{},0.0
+bradley,1,1,0,{},0.0

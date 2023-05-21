@@ -1,0 +1,29 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+stan,50,469,16,"{'gay': 5, 'fucking': 3, 'kill': 2, 'hell': 1, 'fuck': 1, 'god': 1, 'shitting': 1, 'sexual': 1, 'stupid': 1}",3.41
+kyle,49,657,4,"{'sniper': 2, 'hell': 1, 'kill': 1}",0.61
+cartman,35,467,14,"{'fucking': 4, 'weiner': 2, 'crap': 2, 'god': 1, 'sucks': 1, 'sniper': 1, 'damn': 1, 'bitching': 1, 'shit': 1}",3.0
+gerald,28,273,1,{'god': 1},0.37
+stans teenager,24,211,15,"{'fucking': 5, 'stupid': 4, 'gay': 3, 'hell': 1, 'kill': 1, 'shit': 1}",7.11
+kenny,14,62,2,"{'fucking': 1, 'fuck': 1}",3.23
+airsoft referee,10,134,1,{'weiner': 1},0.75
+cartmans teenager,9,51,4,"{'dick': 2, 'fucking': 1, 'hell': 1}",7.84
+trevor,8,50,5,"{'fucking': 4, 'stupid': 1}",10.0
+teenager 1,8,40,2,{'weed': 2},5.0
+airsoft armory salesman,6,98,0,{},0.0
+randy,6,45,0,{},0.0
+teenager 3,6,17,0,{},0.0
+stuart,4,38,2,"{'pussy': 1, 'drunk': 1}",5.26
+mother,4,36,0,{},0.0
+kennys teenager,4,30,3,{'fucking': 3},10.0
+teenager 2,4,26,0,{},0.0
+teenager 4,4,22,2,"{'bitch': 1, 'weed': 1}",9.09
+jimbo,3,33,0,{},0.0
+teenagers,2,8,0,{},0.0
+sheila,1,10,0,{},0.0
+swamp sniper,1,7,0,{},0.0
+boys,1,4,1,{'kill': 1},25.0
+the teenagers,1,1,0,{},0.0
+teenager 5,1,1,0,{},0.0
+teenager 6,1,1,0,{},0.0
+teenager 7,1,1,0,{},0.0
+teenager 8,1,1,0,{},0.0

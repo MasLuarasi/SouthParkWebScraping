@@ -1,0 +1,19 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+pip,91,976,5,"{'kill': 2, 'arse': 1, 'ugly': 1, 'bitch': 1}",0.51
+ms havisham,32,443,0,{},0.0
+estella,32,299,3,"{'kill': 2, 'stupid': 1}",1.0
+joe,28,281,1,{'vaginas': 1},0.36
+pocket,27,633,5,"{'gay': 2, 'penetration': 1, 'sex': 1, 'god': 1}",0.79
+lawyer,11,201,0,{},0.0
+narrator,9,552,0,{},0.0
+escaped convict,8,96,1,{'arse': 1},1.04
+mrs joe,7,108,2,"{'hells': 1, 'bastard': 1}",1.85
+man,5,48,0,{},0.0
+girl,4,50,5,"{'bastard': 1, 'penis': 1, 'vomit': 1, 'stupid': 1, 'urine': 1}",10.0
+steve,4,44,1,{'hell': 1},2.27
+a boy,2,36,0,{},0.0
+man in middle,2,15,0,{},0.0
+dream estella,1,9,1,{'rectal': 1},11.11
+older boy,1,7,0,{},0.0
+boy,1,3,0,{},0.0
+robot monkey,1,1,0,{},0.0

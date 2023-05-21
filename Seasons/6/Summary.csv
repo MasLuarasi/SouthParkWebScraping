@@ -1,0 +1,380 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+cartman,717,8873,222,"{'god': 50, 'stupid': 19, 'crap': 15, 'hell': 12, 'fat': 10, 'poop': 10, 'ass': 8, 'asshole': 7, 'fuck': 5, 'sex': 5, 'kill': 5, 'bitch': 4, 'sucked': 4, 'pussy': 4, 'pissed': 4, 'seamen': 3, 'fucking': 3, 'suck': 3, 'goddamned': 3, 'douchebag': 3, 'hitler': 2, 'turd': 2, 'dumbasses': 2, 'goddammit': 2, 'buttholes': 2, 'vagina': 2, 'screwed': 2, 'butthole': 2, 'dick': 2, 'fatass': 2, 'damn': 2, 'assholes': 2, 'gay': 2, 'bitchin': 1, 'whiz': 1, 'boner': 1, 'queer': 1, 'skank': 1, 'pee': 1, 'testicles': 1, 'scrotum': 1, 'screw': 1, 'craps': 1, 'pussies': 1, 'sucks': 1, 'nutsack': 1, 'fuckin': 1, 'boobs': 1, 'piss': 1, 'fags': 1, 'slave': 1, 'shithole': 1}",2.5
+stan,683,6754,107,"{'god': 12, 'douche': 10, 'stupid': 10, 'hell': 10, 'crap': 6, 'asshole': 6, 'fatass': 5, 'ass': 5, 'gay': 4, 'fuck': 3, 'douchebag': 2, 'ugly': 2, 'kill': 2, 'boobs': 2, 'suck': 2, 'douchey': 2, 'sucks': 2, 'penis': 1, 'screwed': 1, 'hitler': 1, 'screwing': 1, 'murder': 1, 'vaginas': 1, 'screw': 1, 'seamen': 1, 'pisses': 1, 'shit': 1, 'damn': 1, 'bitch': 1, 'douches': 1, 'fucking': 1, 'fucks': 1, 'bitchs': 1, 'assholes': 1, 'dumbass': 1, 'pissed': 1, 'poop': 1, 'pot': 1, 'fucked': 1}",1.58
+kyle,473,3707,90,"{'fat': 11, 'god': 9, 'hell': 9, 'stupid': 7, 'crap': 5, 'gay': 5, 'fatass': 4, 'ass': 4, 'screw': 3, 'retarded': 3, 'fuck': 2, 'boobs': 2, 'retard': 2, 'sucks': 2, 'tard': 2, 'shitty': 1, 'pee': 1, 'douches': 1, 'dick': 1, 'sucked': 1, 'butthole': 1, 'bitch': 1, 'tampons': 1, 'stoned': 1, 'douchey': 1, 'pot': 1, 'asshole': 1, 'hells': 1, 'gods': 1, 'tits': 1, 'gays': 1, 'slaves': 1, 'douche': 1, 'sex': 1, 'bastards': 1}",2.43
+butters,377,4372,28,"{'fat': 6, 'poop': 4, 'kill': 3, 'tampons': 3, 'god': 3, 'stupid': 3, 'penis': 1, 'whiz': 1, 'ass': 1, 'suck': 1, 'bitch': 1, 'douchebag': 1}",0.64
+randy,176,2302,41,"{'boobs': 10, 'god': 7, 'porno': 5, 'pot': 3, 'penis': 2, 'vagina': 2, 'slopes': 1, 'assholes': 1, 'screwed': 1, 'breasts': 1, 'ass': 1, 'hell': 1, 'steamy': 1, 'pornos': 1, 'sluts': 1, 'sexual': 1, 'asshole': 1, 'kill': 1}",1.78
+tweek,133,1036,27,"{'god': 22, 'kill': 4, 'hell': 1}",2.61
+sharon,95,883,10,"{'potty': 2, 'porno': 2, 'god': 1, 'vagina': 1, 'penis': 1, 'kill': 1, 'stupid': 1, 'retarded': 1}",1.13
+chef,82,1026,15,"{'gay': 3, 'kill': 2, 'semen': 2, 'fat': 2, 'fuckin': 1, 'queer': 1, 'ass': 1, 'god': 1, 'asshole': 1, 'pot': 1}",1.46
+stephen,72,671,9,"{'god': 2, 'slopes': 1, 'stroke': 1, 'kill': 1, 'sluts': 1, 'crotch': 1, 'dumbass': 1, 'hell': 1}",1.34
+mr garrison,63,904,38,"{'slave': 13, 'ass': 7, 'gay': 3, 'slaves': 3, 'god': 3, 'stupid': 2, 'hells': 1, 'fuckin': 1, 'goddamn': 1, 'dick': 1, 'asshole': 1, 'sucking': 1, 'piss': 1}",4.2
+bebe,52,502,11,"{'boobs': 2, 'breasts': 2, 'slut': 1, 'vagina': 1, 'fucking': 1, 'hooters': 1, 'sucks': 1, 'stupid': 1, 'fuck': 1}",2.19
+sheila,51,513,6,"{'god': 3, 'hell': 1, 'sex': 1, 'vagina': 1}",1.17
+russell crowe,48,960,17,"{'god': 6, 'hell': 2, 'pussy': 2, 'scrotum': 1, 'whitey': 1, 'vomit': 1, 'stupid': 1, 'testicle': 1, 'vag': 1, 'peckers': 1}",1.77
+announcer,45,917,5,"{'gay': 1, 'pornography': 1, 'nazi': 1, 'pot': 1, 'douche': 1}",0.55
+liane,45,343,1,{'sex': 1},0.29
+jared,42,768,3,"{'fat': 1, 'stupid': 1, 'god': 1}",0.39
+gerald,42,467,8,"{'god': 2, 'porno': 1, 'crotch': 1, 'porn': 1, 'sluts': 1, 'penetration': 1, 'sex': 1}",1.71
+john edward,40,583,10,"{'douche': 8, 'asshole': 1, 'god': 1}",1.72
+maury,38,554,7,"{'hell': 2, 'testicles': 1, 'scrotum': 1, 'weirdo': 1, 'sex': 1, 'stupid': 1}",1.26
+clyde,38,434,7,"{'stupid': 2, 'boobs': 2, 'screw': 1, 'asshole': 1, 'pot': 1}",1.61
+richard,38,488,7,"{'god': 5, 'maxis': 1, 'hell': 1}",1.43
+santa,37,434,6,"{'god': 2, 'bastards': 1, 'fucking': 1, 'kill': 1, 'shit': 1}",1.38
+priest maxi,36,730,14,"{'god': 5, 'sex': 4, 'sexual': 1, 'maxi': 1, 'hell': 1, 'stupid': 1, 'crap': 1}",1.92
+linda,35,373,2,{'god': 2},0.54
+dougie,35,285,0,{},0.0
+tuong lu kim,34,773,41,"{'shitty': 16, 'god': 9, 'hell': 3, 'kill': 2, 'fuckin': 2, 'stupid': 2, 'crap': 2, 'fat': 1, 'bullshit': 1, 'fuck': 1, 'bitches': 1, 'shit': 1}",5.3
+jimmy,31,511,6,"{'god': 2, 'stupid': 1, 'retards': 1, 'sex': 1, 'vagina': 1}",1.17
+tad,30,314,1,{'hell': 1},0.32
+mr hankey,30,233,1,{'whiz': 1},0.43
+glen dumont,27,408,0,{},0.0
+phil,26,504,2,"{'slopes': 1, 'god': 1}",0.4
+the boys,25,35,0,{},0.0
+mr mackey,23,358,0,{},0.0
+craig,23,172,2,"{'stupid': 1, 'pot': 1}",1.16
+mr slave,23,162,4,"{'ass': 2, 'faggot': 1, 'asshole': 1}",2.47
+wendy,22,182,12,"{'slut': 5, 'god': 2, 'boobs': 1, 'asshole': 1, 'sucked': 1, 'vagina': 1, 'stupid': 1}",6.59
+thomas,21,279,2,"{'god': 1, 'pot': 1}",0.72
+sixth grader leader,21,200,12,"{'porno': 3, 'sluts': 2, 'gay': 1, 'porn': 1, 'hell': 1, 'god': 1, 'stupid': 1, 'asses': 1, 'crap': 1}",6.0
+josh,19,176,1,{'ass': 1},0.57
+dr hallis,19,337,9,"{'breasts': 4, 'bitch': 2, 'god': 1, 'damn': 1, 'assess': 1}",2.67
+nellie,19,216,1,{'pot': 1},0.46
+steven spielberg,18,297,2,"{'gay': 1, 'god': 1}",0.67
+george lucas,18,134,1,{'stupid': 1},0.75
+townsfolk,18,91,0,{},0.0
+tour guide,18,358,3,"{'fat': 1, 'tits': 1, 'hell': 1}",0.84
+principal victoria,18,302,4,"{'gay': 2, 'sexual': 1, 'queer': 1}",1.32
+news anchor,17,476,7,"{'semen': 3, 'ass': 3, 'crap': 1}",1.47
+jesus,17,144,1,{'hell': 1},0.69
+mayor mcdaniels,16,229,0,{},0.0
+man with foot on head,16,166,1,{'hell': 1},0.6
+future stan,16,311,2,"{'heroin': 1, 'crap': 1}",0.64
+fbi agent,15,179,0,{},0.0
+tugger,15,22,0,{},0.0
+woman,15,116,2,"{'semen': 1, 'god': 1}",1.72
+skeeter,14,144,1,{'stupid': 1},0.69
+rancher bob,14,280,1,{'damn': 1},0.36
+ms choksondik,14,176,0,{},0.0
+tolkien,14,204,2,"{'hell': 1, 'pees': 1}",0.98
+mrs stevens,14,225,2,"{'slut': 1, 'breasts': 1}",0.89
+jimbo,13,82,3,"{'damn': 2, 'hell': 1}",3.66
+man with terrible skin condition,13,215,3,"{'testicles': 2, 'stupid': 1}",1.4
+italian cardinal,13,219,7,"{'maxi': 5, 'sex': 2}",3.2
+dr doctor,12,179,2,"{'vaginas': 1, 'pussy': 1}",1.12
+shelly,12,128,15,"{'turd': 4, 'turds': 4, 'stupid': 3, 'tampons': 2, 'ass': 1, 'fat': 1}",11.72
+crowd,12,72,0,{},0.0
+kyle schwartz,12,192,1,{'hell': 1},0.52
+disfigured country singer,11,162,0,{},0.0
+roger,11,166,1,{'god': 1},0.6
+michael dorn,11,95,1,{'hell': 1},1.05
+the ghost of human kindness,11,217,4,{'damn': 4},1.84
+mrs tweak,11,103,0,{},0.0
+singer,10,106,0,{},0.0
+man 2,10,64,1,{'god': 1},1.56
+thumper,10,260,1,{'crap': 1},0.38
+the freaks,10,19,0,{},0.0
+kenny,10,50,2,{'vagina': 2},4.0
+field reporter,10,397,0,{},0.0
+bush,10,201,4,"{'hell': 2, 'bastard': 1, 'kill': 1}",1.99
+camp warden,10,188,2,{'sexual': 2},1.06
+teen girl,9,114,1,{'hell': 1},0.88
+officer barbrady,9,81,0,{},0.0
+iraqi general,9,116,3,"{'kill': 2, 'testicles': 1}",2.59
+man 1,8,63,0,{},0.0
+man 3,8,42,0,{},0.0
+vanity,8,100,11,"{'shit': 3, 'fuck': 3, 'skank': 2, 'fuckin': 1, 'cocksuckers': 1, 'heroin': 1}",11.0
+studio audience,8,8,0,{},0.0
+stuart,8,90,1,{'playboys': 1},1.11
+general,8,166,1,{'japs': 1},0.6
+lolly,8,125,0,{},0.0
+carol,8,79,1,{'god': 1},1.27
+singers,8,66,0,{},0.0
+director,8,215,5,"{'kill': 2, 'hell': 1, 'god': 1, 'crap': 1}",2.33
+subway representative,7,91,0,{},0.0
+christine,7,54,1,{'hell': 1},1.85
+damla,7,16,0,{},0.0
+stan kyle,7,14,0,{},0.0
+all,7,15,0,{},0.0
+ted koppel,7,161,3,{'murder': 3},1.86
+audience,7,10,0,{},0.0
+woman 4,7,31,2,{'god': 2},6.45
+gnome 1,7,88,0,{},0.0
+gnome 2,7,85,0,{},0.0
+ike,6,26,2,{'pee': 2},7.69
+man,6,61,0,{},0.0
+adults,6,19,0,{},0.0
+counselor,6,93,2,{'maxi': 2},2.15
+polly prissy pants,6,55,1,{'kill': 1},1.82
+millie,6,27,5,{'slut': 5},18.52
+steve,6,51,4,"{'god': 2, 'porno': 2}",7.84
+herbert garrison,5,41,1,{'hell': 1},2.44
+man 4,5,27,1,{'god': 1},3.7
+stan kyle cartman,5,6,0,{},0.0
+stagehand,5,90,0,{},0.0
+operator,5,73,1,{'sex': 1},1.37
+man with no limbs,5,39,1,{'crap': 1},2.56
+doctor,5,32,0,{},0.0
+timmy,5,10,0,{},0.0
+man 5,5,38,0,{},0.0
+voice,5,67,5,"{'queer': 1, 'chink': 1, 'heeb': 1, 'faggot': 1, 'slope': 1}",7.46
+snn reporter,5,120,2,"{'pussies': 1, 'god': 1}",1.67
+alan jackson,5,72,1,{'bastards': 1},1.39
+narrator,5,80,0,{},0.0
+terrance,4,34,1,{'god': 1},2.94
+phillip,4,20,1,{'fart': 1},5.0
+joline,4,63,3,"{'naked': 1, 'god': 1, 'whore': 1}",4.76
+brunet trekker,4,37,1,{'scrotum': 1},2.7
+man with no face,4,36,0,{},0.0
+blond trekker,4,25,0,{},0.0
+boys,4,5,0,{},0.0
+barkeep,4,41,0,{},0.0
+a voice,4,49,0,{},0.0
+pip,4,31,0,{},0.0
+man 6,4,47,0,{},0.0
+frances,4,27,0,{},0.0
+priest 1,4,63,1,{'maxi': 1},1.59
+old monk,4,58,0,{},0.0
+british cardinal,4,57,1,{'maxi': 1},1.75
+elderly priest,4,52,1,{'maxi': 1},1.92
+mrs testaburger,4,26,0,{},0.0
+right breast,4,21,0,{},0.0
+driver,4,26,2,{'damn': 2},7.69
+saddam hussein,4,63,3,"{'god': 1, 'stupid': 1, 'asshole': 1}",4.76
+woman 1,4,37,0,{},0.0
+frog king,4,119,0,{},0.0
+camp soldier,4,27,0,{},0.0
+lead alien,4,67,1,{'douche': 1},1.49
+butler,4,19,0,{},0.0
+future cartman,4,66,1,{'god': 1},1.52
+naked man,4,25,1,{'god': 1},4.0
+people in crowd,3,6,0,{},0.0
+mechanic,3,112,0,{},0.0
+heather,3,46,0,{},0.0
+parents,3,17,4,{'god': 4},23.53
+police captain,3,46,0,{},0.0
+vanessa,3,39,1,{'retard': 1},2.56
+incredibly obese black man,3,19,0,{},0.0
+hippies,3,21,0,{},0.0
+kids,3,5,0,{},0.0
+old man,3,24,0,{},0.0
+editor,3,20,0,{},0.0
+townsman,3,8,0,{},0.0
+towelie,3,25,0,{},0.0
+gelgamek cardinal,3,48,2,"{'vagina': 1, 'sex': 1}",4.17
+french cardinal,3,27,1,{'maxi': 1},3.7
+priest 2,3,24,1,{'sex': 1},4.17
+trey parker,3,49,0,{},0.0
+man 7,3,27,0,{},0.0
+astronaut 1,3,31,1,{'god': 1},3.23
+astronaut 2,3,26,1,{'hell': 1},3.85
+left breast,3,17,0,{},0.0
+francis,3,14,0,{},0.0
+bradley,3,12,0,{},0.0
+esther,3,6,3,{'slut': 3},50.0
+kevin,3,22,1,{'god': 1},4.55
+man in wheelchair,3,79,1,{'god': 1},1.27
+tom,3,109,2,"{'naked': 1, 'god': 1}",1.83
+god,3,25,0,{},0.0
+sixth grader 1,3,27,0,{},0.0
+linda black,3,24,0,{},0.0
+kindergartner,3,11,0,{},0.0
+catatafish,3,24,0,{},0.0
+bee alien,3,33,1,{'douche': 1},3.03
+lion head alien,3,25,1,{'douche': 1},4.0
+woman 3,3,16,0,{},0.0
+rob schneider,3,13,0,{},0.0
+woman 5,3,13,0,{},0.0
+audience members,3,10,0,{},0.0
+mrs brooks,3,41,0,{},0.0
+mr brooks,3,33,0,{},0.0
+reporter,2,79,0,{},0.0
+tyler,2,25,0,{},0.0
+a woman,2,6,1,{'god': 1},16.67
+thin cop,2,47,0,{},0.0
+lift operator,2,10,0,{},0.0
+the parents,2,8,0,{},0.0
+tads friends,2,3,0,{},0.0
+tad and friends,2,2,0,{},0.0
+kyle cartman,2,2,0,{},0.0
+black player,2,19,0,{},0.0
+puerto rican player,2,7,0,{},0.0
+stan cartman,2,2,0,{},0.0
+doctor 1,2,22,1,{'semen': 1},4.55
+martha stewart,2,186,3,{'ass': 3},1.61
+a bishop,2,36,0,{},0.0
+another cardinal,2,31,1,{'sex': 1},3.23
+queen spider,2,16,0,{},0.0
+the clergy,2,9,0,{},0.0
+other priests,2,4,0,{},0.0
+aide,2,35,0,{},0.0
+members,2,18,0,{},0.0
+francis ford coppola,2,14,0,{},0.0
+man 8,2,12,0,{},0.0
+man 10,2,5,0,{},0.0
+man 9,2,7,0,{},0.0
+red,2,19,1,{'slut': 1},5.26
+all the boys,2,2,0,{},0.0
+brunette nurse,2,14,0,{},0.0
+blonde nurse,2,9,0,{},0.0
+chris,2,25,0,{},0.0
+fat man,2,46,3,"{'penis': 2, 'nipples': 1}",6.52
+nurse,2,18,0,{},0.0
+woman 2,2,17,0,{},0.0
+other boys,2,4,0,{},0.0
+other sixth graders,2,2,0,{},0.0
+sparrow prince,2,53,0,{},0.0
+janitor,2,25,0,{},0.0
+smoker,2,11,0,{},0.0
+construction worker,2,42,0,{},0.0
+pilot,2,24,0,{},0.0
+frankenstein alien,2,19,2,{'douche': 2},10.53
+felipe,2,9,0,{},0.0
+carlos,2,3,0,{},0.0
+gnome,2,20,0,{},0.0
+gnome 5,2,18,1,{'hell': 1},5.56
+whistle,2,4,0,{},0.0
+soldier 2,2,4,0,{},0.0
+soldier 1,2,3,0,{},0.0
+subway rep 2,1,28,0,{},0.0
+subway rep 3,1,18,0,{},0.0
+worker,1,12,0,{},0.0
+scott,1,9,0,{},0.0
+some men,1,1,0,{},0.0
+scott tyler,1,1,0,{},0.0
+man in crowd,1,1,0,{},0.0
+new yorker,1,1,0,{},0.0
+fat cop,1,21,0,{},0.0
+voguing skier,1,18,0,{},0.0
+a teen boy,1,13,0,{},0.0
+singer and backup singers,1,9,0,{},0.0
+voguing skier 2,1,8,0,{},0.0
+a skier,1,7,0,{},0.0
+teen boy,1,5,1,{'hell': 1},20.0
+man in yellow jacket,1,4,0,{},0.0
+right creature,1,3,0,{},0.0
+skier,1,2,0,{},0.0
+randy gerald,1,1,0,{},0.0
+the ladies,1,1,0,{},0.0
+teens,1,1,0,{},0.0
+left creature,1,1,0,{},0.0
+elephant man,1,100,1,{'stupid': 1},1.0
+middle dwarf,1,14,0,{},0.0
+cameraman,1,8,0,{},0.0
+butters and the freaks,1,6,0,{},0.0
+hammerhead man,1,4,0,{},0.0
+some audience members,1,3,0,{},0.0
+hippie,1,13,0,{},0.0
+voices,1,10,0,{},0.0
+rancher,1,9,0,{},0.0
+fbi negotiator,1,6,0,{},0.0
+kyle butters,1,1,0,{},0.0
+fbi agents,1,1,0,{},0.0
+old man 2,1,23,0,{},0.0
+lehrer,1,21,0,{},0.0
+choir,1,7,0,{},0.0
+man with mustache,1,6,1,{'god': 1},16.67
+a girl,1,6,1,{'god': 1},16.67
+russell crowe off screen,1,6,0,{},0.0
+old woman,1,6,0,{},0.0
+wally b,1,6,0,{},0.0
+the tv,1,4,0,{},0.0
+kyle stan butters,1,1,0,{},0.0
+old folks,1,1,0,{},0.0
+old woman 2,1,1,0,{},0.0
+stan kyle butters,1,1,0,{},0.0
+dogpoo petuski,1,30,0,{},0.0
+dogpoo,1,12,1,{'god': 1},8.33
+bennigans chef,1,12,0,{},0.0
+ride operator,1,7,0,{},0.0
+worker 2,1,6,0,{},0.0
+vendor,1,5,0,{},0.0
+fans,1,3,0,{},0.0
+worker 1,1,3,0,{},0.0
+the class,1,1,0,{},0.0
+doctor 2,1,5,0,{},0.0
+ms crabtree,1,5,0,{},0.0
+surgeon general,1,77,1,{'anus': 1},1.3
+moroccan cardinal,1,22,0,{},0.0
+fat priest,1,8,0,{},0.0
+priest 3,1,5,0,{},0.0
+priest 4,1,5,0,{},0.0
+a man,1,5,0,{},0.0
+other cardinals,1,2,0,{},0.0
+pat obrien,1,53,0,{},0.0
+hat mccullough,1,31,4,"{'kill': 2, 'rape': 1, 'virgins': 1}",12.9
+matt stone,1,18,0,{},0.0
+guard 1,1,14,0,{},0.0
+guard 2,1,9,0,{},0.0
+viewer 1,1,7,0,{},0.0
+viewer 3,1,5,1,{'god': 1},20.0
+some people,1,4,0,{},0.0
+viewer 2,1,4,0,{},0.0
+ticket operator,1,2,0,{},0.0
+cartman stan,1,1,0,{},0.0
+precious,1,4,0,{},0.0
+girls,1,3,3,"{'slut': 2, 'whore': 1}",100.0
+the other boys,1,2,0,{},0.0
+millie esther,1,1,0,{},0.0
+detective,1,28,0,{},0.0
+mr mackeys father,1,10,0,{},0.0
+elderly lady,1,7,0,{},0.0
+leader,1,7,0,{},0.0
+officer 1,1,5,0,{},0.0
+mongolian,1,3,0,{},0.0
+millard anderson,1,1,0,{},0.0
+snn correspondent,1,55,0,{},0.0
+nobunaga hiroichi,1,55,0,{},0.0
+ambassador 1,1,20,0,{},0.0
+war protester,1,17,0,{},0.0
+nobunaga,1,10,0,{},0.0
+redneck,1,9,0,{},0.0
+indian ambassador,1,9,0,{},0.0
+ambassador 2,1,7,1,{'stupid': 1},14.29
+dick cheney,1,6,0,{},0.0
+steven,1,6,0,{},0.0
+natsako semu,1,6,0,{},0.0
+boyfriend,1,5,0,{},0.0
+neighbors,1,2,0,{},0.0
+soldiers,1,2,0,{},0.0
+robot guard,1,1,0,{},0.0
+some guy,1,1,0,{},0.0
+johnson,1,1,0,{},0.0
+sixth grader 5,1,10,0,{},0.0
+boy 1,1,8,0,{},0.0
+sixth grader 4,1,7,0,{},0.0
+boy 2,1,6,0,{},0.0
+sixth grader 3,1,6,0,{},0.0
+boy 3,1,4,0,{},0.0
+gerald stephen,1,3,1,{'sluts': 1},33.33
+evan stone,1,3,1,{'ass': 1},33.33
+sixth graders 2 and 3,1,1,0,{},0.0
+girl 1,1,8,0,{},0.0
+girl 2,1,7,0,{},0.0
+the three spirits,1,5,0,{},0.0
+the girls,1,3,0,{},0.0
+the other kids,1,1,0,{},0.0
+page,1,40,0,{},0.0
+flight attendant,1,27,0,{},0.0
+man 12,1,13,0,{},0.0
+scout,1,12,0,{},0.0
+paramedic 1,1,10,0,{},0.0
+alien 2,1,10,0,{},0.0
+woman 7,1,8,0,{},0.0
+pre recorded voice,1,5,0,{},0.0
+woman 6,1,2,0,{},0.0
+man 11,1,2,0,{},0.0
+woman 8,1,1,0,{},0.0
+alien 3,1,1,0,{},0.0
+damanta unit 5,1,1,0,{},0.0
+future butters,1,13,0,{},0.0
+ozzy,1,10,3,"{'fucking': 2, 'fuck': 1}",30.0
+jack,1,10,2,"{'fucking': 1, 'fuck': 1}",20.0
+becker,1,10,0,{},0.0
+grandpa marvin,1,8,0,{},0.0
+gnome 4,1,10,0,{},0.0
+gnome 3,1,9,0,{},0.0
+iraqi man 1,1,2,0,{},0.0
+iraqi man 2,1,2,0,{},0.0
+elderly man,1,2,0,{},0.0
+soldier,1,1,0,{},0.0

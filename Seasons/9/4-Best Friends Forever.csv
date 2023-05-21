@@ -1,0 +1,50 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+cartman,29,408,5,"{'stupid': 2, 'hell': 1, 'goddammit': 1, 'fags': 1}",1.23
+kyle,21,179,4,"{'ass': 1, 'hell': 1, 'god': 1, 'stupid': 1}",2.23
+stan,17,105,3,"{'kill': 2, 'hell': 1}",2.86
+satan,15,135,3,{'god': 3},2.22
+michael,14,498,11,"{'god': 5, 'hell': 2, 'goddamned': 1, 'goddammit': 1, 'stupid': 1, 'hells': 1}",2.21
+hooded figure,12,96,2,"{'murder': 1, 'gods': 1}",2.08
+carol,11,117,1,{'asshole': 1},0.85
+doctor,10,180,1,{'organs': 1},0.56
+gabriel,10,97,2,"{'hells': 1, 'god': 1}",2.06
+kenny,8,46,1,{'fuck': 1},2.17
+peter,7,164,4,"{'god': 3, 'hell': 1}",2.44
+lawyer,7,164,0,{},0.0
+stuart,7,75,1,{'bitch': 1},1.33
+uriel,6,65,1,{'goddammit': 1},1.54
+anchor,5,123,0,{},0.0
+george bush,5,44,2,"{'murder': 1, 'gods': 1}",4.55
+judge,3,58,1,{'god': 1},1.72
+chief justice,3,54,0,{},0.0
+angel 5,3,31,2,{'god': 2},6.45
+man,3,10,0,{},0.0
+angel 3,2,47,0,{},0.0
+spy angel,2,33,1,{'god': 1},3.03
+liane,2,12,0,{},0.0
+angel 4,2,11,1,{'gods': 1},9.09
+game voice,2,11,0,{},0.0
+angel 11,2,11,0,{},0.0
+angel 9,2,6,0,{},0.0
+angel 12,2,5,0,{},0.0
+all,2,4,2,{'bastards': 2},50.0
+angel 10,2,4,0,{},0.0
+cartmans side,2,2,0,{},0.0
+man 1,1,16,0,{},0.0
+sixth grader,1,15,0,{},0.0
+man 2,1,15,0,{},0.0
+skeeter,1,13,1,{'god': 1},7.69
+male nurse,1,13,0,{},0.0
+tall goth,1,8,0,{},0.0
+mrs garrison,1,7,0,{},0.0
+female nurse,1,6,0,{},0.0
+police officer,1,6,0,{},0.0
+driver,1,5,0,{},0.0
+angel 6,1,5,0,{},0.0
+angels,1,4,0,{},0.0
+angel 7,1,4,0,{},0.0
+angel 1,1,3,0,{},0.0
+angel 2,1,3,0,{},0.0
+judge 2,1,3,0,{},0.0
+kyles side,1,2,0,{},0.0
+both sides,1,1,0,{},0.0

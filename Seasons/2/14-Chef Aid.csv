@@ -1,0 +1,49 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+chef,73,760,10,"{'hell': 5, 'whore': 1, 'retarded': 1, 'shit': 1, 'sex': 1, 'sexual': 1}",1.32
+mr garrison,47,457,6,"{'hell': 2, 'bastards': 1, 'turd': 1, 'bitch': 1, 'raping': 1}",1.31
+kyle,39,269,6,"{'hell': 3, 'goddamn': 1, 'whoring': 1, 'bastard': 1}",2.23
+stan,37,285,3,"{'sucks': 1, 'ass': 1, 'god': 1}",1.05
+cartman,35,236,5,"{'stupid': 2, 'goddamn': 2, 'bitch': 1}",2.12
+elton john,21,255,1,{'hell': 1},0.39
+mr big record producer,16,146,1,{'bastards': 1},0.68
+johnnie cochran,10,345,1,{'hell': 1},0.29
+gerald,10,101,1,{'bastards': 1},0.99
+teen mc,10,67,0,{},0.0
+judge moses,8,84,0,{},0.0
+meat loaf,6,36,1,{'hell': 1},2.78
+sheila,6,25,0,{},0.0
+reporter,5,98,0,{},0.0
+ozzy osbourne,5,65,0,{},0.0
+mr twig,5,40,0,{},0.0
+joe strummer,4,55,1,{'loins': 1},1.82
+veronica crabtree,4,28,2,"{'sex': 1, 'hell': 1}",7.14
+dr doctor,4,19,0,{},0.0
+producer,3,33,0,{},0.0
+officer,3,25,0,{},0.0
+dean ween,3,23,0,{},0.0
+gene ween,3,22,0,{},0.0
+rick james,3,18,1,{'god': 1},5.56
+mayor mcdaniels,3,16,1,{'hell': 1},6.25
+rancid,3,13,0,{},0.0
+cous cous,3,12,0,{},0.0
+officer barbrady,3,9,1,{'weirdo': 1},11.11
+narrator,2,18,0,{},0.0
+boys,2,3,0,{},0.0
+les claypool,1,41,1,{'sucked': 1},2.44
+mayor,1,12,0,{},0.0
+foreman,1,10,0,{},0.0
+barbrady,1,9,0,{},0.0
+kenny,1,7,0,{},0.0
+ween,1,6,1,{'homo': 1},16.67
+bailiff,1,6,0,{},0.0
+bulter,1,6,0,{},0.0
+everyone,1,5,0,{},0.0
+prosecutor,1,4,0,{},0.0
+butler,1,4,0,{},0.0
+chef recording,1,2,0,{},0.0
+kid,1,1,0,{},0.0
+alanis morissette,1,1,0,{},0.0
+man,1,1,0,{},0.0
+cartman and kenny,1,1,0,{},0.0
+mr mackey,1,1,0,{},0.0
+stan kyle and cartman,1,1,0,{},0.0

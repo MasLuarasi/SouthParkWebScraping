@@ -1,0 +1,44 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+cartman,70,1314,16,"{'fuck': 11, 'goddammit': 2, 'assholes': 1, 'fag': 1, 'goddamned': 1}",1.22
+butters,28,253,1,{'sucked': 1},0.4
+kyle,17,310,5,"{'god': 2, 'fucking': 1, 'shit': 1, 'fatass': 1}",1.61
+french captain,10,90,1,{'damn': 1},1.11
+clyde,9,78,0,{},0.0
+pirate 4,6,45,1,{'fat': 1},2.22
+ike,6,15,2,"{'god': 1, 'asshole': 1}",13.33
+pirates,5,15,0,{},0.0
+sheila,4,37,2,{'god': 2},5.41
+pirate 5,4,36,1,{'kill': 1},2.78
+cruise attendant,4,17,1,{'god': 1},5.88
+galeed,3,116,0,{},0.0
+paolo captain,3,53,0,{},0.0
+stan,3,25,1,{'hell': 1},4.0
+kevin,3,16,0,{},0.0
+pirate 3,3,14,0,{},0.0
+un leader,2,56,2,"{'damn': 1, 'god': 1}",3.57
+gordon,2,24,0,{},0.0
+pirate 2,2,22,1,{'fuck': 1},4.55
+clerk,2,19,0,{},0.0
+gerald,2,19,0,{},0.0
+pirate 1,2,17,0,{},0.0
+deck hand,2,17,0,{},0.0
+cartman choir,2,16,0,{},0.0
+pirate 6,2,16,0,{},0.0
+somali 2,2,7,0,{},0.0
+pirate choir,2,6,0,{},0.0
+choir,2,6,0,{},0.0
+anchorman,1,47,1,{'ugly': 1},2.13
+gordon stoltski,1,38,0,{},0.0
+french captain and crew,1,10,1,{'god': 1},10.0
+together,1,9,0,{},0.0
+commander,1,9,0,{},0.0
+cartman butters,1,8,2,"{'ass': 1, 'rape': 1}",25.0
+pirate 7,1,6,0,{},0.0
+pirate 8,1,6,0,{},0.0
+kyle cartman,1,4,0,{},0.0
+somali 1,1,4,0,{},0.0
+announcer,1,4,0,{},0.0
+pirate,1,3,0,{},0.0
+clyde ike,1,2,0,{},0.0
+mr leon,1,2,0,{},0.0
+sniper,1,1,0,{},0.0

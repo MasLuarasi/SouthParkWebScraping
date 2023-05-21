@@ -1,0 +1,35 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+stan,61,443,10,"{'hell': 2, 'goddammit': 2, 'god': 2, 'fucking': 1, 'kill': 1, 'sucks': 1, 'ass': 1}",2.26
+narrator,36,352,1,{'fat': 1},0.28
+critters,28,80,2,{'orgy': 2},2.5
+kyle,19,196,7,"{'hell': 2, 'stupid': 2, 'god': 2, 'goddammit': 1}",3.57
+squirrely,16,184,2,"{'virgin': 1, 'orgy': 1}",1.09
+beavery,15,122,0,{},0.0
+beary,11,104,3,"{'whiz': 2, 'kill': 1}",2.88
+santa,9,111,3,"{'hell': 1, 'stupid': 1, 'kill': 1}",2.7
+mousey,8,61,0,{},0.0
+skunky,8,49,0,{},0.0
+chickadee y,7,68,0,{},0.0
+deery,7,55,3,"{'virgin': 1, 'god': 1, 'sex': 1}",5.45
+lion cub 3,7,55,0,{},0.0
+cartman,6,65,0,{},0.0
+rabbity,6,54,1,{'whiz': 1},1.85
+porcupiney,6,44,0,{},0.0
+raccoony,5,53,0,{},0.0
+lion cub 1,5,40,1,{'kill': 1},2.5
+foxy,4,49,1,{'kill': 1},2.04
+lion cub 2,4,41,1,{'kill': 1},2.44
+doctor,3,26,0,{},0.0
+woodpeckery,3,16,0,{},0.0
+woodland critters,2,16,0,{},0.0
+butters,2,15,0,{},0.0
+singer,2,11,0,{},0.0
+clyde,2,10,0,{},0.0
+singers,2,8,0,{},0.0
+mr garrison,1,21,0,{},0.0
+tolkien,1,11,0,{},0.0
+lion cub,1,9,0,{},0.0
+the cubs,1,7,0,{},0.0
+mother lion,1,5,0,{},0.0
+narrator ,1,3,0,{},0.0
+one of the cubs,1,1,0,{},0.0

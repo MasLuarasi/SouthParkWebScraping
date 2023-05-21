@@ -1,0 +1,40 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+cartman,58,646,10,"{'damn': 3, 'god': 2, 'screw': 1, 'stupid': 1, 'gay': 1, 'crap': 1, 'douchebag': 1}",1.55
+butters,43,279,1,{'god': 1},0.36
+pioneer paul,27,369,2,"{'damn': 1, 'kill': 1}",0.54
+franz,24,322,9,"{'god': 2, 'damn': 2, 'fucking': 2, 'kill': 2, 'stupid': 1}",2.8
+stan,21,224,0,{},0.0
+kyle,17,96,2,"{'suck': 1, 'kill': 1}",2.08
+mr garrison,11,135,0,{},0.0
+leader,10,190,1,{'kill': 1},0.53
+wendy,10,61,1,{'crap': 1},1.64
+clerk,8,78,0,{},0.0
+murderin murphy,8,40,0,{},0.0
+police chief,7,64,0,{},0.0
+vosky,7,61,0,{},0.0
+smithy,6,93,0,{},0.0
+orlich,4,102,0,{},0.0
+kenny,4,24,1,{'fucking': 1},4.17
+officer 2,4,23,0,{},0.0
+gunsmith,3,65,1,{'injuns': 1},1.54
+worker,3,50,0,{},0.0
+woman,3,38,1,{'kill': 1},2.63
+911 operator,3,19,0,{},0.0
+pa system,1,24,0,{},0.0
+jimmy,1,14,1,{'hell': 1},7.14
+sheriff,1,13,0,{},0.0
+cashier,1,12,0,{},0.0
+woman 2,1,11,1,{'god': 1},9.09
+craig,1,10,0,{},0.0
+balding man,1,7,0,{},0.0
+lieutenant,1,6,0,{},0.0
+blond,1,5,0,{},0.0
+officer 1,1,5,0,{},0.0
+man 2,1,5,0,{},0.0
+chad,1,4,0,{},0.0
+injured thief,1,3,1,{'damn': 1},33.33
+domino,1,3,0,{},0.0
+officer 3,1,3,0,{},0.0
+man 3,1,3,0,{},0.0
+man 1,1,2,0,{},0.0
+butters cartman,1,1,0,{},0.0

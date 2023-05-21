@@ -1,0 +1,34 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+ms choksondik,49,707,4,"{'suck': 2, 'god': 1, 'gods': 1}",0.57
+stan,43,425,10,"{'ass': 2, 'bitch': 2, 'god': 2, 'stupid': 1, 'asses': 1, 'sucked': 1, 'hell': 1}",2.35
+cartman,32,299,11,"{'god': 3, 'hell': 2, 'suck': 2, 'ass': 1, 'pussies': 1, 'damn': 1, 'dumbasses': 1}",3.68
+kyle,31,286,5,"{'suck': 2, 'gay': 1, 'asses': 1, 'god': 1}",1.75
+nerd 1,23,299,1,{'kill': 1},0.33
+mr garrison,21,291,11,"{'gay': 3, 'suck': 3, 'hell': 2, 'poontang': 1, 'vulgar': 1, 'damn': 1}",3.78
+nerd 2,19,200,1,{'dick': 1},0.5
+timmy,16,36,0,{},0.0
+principal victoria,15,117,2,"{'sex': 1, 'gay': 1}",1.71
+clean garrison,11,119,3,"{'gay': 2, 'penis': 1}",2.52
+unkempt garrison,11,81,10,"{'gay': 9, 'damn': 1}",12.35
+brunette,11,58,7,{'god': 7},12.07
+hansen,10,95,0,{},0.0
+mr mackey,8,103,2,"{'gay': 1, 'homoerotic': 1}",1.94
+butters,6,123,1,{'dumbasses': 1},0.81
+chef,6,76,2,{'gay': 2},2.63
+kenny,3,16,2,"{'titties': 1, 'fuckin': 1}",12.5
+pilot,3,8,0,{},0.0
+pete,3,4,0,{},0.0
+field reporter,2,69,0,{},0.0
+anchor tom,2,46,0,{},0.0
+5th grader in middle,2,21,1,{'stupid': 1},4.76
+new teacher,2,14,0,{},0.0
+clyde,2,12,0,{},0.0
+the kids,2,2,0,{},0.0
+kids,2,2,0,{},0.0
+tweek,1,14,0,{},0.0
+wendy,1,12,0,{},0.0
+swat hansen,1,11,0,{},0.0
+the adults,1,2,0,{},0.0
+the nerds,1,1,0,{},0.0
+swat rescuer hansen,1,1,0,{},0.0
+chef victoria mackey,1,1,0,{},0.0

@@ -1,0 +1,28 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+jimbo,66,793,16,"{'hell': 5, 'damn': 3, 'kill': 3, 'bastard': 2, 'god': 1, 'hells': 1, 'fat': 1}",2.02
+cartman,50,400,16,"{'hell': 3, 'crap': 2, 'pee': 2, 'damn': 1, 'kill': 1, 'piss': 1, 'weenies': 1, 'kills': 1, 'screw': 1, 'stupid': 1, 'goddammit': 1, 'ass': 1}",4.0
+stan,41,265,9,"{'bastard': 2, 'fat': 1, 'ass': 1, 'kill': 1, 'pee': 1, 'suck': 1, 'damn': 1, 'stupid': 1}",3.4
+kyle,33,172,7,"{'kill': 3, 'god': 2, 'pee': 1, 'damn': 1}",4.07
+ned,23,148,1,{'crap': 1},0.68
+mayor mcdaniels,21,275,4,"{'god': 3, 'gods': 1}",1.45
+randy,10,128,1,{'god': 1},0.78
+kenny,9,31,3,"{'suck': 1, 'dick': 1, 'vagina': 1}",9.68
+newscaster,8,146,1,{'god': 1},0.68
+chef,7,63,1,{'crap': 1},1.59
+liane,6,70,0,{},0.0
+host,5,109,0,{},0.0
+johnson,5,41,0,{},0.0
+officer barbrady,4,60,0,{},0.0
+scuzzlebutt,3,3,0,{},0.0
+mr garrison,2,15,0,{},0.0
+patrick duffy,2,10,1,{'god': 1},10.0
+ted,1,10,0,{},0.0
+ned gerblansky,1,7,0,{},0.0
+individual in crowd,1,7,0,{},0.0
+randy marsh,1,5,0,{},0.0
+townsman 2,1,4,0,{},0.0
+townsman 1,1,3,0,{},0.0
+stan kyle,1,1,0,{},0.0
+crowd,1,1,0,{},0.0
+kyle stan cartman,1,1,0,{},0.0
+denver citizens,1,1,0,{},0.0

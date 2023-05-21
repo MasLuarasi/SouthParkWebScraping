@@ -1,0 +1,37 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+randy,83,1043,13,"{'god': 3, 'crap': 2, 'goddamn': 1, 'suck': 1, 'stupid': 1, 'kill': 1, 'boner': 1, 'hell': 1, 'shit': 1, 'sucks': 1}",1.25
+stan,25,217,2,"{'crap': 1, 'kill': 1}",0.92
+officer 1,18,249,0,{},0.0
+mcgee zax,11,174,1,{'kill': 1},0.57
+judge,6,95,0,{},0.0
+gordon brown,6,42,1,{'hell': 1},2.38
+taro aso,6,40,0,{},0.0
+officer 2,5,59,0,{},0.0
+general,5,43,0,{},0.0
+reporter,4,184,0,{},0.0
+agent clark,4,96,0,{},0.0
+mr hollis,4,56,0,{},0.0
+sharon,4,39,1,{'god': 1},2.56
+john howard,4,34,0,{},0.0
+hu jintao,4,26,0,{},0.0
+alien,3,55,0,{},0.0
+official,3,48,0,{},0.0
+matti vanhanen,3,37,0,{},0.0
+agent marx,3,34,0,{},0.0
+stephen,3,19,1,{'hell': 1},5.26
+nicolas sarkozy,3,15,0,{},0.0
+vladimir putin,3,9,0,{},0.0
+kevern zaksor,2,74,1,{'stupid': 1},1.35
+raila odinga,2,5,0,{},0.0
+luiz inácio lula da silva,2,2,0,{},0.0
+anchorman,1,65,0,{},0.0
+emmett,1,22,0,{},0.0
+angela merkel,1,16,0,{},0.0
+new yorker,1,11,1,{'screw': 1},9.09
+silvio berlusconi,1,11,0,{},0.0
+mr garrison,1,10,0,{},0.0
+announcer,1,6,0,{},0.0
+townsman,1,5,0,{},0.0
+crowd,1,4,0,{},0.0
+tommy and his dad,1,2,0,{},0.0
+han seung soo,1,2,0,{},0.0

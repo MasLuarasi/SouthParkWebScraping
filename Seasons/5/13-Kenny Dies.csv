@@ -1,0 +1,40 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+cartman,57,983,7,"{'god': 2, 'numbnuts': 1, 'assholes': 1, 'hell': 1, 'goddammit': 1, 'stupid': 1}",0.71
+kyle,42,426,5,"{'crap': 1, 'fatass': 1, 'hell': 1, 'whore': 1, 'fuck': 1}",1.17
+stan,37,310,6,"{'god': 3, 'hell': 2, 'stupid': 1}",1.94
+kenny,15,61,2,"{'fuck': 1, 'fuckin': 1}",3.28
+larry,13,242,2,{'hell': 2},0.83
+doctor,11,148,0,{},0.0
+butters,9,125,1,{'ass': 1},0.8
+chef,7,186,5,"{'god': 4, 'pissed': 1}",2.69
+ms sanders,6,43,0,{},0.0
+bob,5,29,0,{},0.0
+laura,4,47,0,{},0.0
+receptionist,4,39,0,{},0.0
+nurse,4,24,0,{},0.0
+mr mackey,2,58,0,{},0.0
+ms choksondik,2,31,0,{},0.0
+woman 2,2,18,0,{},0.0
+liane,2,15,0,{},0.0
+woman,2,14,0,{},0.0
+head nurse,2,10,0,{},0.0
+sharon,2,3,0,{},0.0
+mr garrison,1,33,0,{},0.0
+randy,1,27,0,{},0.0
+sheila,1,21,0,{},0.0
+truck driver,1,16,0,{},0.0
+man,1,11,0,{},0.0
+congressman 1,1,10,0,{},0.0
+congressman 2,1,10,0,{},0.0
+congressman 1 cartman,1,8,0,{},0.0
+everyone,1,8,0,{},0.0
+researcher,1,5,0,{},0.0
+ms mccormick,1,5,0,{},0.0
+madonna,1,5,0,{},0.0
+a few congressmen,1,5,0,{},0.0
+jill,1,5,0,{},0.0
+gerald,1,3,0,{},0.0
+man on crutches,1,3,0,{},0.0
+principal victoria,1,2,0,{},0.0
+man on wheelchair,1,2,0,{},0.0
+stan kyle,1,1,0,{},0.0

@@ -1,0 +1,50 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+cartman,58,517,15,"{'god': 6, 'gay': 3, 'stupid': 2, 'shit': 1, 'damn': 1, 'asshole': 1, 'assholes': 1}",2.9
+stan,38,325,7,"{'gay': 2, 'fatass': 1, 'fat': 1, 'ass': 1, 'screw': 1, 'kill': 1}",2.15
+kyle,38,293,7,"{'gay': 2, 'hell': 1, 'shit': 1, 'ass': 1, 'god': 1, 'screw': 1}",2.39
+mr ose,32,186,6,{'penis': 6},3.23
+sharon,27,301,5,"{'stupid': 2, 'hell': 1, 'penis': 1, 'bitches': 1}",1.66
+president hirohito,20,254,14,"{'penis': 13, 'pee': 1}",5.51
+kids,19,52,0,{},0.0
+announcer,17,188,0,{},0.0
+randy,14,126,2,"{'vulgar': 1, 'god': 1}",1.59
+ash,12,164,0,{},0.0
+singer,12,133,0,{},0.0
+mr garrison,10,99,1,{'goddammit': 1},1.01
+sheila,9,89,0,{},0.0
+liane,9,67,0,{},0.0
+red,8,97,2,{'hell': 2},2.06
+cashier,7,63,1,{'hell': 1},1.59
+japanese woman,7,56,0,{},0.0
+kenny,7,15,1,{'fuck': 1},6.67
+gerald,6,95,1,{'god': 1},1.05
+mayor,4,87,0,{},0.0
+boy,4,10,0,{},0.0
+lab tech 1,3,40,0,{},0.0
+priest maxi,3,23,0,{},0.0
+stankenny cartman,3,11,0,{},0.0
+kitty,3,3,0,{},0.0
+emperor hirohito,2,53,0,{},0.0
+eight,2,32,0,{},0.0
+boy 2,2,9,0,{},0.0
+boy 1,2,7,1,{'bitch': 1},14.29
+ike,2,7,0,{},0.0
+class,2,6,0,{},0.0
+boys,2,2,0,{},0.0
+president clinton,1,110,3,{'penis': 3},2.73
+a voice,1,20,0,{},0.0
+lambtor,1,18,0,{},0.0
+narrator,1,16,0,{},0.0
+lambtron,1,13,0,{},0.0
+reporter,1,13,0,{},0.0
+taller man,1,10,0,{},0.0
+jimbo,1,7,0,{},0.0
+boys 12,1,7,0,{},0.0
+woman 1,1,5,0,{},0.0
+wendy,1,5,0,{},0.0
+other kids,1,5,0,{},0.0
+girl,1,4,0,{},0.0
+instructors,1,4,0,{},0.0
+louis,1,3,0,{},0.0
+roostor,1,3,0,{},0.0
+woman 2,1,1,0,{},0.0

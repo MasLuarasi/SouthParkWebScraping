@@ -1,0 +1,31 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+butters,98,1216,10,"{'whiz': 2, 'kill': 2, 'fisting': 1, 'nutsack': 1, 'god': 1, 'poontang': 1, 'titty': 1, 'queer': 1}",0.82
+linda,57,647,7,"{'kill': 3, 'god': 2, 'bastard': 2}",1.08
+chris,52,952,10,"{'god': 3, 'gay': 2, 'damn': 2, 'stupid': 1, 'sex': 1, 'murder': 1}",1.05
+choir,14,58,0,{},0.0
+john ramsey,8,116,0,{},0.0
+patsy ramsey,8,65,0,{},0.0
+mechanic,6,159,0,{},0.0
+gary condit,5,47,0,{},0.0
+barbrady,5,33,0,{},0.0
+oj simpson,5,20,0,{},0.0
+stan,4,19,2,"{'damn': 1, 'kill': 1}",10.53
+news 4 reporter,2,97,0,{},0.0
+mr garrison,2,9,0,{},0.0
+police chief,2,6,0,{},0.0
+cartman,2,4,0,{},0.0
+officer 1,1,28,0,{},0.0
+truck driver,1,14,2,"{'god': 1, 'poontang': 1}",14.29
+reporter 1,1,14,0,{},0.0
+the ramseys oj condit,1,10,0,{},0.0
+officer 2,1,8,0,{},0.0
+man,1,6,0,{},0.0
+the ramseys and condit,1,6,0,{},0.0
+a voice,1,5,0,{},0.0
+reporter 2,1,4,0,{},0.0
+attendant,1,3,0,{},0.0
+mr slave,1,3,0,{},0.0
+man 2 in crowd,1,3,0,{},0.0
+a politician,1,2,0,{},0.0
+man in crowd,1,2,0,{},0.0
+the ramseys,1,1,0,{},0.0

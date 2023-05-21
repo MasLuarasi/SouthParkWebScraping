@@ -1,0 +1,21 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+cartman,105,1430,25,"{'kill': 4, 'goddammit': 3, 'hitler': 3, 'asshole': 2, 'hell': 2, 'fat': 2, 'bitch': 2, 'god': 2, 'piss': 1, 'uterus': 1, 'goddamned': 1, 'suck': 1, 'raped': 1}",1.75
+liane,58,561,0,{},0.0
+cesar,57,719,4,"{'hell': 3, 'fat': 1}",0.56
+stella,26,357,1,{'bastard': 1},0.28
+announcer,8,94,0,{},0.0
+stan,5,28,0,{},0.0
+mr mackey,4,80,0,{},0.0
+butters,4,25,1,{'kill': 1},4.0
+doctor,3,36,0,{},0.0
+jo,3,33,0,{},0.0
+cartmans good side,3,23,0,{},0.0
+kyle,3,17,1,{'kill': 1},5.88
+jimmy,2,9,0,{},0.0
+cartmans bad side,2,9,0,{},0.0
+liane and eric,1,13,0,{},0.0
+cartmans conscience,1,11,1,{'kill': 1},9.09
+girl,1,8,0,{},0.0
+boy,1,5,0,{},0.0
+craig,1,4,0,{},0.0
+kenny,1,2,1,{'fuck': 1},50.0

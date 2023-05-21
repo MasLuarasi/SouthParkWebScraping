@@ -1,0 +1,34 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+wendy,60,780,11,"{'fat': 2, 'fuck': 1, 'asshole': 1, 'moron': 1, 'stupid': 1, 'breasts': 1, 'ugly': 1, 'god': 1, 'damn': 1, 'bullshit': 1}",1.41
+butters,26,303,3,"{'fat': 2, 'asshole': 1}",0.99
+lisa,16,134,3,"{'fat': 2, 'ugly': 1}",2.24
+mr mackey,12,291,2,"{'fat': 1, 'ugly': 1}",0.69
+bebe,10,66,1,{'suck': 1},1.52
+kanye,7,843,16,"{'bitch': 6, 'god': 3, 'fuck': 2, 'gay': 1, 'ass': 1, 'oral': 1, 'shit': 1, 'fat': 1}",1.9
+cartman,7,106,4,"{'fat': 1, 'ugly': 1, 'sucks': 1, 'boobs': 1}",3.77
+stan,7,81,0,{},0.0
+clyde,7,61,1,{'bitch': 1},1.64
+red,7,40,0,{},0.0
+heidi,7,30,1,{'god': 1},3.33
+tom,5,95,0,{},0.0
+jimmy,5,44,1,{'ass': 1},2.27
+lola,5,7,0,{},0.0
+annie,5,6,1,{'god': 1},16.67
+nichole,4,4,0,{},0.0
+craig,3,21,1,{'fat': 1},4.76
+cheerleaders,3,20,0,{},0.0
+coach,2,42,1,{'fat': 1},2.38
+rick,2,36,0,{},0.0
+pope francis,2,17,0,{},0.0
+the boys,2,2,0,{},0.0
+mr garrison,1,38,0,{},0.0
+host,1,21,0,{},0.0
+kyle,1,15,0,{},0.0
+tammy,1,12,0,{},0.0
+announcer,1,9,0,{},0.0
+tweek,1,6,0,{},0.0
+kanye backup singers,1,6,0,{},0.0
+tolkien,1,3,0,{},0.0
+other boys,1,1,0,{},0.0
+nichole lola annie,1,1,0,{},0.0
+red annie,1,1,0,{},0.0

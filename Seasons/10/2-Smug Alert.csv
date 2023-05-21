@@ -1,0 +1,44 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+gerald,44,505,2,"{'boobs': 1, 'stupid': 1}",0.4
+stan,39,279,1,{'crap': 1},0.36
+cartman,27,356,5,"{'gay': 1, 'stupid': 1, 'heebs': 1, 'asshole': 1, 'god': 1}",1.4
+kyle,27,224,2,"{'fucking': 1, 'fatass': 1}",0.89
+randy,19,227,6,"{'gay': 2, 'goddammit': 1, 'farts': 1, 'kill': 1, 'stupid': 1}",2.64
+ranger mcfriendly,16,274,3,"{'gay': 2, 'bitch': 1}",1.09
+butters,14,126,0,{},0.0
+keenan,9,278,2,"{'gay': 1, 'god': 1}",0.72
+jimbo,7,55,2,"{'crap': 1, 'gay': 1}",3.64
+peter,4,77,0,{},0.0
+paul,4,72,0,{},0.0
+mr mackey,4,43,0,{},0.0
+richard,4,33,0,{},0.0
+clyde,4,26,0,{},0.0
+ike,4,14,0,{},0.0
+man,3,50,0,{},0.0
+alan,3,25,0,{},0.0
+sheila,3,18,0,{},0.0
+brian,2,30,1,{'farts': 1},3.33
+stephen,2,28,0,{},0.0
+driver,2,26,0,{},0.0
+mrs garrison,2,24,0,{},0.0
+laura tucker,2,22,0,{},0.0
+network anchor,1,51,1,{'asshole': 1},1.96
+dj,1,46,0,{},0.0
+an officer,1,27,0,{},0.0
+speaker,1,25,0,{},0.0
+anchor tom,1,20,0,{},0.0
+craig,1,16,0,{},0.0
+boy 2,1,14,0,{},0.0
+darryl,1,11,1,{'hell': 1},9.09
+announcer,1,8,0,{},0.0
+singer,1,7,0,{},0.0
+boy 1,1,5,0,{},0.0
+attendant,1,4,1,{'hell': 1},25.0
+tolkien,1,4,0,{},0.0
+man 2,1,4,0,{},0.0
+gail,1,4,0,{},0.0
+driver 1,1,3,0,{},0.0
+customer,1,2,0,{},0.0
+gerald and sheila,1,1,0,{},0.0
+driver 2,1,1,0,{},0.0
+driver 3,1,1,0,{},0.0

@@ -1,0 +1,44 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+mr garrison,55,845,35,"{'slave': 13, 'ass': 7, 'gay': 3, 'slaves': 3, 'god': 3, 'goddamn': 1, 'dick': 1, 'asshole': 1, 'sucking': 1, 'stupid': 1, 'piss': 1}",4.14
+mr slave,23,162,4,"{'ass': 2, 'faggot': 1, 'asshole': 1}",2.47
+tour guide,18,358,3,"{'fat': 1, 'tits': 1, 'hell': 1}",0.84
+principal victoria,18,302,4,"{'gay': 2, 'sexual': 1, 'queer': 1}",1.32
+stan,17,130,2,"{'gay': 1, 'damn': 1}",1.54
+cartman,17,111,3,"{'slave': 1, 'fat': 1, 'ass': 1}",2.7
+kyle,17,98,7,"{'gay': 2, 'fat': 1, 'tits': 1, 'gays': 1, 'slaves': 1, 'ass': 1}",7.14
+chef,13,140,7,"{'gay': 3, 'fat': 1, 'fuckin': 1, 'queer': 1, 'ass': 1}",5.0
+randy,12,160,2,"{'god': 1, 'asshole': 1}",1.25
+camp warden,10,188,2,{'sexual': 2},1.06
+singers,8,66,0,{},0.0
+butters,8,32,0,{},0.0
+sheila,6,67,0,{},0.0
+stephen,6,50,1,{'dumbass': 1},2.0
+mr mackey,5,93,0,{},0.0
+gerald,5,33,0,{},0.0
+frog king,4,119,0,{},0.0
+camp soldier,4,27,0,{},0.0
+sharon,4,24,2,"{'kill': 1, 'stupid': 1}",8.33
+catatafish,3,24,0,{},0.0
+man 3,3,13,0,{},0.0
+sparrow prince,2,53,0,{},0.0
+linda,2,36,0,{},0.0
+janitor,2,25,0,{},0.0
+smoker,2,11,0,{},0.0
+the boys,2,3,0,{},0.0
+man 6,1,12,0,{},0.0
+voice,1,8,5,"{'queer': 1, 'chink': 1, 'heeb': 1, 'faggot': 1, 'slope': 1}",62.5
+singer,1,8,0,{},0.0
+girl 1,1,8,0,{},0.0
+girl 2,1,7,0,{},0.0
+man 7,1,6,0,{},0.0
+man 2,1,5,0,{},0.0
+the three spirits,1,5,0,{},0.0
+richard,1,4,0,{},0.0
+man 1,1,4,0,{},0.0
+the girls,1,3,0,{},0.0
+liane,1,2,0,{},0.0
+man 5,1,2,0,{},0.0
+kids,1,1,0,{},0.0
+the other kids,1,1,0,{},0.0
+audience,1,1,0,{},0.0
+man 4,1,1,0,{},0.0

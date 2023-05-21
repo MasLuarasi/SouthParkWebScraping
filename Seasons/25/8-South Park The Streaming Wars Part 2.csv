@@ -1,0 +1,47 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+randy,63,988,35,"{'weed': 10, 'fucking': 9, 'fuck': 7, 'shit': 3, 'goddamn': 1, 'motherfucker': 1, 'god': 1, 'bitching': 1, 'slope': 1, 'fuckin': 1}",3.54
+cartman,51,857,33,"{'tits': 10, 'fucking': 7, 'fuck': 3, 'shit': 3, 'god': 2, 'breasts': 1, 'stupid': 1, 'murder': 1, 'bastard': 1, 'titties': 1, 'titty': 1, 'bitch': 1, 'fucked': 1}",3.85
+tolkien,39,360,4,"{'fucking': 2, 'fuck': 1, 'pee': 1}",1.11
+pi pi,27,843,30,"{'pee': 15, 'fuck': 6, 'slut': 2, 'fucking': 1, 'pussy': 1, 'bitches': 1, 'kill': 1, 'bitch': 1, 'stupid': 1, 'fucked': 1}",3.56
+butters,27,248,4,"{'shit': 1, 'dick': 1, 'pee': 1, 'piss': 1}",1.61
+yates,25,632,3,"{'weed': 1, 'murder': 1, 'fuck': 1}",0.47
+stan,14,131,1,{'hell': 1},0.76
+sharon,13,74,0,{},0.0
+steve,11,143,2,"{'fuck': 1, 'kill': 1}",1.4
+chuck chuck,11,20,0,{},0.0
+lawyer,10,116,0,{},0.0
+nelson,7,88,1,{'shit': 1},1.14
+linda,7,58,2,"{'dick': 1, 'kill': 1}",3.45
+liane,5,42,0,{},0.0
+narrator,5,35,0,{},0.0
+female announcer,5,25,5,{'pee': 5},20.0
+security guard 1,4,42,0,{},0.0
+kyle,4,27,2,"{'fucking': 1, 'tits': 1}",7.41
+matt damon,3,144,5,"{'pee': 4, 'urine': 1}",3.47
+karen,3,48,2,"{'fucking': 1, 'motherfucker': 1}",4.17
+reese witherspoon,3,38,2,{'pee': 2},5.26
+state official,3,38,1,{'tits': 1},2.63
+lifeguard,3,23,2,"{'goddamn': 1, 'fuckin': 1}",8.7
+reporter,2,82,3,"{'shitheads': 1, 'suck': 1, 'bullshit': 1}",3.66
+official,2,63,1,{'pee': 1},1.59
+naomi osaka,2,32,1,{'piss': 1},3.12
+guard,2,17,0,{},0.0
+unnamed woman 1,2,8,0,{},0.0
+announcer,1,53,3,"{'pee': 2, 'urine': 1}",5.66
+stephen,1,49,0,{},0.0
+larry david,1,36,0,{},0.0
+gwyneth paltrow,1,33,0,{},0.0
+security guard 2,1,20,0,{},0.0
+security guard,1,10,0,{},0.0
+unnamed woman 3,1,10,0,{},0.0
+all,1,8,1,{'pee': 1},12.5
+unnamed man 3,1,7,0,{},0.0
+unnamed woman 2,1,7,0,{},0.0
+unnamed man 2,1,5,0,{},0.0
+crowd,1,5,0,{},0.0
+unnamed man 1,1,4,1,{'shit': 1},25.0
+audience member,1,4,0,{},0.0
+shelley,1,3,0,{},0.0
+officer,1,2,0,{},0.0
+unnamed man 4,1,2,0,{},0.0
+unnamed woman 4,1,2,0,{},0.0

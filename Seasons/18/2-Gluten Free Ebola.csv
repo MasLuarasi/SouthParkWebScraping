@@ -1,0 +1,46 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+cartman,41,436,8,"{'pissed': 1, 'fuckin': 1, 'assholes': 1, 'dicks': 1, 'god': 1, 'hell': 1, 'suck': 1, 'fuck': 1}",1.83
+randy,35,291,9,"{'god': 4, 'dick': 3, 'bitch': 1, 'bastard': 1}",3.09
+stan,28,355,3,"{'stupid': 2, 'suck': 1}",0.85
+kyle,24,236,2,"{'shit': 1, 'hell': 1}",0.85
+tom vilsack,20,242,1,{'shit': 1},0.41
+mr garrison,14,138,4,"{'fuckin': 1, 'god': 1, 'piss': 1, 'bastard': 1}",2.9
+wendy,13,172,1,{'bitches': 1},0.58
+dj,12,175,0,{},0.0
+craig,10,93,3,"{'fuck': 2, 'sucks': 1}",3.23
+sharon,9,50,0,{},0.0
+mr mackey,8,94,3,"{'fuckin': 1, 'pissed': 1, 'dicks': 1}",3.19
+principal victoria,7,118,0,{},0.0
+blond,6,75,1,{'fuck': 1},1.33
+aunt jemima,6,55,0,{},0.0
+john garner,5,237,2,"{'dick': 1, 'fat': 1}",0.84
+researcher,4,117,0,{},0.0
+jimmy,4,33,0,{},0.0
+kenny,4,17,2,"{'fucking': 1, 'fuck': 1}",11.76
+worker 1,3,37,0,{},0.0
+stephen,3,21,1,{'god': 1},4.76
+scott,3,21,0,{},0.0
+michael taylor,3,17,0,{},0.0
+jeff white,2,28,0,{},0.0
+tolkien,2,19,1,{'douchebags': 1},5.26
+soldier,2,19,0,{},0.0
+worker 2,2,17,0,{},0.0
+soldier 2,2,16,0,{},0.0
+mr adler,2,13,0,{},0.0
+mark,1,40,0,{},0.0
+pricipal victoria,1,39,0,{},0.0
+jamie,1,31,1,{'fuck': 1},3.23
+jeff,1,21,0,{},0.0
+programmer 2,1,15,1,{'fat': 1},6.67
+programmer,1,10,0,{},0.0
+clyde,1,8,1,{'sucks': 1},12.5
+woman,1,8,0,{},0.0
+programmer 5,1,7,0,{},0.0
+farmer,1,6,0,{},0.0
+a quarantine,1,6,0,{},0.0
+shelly,1,5,0,{},0.0
+agent,1,5,0,{},0.0
+programmer 3,1,5,0,{},0.0
+programmer 4,1,3,0,{},0.0
+coach,1,2,1,{'god': 1},50.0
+fda agent 1,1,2,0,{},0.0

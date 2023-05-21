@@ -1,0 +1,31 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+cartman,84,1021,42,"{'hiv': 12, 'fuck': 5, 'god': 4, 'asshole': 4, 'damn': 3, 'hell': 2, 'crap': 2, 'fuckin': 2, 'fucking': 2, 'sucks': 1, 'ass': 1, 'suck': 1, 'goddamned': 1, 'stupid': 1, 'dick': 1}",4.11
+kyle,47,368,16,"{'hiv': 9, 'god': 2, 'damn': 1, 'bitch': 1, 'kill': 1, 'asshole': 1, 'fuck': 1}",4.35
+liane,12,76,2,"{'god': 1, 'hiv': 1}",2.63
+principal victoria,11,120,2,{'hiv': 2},1.67
+magic,10,157,0,{},0.0
+butters,10,98,0,{},0.0
+stan,8,61,1,{'dick': 1},1.64
+sheila,7,33,1,{'hiv': 1},3.03
+dr doctor,6,66,3,"{'anal': 1, 'sex': 1, 'hiv': 1}",4.55
+mc,5,125,2,{'hiv': 2},1.6
+scientist 1,5,101,4,{'hiv': 4},3.96
+dentist,5,87,0,{},0.0
+clerk,5,72,0,{},0.0
+scientist 2,4,73,0,{},0.0
+doctor matlock,3,77,0,{},0.0
+mr mackey,3,44,0,{},0.0
+waitress,3,41,0,{},0.0
+flight attendant,3,36,0,{},0.0
+mitch,3,27,3,"{'god': 1, 'hiv': 1, 'kill': 1}",11.11
+jimmy buffett,3,21,0,{},0.0
+doctor,2,57,1,{'hiv': 1},1.75
+doctor carroll,2,33,0,{},0.0
+butler,1,50,0,{},0.0
+anchorman,1,20,0,{},0.0
+driver,1,19,0,{},0.0
+mrmackey,1,13,0,{},0.0
+jimmy,1,6,0,{},0.0
+scientist 3,1,3,0,{},0.0
+scientist 4,1,2,0,{},0.0
+clyde,1,1,0,{},0.0

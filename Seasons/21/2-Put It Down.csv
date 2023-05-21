@@ -1,0 +1,45 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+tweek,54,552,9,"{'god': 6, 'kill': 1, 'shit': 1, 'pawn': 1}",1.63
+craig,43,455,3,"{'god': 2, 'goddamn': 1}",0.66
+cartman,38,748,18,"{'kill': 3, 'shit': 3, 'god': 2, 'bitch': 2, 'pot': 2, 'fuckin': 1, 'gay': 1, 'crap': 1, 'stupid': 1, 'ass': 1, 'dick': 1}",2.41
+heidi,18,215,0,{},0.0
+pc principal,12,192,0,{},0.0
+stan,9,36,1,{'kill': 1},2.78
+fourth grade choir,8,46,0,{},0.0
+richard,7,50,0,{},0.0
+anchor 4,5,157,3,"{'fuck': 1, 'bitches': 1, 'ass': 1}",1.91
+driver 1,4,32,0,{},0.0
+butters,3,25,0,{},0.0
+wife,3,15,0,{},0.0
+father,2,24,2,"{'fat': 1, 'shit': 1}",8.33
+lola,2,21,0,{},0.0
+gary,2,12,0,{},0.0
+the parents,2,11,0,{},0.0
+kyle,2,10,0,{},0.0
+nancy,2,9,0,{},0.0
+anchor 1,1,51,0,{},0.0
+anchor 2,1,41,1,{'fucking': 1},2.44
+anchor 3,1,36,2,"{'dong': 1, 'fucking': 1}",5.56
+henry kline,1,32,0,{},0.0
+translator,1,27,0,{},0.0
+attendant,1,21,0,{},0.0
+henry,1,17,0,{},0.0
+townsman,1,16,0,{},0.0
+the governor,1,14,0,{},0.0
+driver 2,1,12,1,{'god': 1},8.33
+townsfolk,1,12,0,{},0.0
+choir and parents,1,11,0,{},0.0
+gary borkovec,1,10,0,{},0.0
+diner,1,10,0,{},0.0
+hannah williams,1,9,0,{},0.0
+shopper,1,8,0,{},0.0
+brian,1,8,0,{},0.0
+tolkien,1,7,0,{},0.0
+meagan,1,7,0,{},0.0
+jimmy,1,5,0,{},0.0
+hillary clinton,1,5,0,{},0.0
+mcdonalds worker,1,4,0,{},0.0
+doctor,1,4,0,{},0.0
+son,1,3,0,{},0.0
+daughter,1,3,0,{},0.0
+husband,1,2,0,{},0.0

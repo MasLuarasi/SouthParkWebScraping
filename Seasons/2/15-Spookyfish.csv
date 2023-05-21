@@ -1,0 +1,28 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+stan,77,601,6,"{'screwing': 1, 'damn': 1, 'bitch': 1, 'fatass': 1, 'kill': 1, 'fucking': 1}",1.0
+kyle,49,354,8,"{'hell': 1, 'god': 1, 'stupid': 1, 'sucks': 1, 'ass': 1, 'kill': 1, 'butthole': 1, 'damn': 1}",2.26
+cartman,47,567,21,"{'stupid': 4, 'ass': 2, 'hell': 2, 'god': 2, 'bitch': 2, 'pot': 2, 'assholes': 1, 'fat': 1, 'turd': 1, 'fatass': 1, 'screw': 1, 'suck': 1, 'fuck': 1}",3.7
+sharon,39,418,0,{},0.0
+evil cartman,23,276,1,{'murder': 1},0.36
+clerk,16,134,6,"{'damn': 2, 'hell': 2, 'pissed': 1, 'drunk': 1}",4.48
+aunt flo,15,119,0,{},0.0
+chef,13,107,1,{'god': 1},0.93
+randy,11,140,0,{},0.0
+evil stan,10,52,1,{'hells': 1},1.92
+officer barbrady,9,124,0,{},0.0
+evil kyle,7,58,0,{},0.0
+carol,6,71,2,{'drunk': 2},2.82
+kenny,5,16,0,{},0.0
+mayor mcdaniels,3,47,0,{},0.0
+cartman on left,3,34,0,{},0.0
+announcer,2,32,0,{},0.0
+stuart,2,17,2,"{'hell': 1, 'fat': 1}",11.76
+phillip,2,7,1,{'fart': 1},14.29
+cartman on right,2,5,1,{'screw': 1},20.0
+shelly,2,5,0,{},0.0
+both cartmans,2,4,0,{},0.0
+terrance,2,2,1,{'fart': 1},50.0
+stanley,1,3,0,{},0.0
+the boys,1,2,0,{},0.0
+kitty,1,1,0,{},0.0
+mr kitty,1,1,0,{},0.0

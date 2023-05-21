@@ -1,0 +1,54 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+cartman,34,305,4,"{'fuck': 2, 'assholes': 1, 'suck': 1}",1.31
+randy,34,245,1,{'damn': 1},0.41
+kyle,31,294,13,"{'god': 4, 'damn': 2, 'crap': 1, 'retard': 1, 'shit': 1, 'fatass': 1, 'stupid': 1, 'bitch': 1, 'kill': 1}",4.42
+stan,26,269,3,"{'stupid': 2, 'hell': 1}",1.12
+homeless advisor,16,261,4,"{'god': 3, 'fuck': 1}",1.53
+gerald,13,178,1,{'damn': 1},0.56
+stephen,9,51,0,{},0.0
+bum,8,18,0,{},0.0
+man 1,7,244,0,{},0.0
+linda,7,43,0,{},0.0
+the boys,7,15,0,{},0.0
+chris swollenballs,5,84,0,{},0.0
+aide,5,72,1,{'hell': 1},1.39
+jimbo,5,29,0,{},0.0
+dennis,5,26,0,{},0.0
+glen,4,129,0,{},0.0
+christine,4,27,1,{'asshole': 1},3.7
+kenny,4,21,1,{'fuck': 1},4.76
+bum 14,4,17,0,{},0.0
+steve,3,52,2,"{'gods': 1, 'god': 1}",3.85
+head of public safety,3,46,0,{},0.0
+man 2,3,23,0,{},0.0
+bum 7,3,12,1,{'god': 1},8.33
+mayor mcdaniels,2,27,0,{},0.0
+mr valmer,2,26,0,{},0.0
+bum 9,2,8,0,{},0.0
+bum 16,2,4,0,{},0.0
+mrs testaburger,1,23,0,{},0.0
+butters,1,17,0,{},0.0
+a man,1,13,0,{},0.0
+other members,1,10,0,{},0.0
+announcer,1,10,0,{},0.0
+fire chief,1,8,0,{},0.0
+bums,1,7,0,{},0.0
+bum 13,1,6,0,{},0.0
+bum 3,1,5,0,{},0.0
+clyde,1,4,0,{},0.0
+bum 11,1,4,0,{},0.0
+mr mackey,1,3,0,{},0.0
+bum 1,1,3,0,{},0.0
+bum 2,1,3,0,{},0.0
+bum 17,1,3,0,{},0.0
+bum 12,1,2,0,{},0.0
+backup singers,1,2,0,{},0.0
+bum 4,1,1,0,{},0.0
+bum 5,1,1,0,{},0.0
+bum 6,1,1,0,{},0.0
+bum 8,1,1,0,{},0.0
+bum 10,1,1,0,{},0.0
+bum 15,1,1,0,{},0.0
+bum 18,1,1,0,{},0.0
+woman,1,1,0,{},0.0
+a woman,1,1,0,{},0.0

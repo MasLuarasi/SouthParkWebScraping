@@ -1,0 +1,27 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+cartman,99,1606,18,"{'hell': 3, 'shithole': 2, 'stupid': 2, 'god': 2, 'ass': 1, 'boobs': 1, 'asses': 1, 'fart': 1, 'shit': 1, 'goddammit': 1, 'fucking': 1, 'goddamn': 1, 'sucks': 1}",1.12
+butters,62,660,3,"{'goddamn': 1, 'hell': 1, 'stupid': 1}",0.45
+kenny,17,45,2,{'fuck': 2},4.44
+liane,12,145,0,{},0.0
+manager,8,78,0,{},0.0
+stephen,7,142,0,{},0.0
+darryl,7,106,1,{'damn': 1},0.94
+banker,6,137,0,{},0.0
+construction worker,4,70,0,{},0.0
+reporter,3,127,0,{},0.0
+linda,3,6,1,{'god': 1},16.67
+scott,2,21,0,{},0.0
+clyde,2,17,0,{},0.0
+customer,2,14,0,{},0.0
+toddler,2,8,0,{},0.0
+child,2,5,0,{},0.0
+customer 2,1,15,0,{},0.0
+female customer,1,10,0,{},0.0
+kyle,1,9,1,{'fatass': 1},11.11
+stan,1,7,0,{},0.0
+customer 1,1,7,0,{},0.0
+mover,1,7,0,{},0.0
+male customer,1,6,0,{},0.0
+jimbo,1,5,0,{},0.0
+mayor mcdaniels,1,5,0,{},0.0
+teenager,1,1,0,{},0.0

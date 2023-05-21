@@ -1,0 +1,65 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+tolkien,64,610,4,"{'suck': 2, 'god': 2}",0.66
+cartman,25,244,6,"{'god': 1, 'goddammit': 1, 'ass': 1, 'hell': 1, 'nutsack': 1, 'pussy': 1}",2.46
+will smith,21,225,0,{},0.0
+mr garrison,18,307,1,{'damn': 1},0.33
+stan,17,145,1,{'pussy': 1},0.69
+kyle,16,121,6,"{'fat': 1, 'stupid': 1, 'whore': 1, 'asshole': 1, 'pussy': 1, 'puss': 1}",4.96
+frederick,15,215,0,{},0.0
+aslan,14,173,0,{},0.0
+lisa,11,68,0,{},0.0
+jimbo,10,127,1,{'screw': 1},0.79
+bob,10,115,1,{'whore': 1},0.87
+snoop dogg,9,115,1,{'hell': 1},0.87
+ms choksondik,9,61,1,{'god': 1},1.64
+skeeter,8,80,2,"{'damn': 1, 'stupid': 1}",2.5
+kobe bryant,7,55,0,{},0.0
+linda,7,38,0,{},0.0
+chef,6,40,0,{},0.0
+men,6,10,0,{},0.0
+butters,5,62,2,"{'god': 1, 'puss': 1}",3.23
+oprah winfrey,5,44,0,{},0.0
+thomas,4,40,0,{},0.0
+older boy,4,32,0,{},0.0
+mayor mcdaniels,3,43,1,{'god': 1},2.33
+bill cosby,3,43,0,{},0.0
+jada pinkett smith,3,26,0,{},0.0
+gerald,3,22,0,{},0.0
+millionaire protesters,3,13,0,{},0.0
+daniel,3,6,0,{},0.0
+lion 2,2,17,0,{},0.0
+randy,2,13,0,{},0.0
+craig,2,12,1,{'pussy': 1},8.33
+lion 1,2,11,0,{},0.0
+ned,2,6,0,{},0.0
+millionaires,2,2,0,{},0.0
+reporter,1,53,0,{},0.0
+sharon,1,18,0,{},0.0
+barkeep,1,18,0,{},0.0
+sheila,1,15,0,{},0.0
+engineer,1,12,0,{},0.0
+millionaire,1,12,0,{},0.0
+liane,1,10,0,{},0.0
+carl,1,9,0,{},0.0
+passenger 1,1,8,0,{},0.0
+milly larsen,1,7,0,{},0.0
+millionaire 1,1,7,0,{},0.0
+obese woman,1,6,0,{},0.0
+man 1,1,6,0,{},0.0
+player 4,1,5,0,{},0.0
+girl,1,4,0,{},0.0
+mrs larsen,1,4,0,{},0.0
+player 3,1,3,0,{},0.0
+player,1,3,0,{},0.0
+players,1,2,0,{},0.0
+clyde,1,1,0,{},0.0
+kids,1,1,0,{},0.0
+dominique and zizi,1,1,0,{},0.0
+a boy,1,1,0,{},0.0
+the kids,1,1,0,{},0.0
+bar patrons,1,1,0,{},0.0
+player 1,1,1,0,{},0.0
+player 2,1,1,0,{},0.0
+kenny,1,1,0,{},0.0
+passengers,1,1,0,{},0.0
+voices,1,1,0,{},0.0

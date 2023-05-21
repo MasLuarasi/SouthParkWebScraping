@@ -1,0 +1,57 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+cartman,64,875,25,"{'slaves': 5, 'god': 4, 'ass': 3, 'screw': 2, 'shit': 1, 'butthole': 1, 'fucking': 1, 'sucks': 1, 'damn': 1, 'gay': 1, 'assholes': 1, 'pussies': 1, 'suck': 1, 'hell': 1, 'slave': 1}",2.86
+jimbo,53,624,3,"{'god': 1, 'ass': 1, 'pussies': 1}",0.48
+stan,41,375,18,"{'hell': 4, 'fatass': 3, 'slave': 2, 'god': 2, 'dumbass': 1, 'pissed': 1, 'fat': 1, 'shit': 1, 'suck': 1, 'ass': 1, 'slaves': 1}",4.8
+kyle,36,340,12,"{'hell': 2, 'dick': 2, 'stupid': 2, 'slave': 2, 'slaves': 2, 'dumbass': 1, 'drunk': 1}",3.53
+randy,25,151,2,"{'bastards': 1, 'asses': 1}",1.32
+grandpa,14,201,10,"{'god': 3, 'hell': 2, 'peckers': 1, 'drunk': 1, 'wankers': 1, 'bastards': 1, 'slaves': 1}",4.98
+mr garrison,11,77,5,"{'bitches': 2, 'ass': 2, 'asses': 1}",6.49
+gerald,9,57,1,{'ass': 1},1.75
+larsen,8,87,0,{},0.0
+clinton,7,95,1,{'god': 1},1.05
+stuart,6,59,1,{'hell': 1},1.69
+men,6,18,0,{},0.0
+butters,4,76,2,"{'hell': 1, 'bitch': 1}",2.63
+reenactors,4,6,0,{},0.0
+al gore,3,35,0,{},0.0
+ralph,3,34,0,{},0.0
+mrs hollis,3,20,0,{},0.0
+dawkins,3,5,0,{},0.0
+reenactor,3,4,0,{},0.0
+guide,2,68,0,{},0.0
+suzette,2,30,1,{'breasts': 1},3.33
+advisor,2,24,0,{},0.0
+aide,2,10,0,{},0.0
+ned,2,7,0,{},0.0
+kenny,2,4,1,{'gay': 1},25.0
+soldiers,2,2,0,{},0.0
+confederates,2,2,0,{},0.0
+reporter,1,84,0,{},0.0
+announcer,1,30,0,{},0.0
+confederate 2,1,13,0,{},0.0
+sgt larsen,1,13,0,{},0.0
+soldier,1,11,0,{},0.0
+brunet,1,10,0,{},0.0
+leader,1,10,0,{},0.0
+man 1,1,8,0,{},0.0
+blond,1,7,0,{},0.0
+tourist,1,6,0,{},0.0
+man 2,1,5,0,{},0.0
+mailman,1,5,0,{},0.0
+solders,1,5,0,{},0.0
+driver,1,4,0,{},0.0
+elderly voice,1,4,0,{},0.0
+barbrady,1,3,0,{},0.0
+south park men,1,2,0,{},0.0
+confederate reenactors,1,1,0,{},0.0
+union reenactors,1,1,0,{},0.0
+confederate 1,1,1,0,{},0.0
+bartender,1,1,0,{},0.0
+reenactor 1,1,1,0,{},0.0
+reenactor 2,1,1,0,{},0.0
+reenactor 3,1,1,0,{},0.0
+reenactor 4,1,1,0,{},0.0
+officer,1,1,0,{},0.0
+man,1,1,0,{},0.0
+soldier 1,1,1,0,{},0.0
+soldier 2,1,1,0,{},0.0

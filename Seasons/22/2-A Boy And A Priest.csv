@@ -1,0 +1,38 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+fr maxi,50,707,3,"{'god': 2, 'gods': 1}",0.42
+randy,41,390,9,"{'naked': 1, 'fuckin': 1, 'hell': 1, 'shit': 1, 'sucks': 1, 'stupid': 1, 'maxi': 1, 'raped': 1, 'god': 1}",2.31
+butters,37,419,1,{'fuck': 1},0.24
+auxiliary,30,476,7,"{'cum': 4, 'rectal': 1, 'god': 1, 'kill': 1}",1.47
+stan,13,111,1,{'stupid': 1},0.9
+stephen,9,71,1,{'raped': 1},1.41
+kyle,8,92,0,{},0.0
+cartman,7,39,1,{'bitch': 1},2.56
+priest,6,28,1,{'cum': 1},3.57
+assistant,5,47,1,{'cum': 1},2.13
+clyde,5,46,1,{'fucking': 1},2.17
+archbishop,3,90,0,{},0.0
+mr mackey,3,60,0,{},0.0
+others,3,16,1,{'god': 1},6.25
+townsman 1,2,25,1,{'asses': 1},4.0
+townsman,2,17,0,{},0.0
+sharon,2,15,0,{},0.0
+woman,2,12,0,{},0.0
+congregants,2,10,0,{},0.0
+jimbo,2,7,0,{},0.0
+townsmen,2,5,0,{},0.0
+boys,2,2,0,{},0.0
+townsman 2,1,10,0,{},0.0
+townsman 3,1,10,0,{},0.0
+townsman 5,1,9,0,{},0.0
+woman 2,1,8,1,{'naked': 1},12.5
+linda,1,8,0,{},0.0
+shelley,1,7,0,{},0.0
+stuart,1,6,0,{},0.0
+kids voice,1,6,0,{},0.0
+josie,1,5,0,{},0.0
+woman 4,1,5,0,{},0.0
+ryan,1,3,0,{},0.0
+townsman 4,1,3,0,{},0.0
+kenny,1,2,0,{},0.0
+ted,1,1,0,{},0.0
+hazel,1,1,0,{},0.0

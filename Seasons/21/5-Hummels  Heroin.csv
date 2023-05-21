@@ -1,0 +1,32 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+stan,51,543,4,"{'bitch': 2, 'hell': 1, 'kill': 1}",0.74
+marcus,28,536,5,"{'hell': 1, 'rectal': 1, 'anus': 1, 'god': 1, 'ass': 1}",0.93
+cartman,23,254,6,"{'fuck': 2, 'heroin': 1, 'prostitutes': 1, 'damn': 1, 'rape': 1}",2.36
+marvin,21,276,7,"{'bitch': 2, 'farts': 2, 'suck': 1, 'shit': 1, 'douchebags': 1}",2.54
+mrs mcgullicutty,12,168,1,{'bitch': 1},0.6
+randy,9,141,1,{'ass': 1},0.71
+kyle,8,67,1,{'shit': 1},1.49
+the boys,8,45,0,{},0.0
+vicky,7,69,0,{},0.0
+butters,6,57,2,"{'screw': 1, 'goddamn': 1}",3.51
+ms mcgullicutty,5,80,1,{'ass': 1},1.25
+coroner,5,72,2,"{'rectal': 1, 'anal': 1}",2.78
+marcus dad,3,58,0,{},0.0
+officer stevens,3,36,0,{},0.0
+swiper,3,31,0,{},0.0
+johnson,2,21,0,{},0.0
+tony,2,21,0,{},0.0
+toby,2,19,1,{'asses': 1},5.26
+mr standish,2,18,0,{},0.0
+peppa,2,16,1,{'fuckin': 1},6.25
+receptionist,2,14,0,{},0.0
+chuck e cheese,2,9,0,{},0.0
+elderly man 3,2,4,2,"{'suck': 1, 'fuck': 1}",50.0
+chuck,1,14,1,{'shit': 1},7.14
+elderly man 1,1,14,0,{},0.0
+annie,1,11,0,{},0.0
+delivery man,1,8,0,{},0.0
+ambulance lady,1,8,0,{},0.0
+marcus mom,1,4,0,{},0.0
+residents,1,3,1,{'shit': 1},33.33
+elderly man 2,1,3,0,{},0.0

@@ -1,0 +1,25 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+butters,51,490,3,"{'kill': 1, 'pissing': 1, 'porn': 1}",0.61
+dr janus,42,771,9,"{'kill': 3, 'murder': 2, 'shit': 1, 'asshole': 1, 'fucking': 1, 'hell': 1}",1.17
+tuong lu kim,37,752,23,"{'shitty': 11, 'fucking': 3, 'fuck': 3, 'kill': 3, 'fucked': 2, 'crap': 1}",3.06
+mr takiyama,25,213,10,"{'fuck': 5, 'shitty': 2, 'kill': 2, 'peepee': 1}",4.69
+sgt yates,14,190,1,{'god': 1},0.53
+stephen,12,106,1,{'god': 1},0.94
+linda,7,36,1,{'god': 1},2.78
+steven,6,56,1,{'shit': 1},1.79
+alias 1,2,30,0,{},0.0
+psycho janus,2,20,1,{'kill': 1},5.0
+cashier,2,3,0,{},0.0
+field reporter,2,2,0,{},0.0
+mr mackey,1,29,0,{},0.0
+butters ,1,23,0,{},0.0
+black officer,1,11,0,{},0.0
+billy,1,9,1,{'poop': 1},11.11
+alias 2,1,9,0,{},0.0
+alias 4,1,9,0,{},0.0
+blond officer,1,9,0,{},0.0
+alias 3,1,8,0,{},0.0
+a woman,1,6,0,{},0.0
+matt,1,4,0,{},0.0
+other officers,1,4,0,{},0.0
+desk officer,1,2,0,{},0.0

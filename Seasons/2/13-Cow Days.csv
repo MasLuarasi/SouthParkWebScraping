@@ -1,0 +1,38 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+kyle,92,693,19,"{'ass': 2, 'fat': 2, 'damn': 2, 'bitch': 2, 'suck': 1, 'sucked': 1, 'dumbass': 1, 'stupid': 1, 'fatass': 1, 'fucking': 1, 'hell': 1, 'sucks': 1, 'kill': 1, 'prostitute': 1, 'bastards': 1}",2.74
+cartman,75,466,12,"{'damn': 3, 'bitch': 2, 'asshole': 1, 'god': 1, 'crap': 1, 'suck': 1, 'hell': 1, 'screw': 1, 'horny': 1}",2.58
+stan,54,340,10,"{'hell': 4, 'ass': 2, 'damn': 1, 'prostitute': 1, 'kill': 1, 'god': 1}",2.94
+operator,28,237,2,{'farts': 2},0.84
+jimbo,26,342,7,"{'god': 3, 'damn': 1, 'kill': 1, 'stupid': 1, 'hell': 1}",2.05
+officer barbrady,17,137,0,{},0.0
+mayor mcdaniels,12,131,1,{'god': 1},0.76
+mary,12,91,2,"{'shit': 1, 'god': 1}",2.2
+announcer,11,106,2,"{'prostitute': 1, 'whore': 1}",1.89
+kenny,9,55,2,"{'fucking': 1, 'god': 1}",3.64
+tom,8,69,0,{},0.0
+bob,6,61,2,"{'penis': 1, 'scrotum': 1}",3.28
+grey hat,6,54,0,{},0.0
+agent,6,45,0,{},0.0
+line ride operator,5,42,1,{'hell': 1},2.38
+fred the announcer,4,77,0,{},0.0
+dr doctor,4,38,2,"{'fat': 1, 'prostitute': 1}",5.26
+ned,4,12,0,{},0.0
+toss a ball operator,3,42,0,{},0.0
+mitchell,3,34,0,{},0.0
+chamber of farts ride,3,32,4,{'farts': 4},12.5
+sheila,3,27,0,{},0.0
+soldier,3,14,0,{},0.0
+chamber of farts operator,2,24,2,"{'farts': 1, 'stupid': 1}",8.33
+rancher,2,22,0,{},0.0
+photo seller,2,17,0,{},0.0
+jack,2,4,0,{},0.0
+mr garrison,1,20,2,"{'stupid': 1, 'farts': 1}",10.0
+host,1,20,0,{},0.0
+bob and audience,1,6,1,{'hell': 1},16.67
+crowd,1,6,0,{},0.0
+father maxi,1,6,0,{},0.0
+leonardo dicaprio,1,5,0,{},0.0
+tom and mary,1,3,0,{},0.0
+cows,1,1,0,{},0.0
+cow,1,1,0,{},0.0
+townspeople,1,1,0,{},0.0

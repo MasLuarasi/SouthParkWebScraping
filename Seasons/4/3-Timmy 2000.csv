@@ -1,0 +1,59 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+timmy,41,127,0,{},0.0
+chef,30,411,9,"{'god': 3, 'damn': 3, 'hell': 1, 'bastard': 1, 'asses': 1}",2.19
+stan,27,261,4,"{'retarded': 1, 'dick': 1, 'sucks': 1, 'ass': 1}",1.53
+skyler,26,271,0,{},0.0
+kyle,23,183,2,"{'bastard': 1, 'hell': 1}",1.09
+cartman,21,197,1,{'god': 1},0.51
+phil collins,18,319,3,{'bastards': 3},0.94
+mr garrison,18,262,4,"{'god': 1, 'vaginas': 1, 'sex': 1, 'bastards': 1}",1.53
+clinic doctor,16,258,2,{'god': 2},0.78
+pharmacist,11,98,1,{'god': 1},1.02
+jonesy,11,86,1,{'sucks': 1},1.16
+mr mackey,7,86,0,{},0.0
+principal victoria,7,60,0,{},0.0
+mark,6,47,0,{},0.0
+the lords,6,28,0,{},0.0
+kenny,5,11,0,{},0.0
+kurt loder,4,136,0,{},0.0
+dr shay,4,92,0,{},0.0
+mc,4,71,0,{},0.0
+liane,4,15,0,{},0.0
+announcer,3,85,0,{},0.0
+sharon,3,35,0,{},0.0
+woman,3,33,0,{},0.0
+christina aguilera monster,3,3,0,{},0.0
+anchor,2,36,0,{},0.0
+sheila,2,29,0,{},0.0
+man 3,2,22,0,{},0.0
+randy,2,21,0,{},0.0
+gerald,2,15,0,{},0.0
+phillip,2,14,0,{},0.0
+boy 1,2,12,0,{},0.0
+audience,2,9,0,{},0.0
+stan kyle cartman,2,6,0,{},0.0
+crowd,2,2,0,{},0.0
+richard,2,2,0,{},0.0
+parents,2,2,0,{},0.0
+charlie rose,1,48,0,{},0.0
+girl,1,21,0,{},0.0
+host,1,17,0,{},0.0
+singer,1,13,0,{},0.0
+band,1,12,0,{},0.0
+carol,1,8,0,{},0.0
+other classmates,1,7,0,{},0.0
+man 1,1,5,0,{},0.0
+man 2,1,5,0,{},0.0
+a singer,1,5,0,{},0.0
+drummer,1,3,1,{'suck': 1},33.33
+terrance,1,3,0,{},0.0
+guy in flat top,1,2,1,{'suck': 1},50.0
+guy in audience,1,2,1,{'god': 1},50.0
+fosse,1,2,1,{'gay': 1},50.0
+man,1,2,0,{},0.0
+wendy,1,1,0,{},0.0
+mr mackey principal victoria,1,1,0,{},0.0
+stan and kyle,1,1,0,{},0.0
+people in audience,1,1,0,{},0.0
+helen,1,1,0,{},0.0
+the boys,1,1,0,{},0.0

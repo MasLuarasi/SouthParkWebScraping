@@ -1,0 +1,31 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+stan,71,643,2,"{'stupid': 1, 'fat': 1}",0.31
+president,35,811,7,"{'stupid': 3, 'crap': 2, 'dummy': 1, 'fucking': 1}",0.86
+randy,22,235,2,{'hell': 2},0.85
+cruise,21,143,1,{'stupid': 1},0.7
+brian,20,260,0,{},0.0
+kyle,10,101,0,{},0.0
+sharon,9,50,0,{},0.0
+michelle,7,220,0,{},0.0
+r kelly,6,203,3,"{'bitch': 2, 'shit': 1}",1.48
+chris,6,141,0,{},0.0
+cartman,6,65,0,{},0.0
+nicole,5,102,0,{},0.0
+woman,5,89,0,{},0.0
+travolta,5,60,2,{'god': 2},3.33
+kelly,4,48,0,{},0.0
+mike,4,41,0,{},0.0
+man,3,32,0,{},0.0
+xenu,3,14,0,{},0.0
+man 3,2,20,1,{'ass': 1},5.0
+cruise travolta,2,19,0,{},0.0
+man 2,2,4,0,{},0.0
+crowd,2,4,0,{},0.0
+sergeant,1,40,0,{},0.0
+recruiter,1,29,0,{},0.0
+john travolta,1,15,1,{'god': 1},6.67
+shelly,1,6,1,{'god': 1},16.67
+mr mackey,1,6,0,{},0.0
+man 4,1,4,0,{},0.0
+kenny,1,2,0,{},0.0
+marvin,1,1,0,{},0.0

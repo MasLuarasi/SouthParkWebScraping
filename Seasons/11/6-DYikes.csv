@@ -1,0 +1,45 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+janet,64,765,17,"{'lesbos': 6, 'god': 2, 'dyke': 1, 'pussy': 1, 'lesbians': 1, 'gals': 1, 'hell': 1, 'buttholes': 1, 'faggot': 1, 'asshole': 1, 'assholes': 1}",2.22
+allyson,23,235,1,{'sex': 1},0.43
+mrs garrison,16,342,13,"{'god': 2, 'stupid': 2, 'fuck': 1, 'damn': 1, 'ass': 1, 'sex': 1, 'bastard': 1, 'hell': 1, 'assholes': 1, 'pissed': 1, 'gay': 1}",3.8
+cartman,15,149,4,"{'fuckin': 1, 'ass': 1, 'hell': 1, 'crap': 1}",2.68
+laborer 1,15,127,0,{},0.0
+kyle,13,86,3,"{'god': 1, 'fucked': 1, 'bitch': 1}",3.49
+xerxes,12,128,4,"{'pissed': 1, 'testicle': 1, 'lesbos': 1, 'lesbians': 1}",3.12
+stan,11,78,0,{},0.0
+narrator,9,265,13,"{'lesbos': 8, 'lesbians': 2, 'lesbo': 2, 'dyke': 1}",4.91
+laborer 2,9,44,0,{},0.0
+laborer 4,7,14,0,{},0.0
+emir,6,121,0,{},0.0
+tumon,6,64,2,"{'lesbians': 1, 'lesbos': 1}",3.12
+linda,5,33,0,{},0.0
+lesbian 6,5,16,0,{},0.0
+mayor mcdaniels,4,54,0,{},0.0
+laborer 5,4,45,0,{},0.0
+woman,3,31,0,{},0.0
+katie,3,25,0,{},0.0
+tracy,3,18,0,{},0.0
+laborers,3,9,0,{},0.0
+laborer 3,3,5,0,{},0.0
+butters,2,24,1,{'penis': 1},4.17
+big woman,2,16,0,{},0.0
+kenny,2,10,1,{'hell': 1},10.0
+woman 2,2,9,0,{},0.0
+lesbians,2,5,0,{},0.0
+jimmy,1,30,0,{},0.0
+anchor,1,18,1,{'lesbians': 1},5.56
+lesbian 4,1,15,0,{},0.0
+lesbian 7,1,12,0,{},0.0
+lesbian 10,1,11,0,{},0.0
+clyde,1,5,0,{},0.0
+woman 3,1,4,0,{},0.0
+lesbian 5,1,4,0,{},0.0
+patty,1,3,0,{},0.0
+persian,1,3,0,{},0.0
+lesbian 8,1,3,0,{},0.0
+lesbian 9,1,3,0,{},0.0
+the boys,1,2,0,{},0.0
+lesbian 11,1,2,0,{},0.0
+stan and kyle,1,1,0,{},0.0
+class,1,1,0,{},0.0
+persians,1,1,0,{},0.0

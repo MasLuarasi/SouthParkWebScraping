@@ -1,0 +1,32 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+randy,43,619,11,"{'god': 3, 'damn': 1, 'hell': 1, 'fucking': 1, 'bitch': 1, 'shit': 1, 'pussy': 1, 'kill': 1, 'ass': 1}",1.78
+kyle,24,261,3,"{'kill': 2, 'bitch': 1}",1.15
+stan,24,163,3,"{'hell': 1, 'god': 1, 'fuck': 1}",1.84
+cartman,19,148,1,{'hell': 1},0.68
+jimmy,15,204,0,{},0.0
+nathan,13,223,1,{'prostitutes': 1},0.45
+leslie,13,174,2,{'god': 2},1.15
+liane,12,105,0,{},0.0
+classi,10,131,14,"{'ass': 4, 'dick': 3, 'fucks': 2, 'fuckin': 2, 'hell': 1, 'asshole': 1, 'bitch': 1}",10.69
+mr garrison,10,97,2,{'fuck': 2},2.06
+pc principal,8,296,2,"{'pisses': 1, 'kill': 1}",0.68
+sharon,8,55,0,{},0.0
+weathers,7,82,1,{'god': 1},1.22
+principal victoria,6,96,0,{},0.0
+david,6,72,1,{'maxi': 1},1.39
+shelly,6,51,2,{'god': 2},3.92
+butters,6,32,0,{},0.0
+announcer,5,91,0,{},0.0
+mr mackey,5,73,0,{},0.0
+officer barbrady,4,36,1,{'god': 1},2.78
+jimbo,3,72,0,{},0.0
+kenny,2,14,1,{'fuckin': 1},7.14
+johnson,1,16,0,{},0.0
+stephen,1,16,0,{},0.0
+gerald,1,11,0,{},0.0
+russian 3,1,10,0,{},0.0
+caitlyn,1,9,1,{'fuck': 1},11.11
+charlotte,1,6,0,{},0.0
+russian 2,1,5,0,{},0.0
+russian 1,1,3,0,{},0.0
+caitlyn jenner,1,3,0,{},0.0

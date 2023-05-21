@@ -1,0 +1,28 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+randy,65,1278,26,"{'hell': 6, 'shit': 4, 'fuckin': 2, 'asshole': 2, 'crap': 2, 'fuck': 1, 'bitch': 1, 'fucking': 1, 'goddammit': 1, 'anal': 1, 'rape': 1, 'raped': 1, 'god': 1, 'whore': 1, 'suck': 1}",2.03
+stan,21,221,3,"{'hell': 2, 'asshole': 1}",1.36
+cartman,17,285,5,"{'dick': 2, 'asshole': 1, 'boobs': 1, 'hell': 1}",1.75
+dna test administrator,16,295,2,"{'anal': 1, 'homo': 1}",0.68
+kyle,13,164,1,{'shit': 1},0.61
+mr galtman,13,100,0,{},0.0
+bill,13,100,0,{},0.0
+sharon,10,84,0,{},0.0
+kenny,8,74,2,"{'dick': 1, 'ass': 1}",2.7
+butters,6,68,0,{},0.0
+field reporter,4,106,1,{'douche': 1},0.94
+announcer,3,73,0,{},0.0
+masked voice,3,47,0,{},0.0
+peter galtman,2,85,0,{},0.0
+steve,2,24,0,{},0.0
+jimmy,2,13,0,{},0.0
+driver,1,26,0,{},0.0
+woman 1,1,20,0,{},0.0
+cyclist,1,18,0,{},0.0
+kurt,1,11,1,{'hell': 1},9.09
+dave,1,10,0,{},0.0
+shelly,1,7,1,{'shit': 1},14.29
+woman 2,1,7,0,{},0.0
+female jogger,1,3,0,{},0.0
+painter,1,3,0,{},0.0
+office worker,1,2,0,{},0.0
+mrs galtman,1,2,0,{},0.0

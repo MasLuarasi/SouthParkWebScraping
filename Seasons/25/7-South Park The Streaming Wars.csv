@@ -1,0 +1,33 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+cartman,74,1000,21,"{'tits': 11, 'fucking': 3, 'fuck': 2, 'titties': 1, 'god': 1, 'breasts': 1, 'pissed': 1, 'boobs': 1}",2.1
+randy,50,813,18,"{'weed': 4, 'fucking': 4, 'fuck': 2, 'stupid': 2, 'fucked': 1, 'dick': 1, 'cock': 1, 'sucking': 1, 'cunt': 1, 'screw': 1}",2.21
+stan,47,437,3,"{'hell': 2, 'fuck': 1}",0.69
+liane,37,332,2,"{'boob': 1, 'breasts': 1}",0.6
+steve,27,421,6,"{'weed': 3, 'bitch': 1, 'asses': 1, 'goddamn': 1}",1.43
+tolkien,27,247,1,{'piss': 1},0.4
+kyle,24,176,4,"{'shit': 1, 'hell': 1, 'fucking': 1, 'tits': 1}",2.27
+water commissioner,22,370,2,"{'weed': 1, 'piss': 1}",0.54
+pi pi,20,440,9,"{'pee': 5, 'kill': 2, 'fucked': 1, 'suck': 1}",2.05
+mr cussler,13,204,1,{'damn': 1},0.49
+yates,10,141,2,{'shit': 2},1.42
+realtor,10,134,0,{},0.0
+kenny,10,62,5,"{'fuck': 1, 'ass': 1, 'dick': 1, 'shit': 1, 'fucking': 1}",8.06
+mulhulland,8,200,0,{},0.0
+butters,7,165,7,"{'fuck': 3, 'shit': 2, 'sucking': 1, 'fucking': 1}",4.24
+unnamed man 3,6,153,0,{},0.0
+dr stevens,6,122,1,{'breasts': 1},0.82
+shelley,6,35,0,{},0.0
+sharon,3,16,0,{},0.0
+linda,2,22,0,{},0.0
+officer,2,17,0,{},0.0
+bus driver,2,8,0,{},0.0
+weatherman,1,56,0,{},0.0
+tom,1,31,0,{},0.0
+audience member 1,1,24,0,{},0.0
+nurse,1,6,0,{},0.0
+unnamed man 1,1,5,0,{},0.0
+unnamed man 2,1,5,0,{},0.0
+audience member 2,1,4,0,{},0.0
+towelie,1,4,0,{},0.0
+crowd,1,2,0,{},0.0
+stan and tolkien,1,1,0,{},0.0

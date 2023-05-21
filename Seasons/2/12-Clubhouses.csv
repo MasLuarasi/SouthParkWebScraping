@@ -1,0 +1,35 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+stan,113,764,10,"{'fat': 3, 'ass': 1, 'suck': 1, 'sucks': 1, 'dumbass': 1, 'crap': 1, 'dick': 1, 'stupid': 1}",1.31
+cartman,54,499,12,"{'bitchin': 2, 'hell': 2, 'crap': 2, 'ass': 1, 'stupid': 1, 'asshole': 1, 'shit': 1, 'sucks': 1, 'god': 1}",2.4
+kyle,46,258,7,"{'hell': 2, 'suck': 1, 'ass': 1, 'dumbass': 1, 'fucking': 1, 'bastard': 1}",2.71
+sharon,45,436,3,"{'fat': 1, 'god': 1, 'bastard': 1}",0.69
+randy,45,371,3,"{'bitch': 1, 'stupid': 1, 'crap': 1}",0.81
+wendy,23,177,1,{'sucks': 1},0.56
+bebe,22,147,2,{'ass': 2},1.36
+roy,17,212,2,"{'ass': 1, 'suck': 1}",0.94
+mr mackey,14,139,0,{},0.0
+runaway girl 1,13,174,4,"{'crap': 2, 'bitch': 1, 'shit': 1}",2.3
+mr garrison,12,187,1,{'whore': 1},0.53
+fat abbot,11,152,23,"{'bitch': 6, 'ass': 4, 'shit': 4, 'motherfucker': 2, 'punkass': 1, 'shithead': 1, 'fuckin': 1, 'snatch': 1, 'damn': 1, 'suck': 1, 'dick': 1}",15.13
+kenny,11,50,5,"{'suck': 2, 'fuck': 1, 'ass': 1, 'dick': 1}",10.0
+chef,8,90,0,{},0.0
+terrance,8,43,0,{},0.0
+liane,6,49,0,{},0.0
+rudy,4,29,4,"{'fat': 2, 'bitch': 1, 'ass': 1}",13.79
+phillip,4,13,1,{'god': 1},7.69
+runaway girl 2,3,37,0,{},0.0
+yolanda,3,16,2,{'fat': 2},12.5
+bill,1,38,4,"{'ass': 2, 'fat': 1, 'snatch': 1}",10.53
+host,1,15,0,{},0.0
+mr twig,1,10,0,{},0.0
+runaway girl 1 passenger,1,9,0,{},0.0
+donald,1,7,0,{},0.0
+older kid,1,7,0,{},0.0
+fosse,1,6,0,{},0.0
+butters,1,3,0,{},0.0
+kevin,1,3,0,{},0.0
+guy in leather jacket,1,2,0,{},0.0
+guy with long hair,1,2,0,{},0.0
+punk,1,2,0,{},0.0
+clyde,1,1,1,{'bitchin': 1},100.0
+class,1,1,0,{},0.0

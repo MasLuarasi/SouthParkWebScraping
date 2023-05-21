@@ -1,0 +1,33 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+sheila,29,351,3,"{'god': 2, 'anus': 1}",0.85
+kyle,26,289,5,"{'shit': 3, 'fuck': 1, 'poop': 1}",1.73
+cartman,23,209,4,"{'fat': 1, 'bitch': 1, 'poop': 1, 'turd': 1}",1.91
+harriet,20,256,9,"{'shitting': 2, 'poop': 1, 'goddamned': 1, 'bitch': 1, 'fat': 1, 'whore': 1, 'bitches': 1, 'fuck': 1}",3.52
+dr gauche,17,384,5,"{'vagina': 1, 'kill': 1, 'anus': 1, 'asses': 1, 'turd': 1}",1.3
+laura,15,150,6,"{'bitch': 3, 'anal': 1, 'god': 1, 'shit': 1}",4.0
+stan,12,124,2,{'poop': 2},1.61
+linda s,11,90,8,"{'fuck': 5, 'shit': 1, 'asses': 1, 'god': 1}",8.89
+tom,10,217,3,"{'god': 1, 'screwing': 1, 'shit': 1}",1.38
+mr mackey,6,110,2,"{'turd': 1, 'poop': 1}",1.82
+mrs biggle,6,96,2,"{'poop': 1, 'cunt': 1}",2.08
+narrator,5,180,1,{'crotch': 1},0.56
+publicist,5,54,0,{},0.0
+yates,5,26,0,{},0.0
+kenny,5,12,1,{'hell': 1},8.33
+mabel,4,30,0,{},0.0
+sportswriter,3,34,0,{},0.0
+mom,3,24,0,{},0.0
+ike,3,17,1,{'god': 1},5.88
+announcer,2,16,0,{},0.0
+reporter 1,2,10,2,{'poop': 2},20.0
+the other ladies,2,3,0,{},0.0
+kyle voice over,1,18,0,{},0.0
+reporter 2,1,18,0,{},0.0
+sportwriter,1,6,1,{'poop': 1},16.67
+male diner,1,5,0,{},0.0
+janice,1,4,0,{},0.0
+a driver,1,4,0,{},0.0
+theresa,1,3,0,{},0.0
+mrs testaburger,1,2,0,{},0.0
+kyle ike,1,1,0,{},0.0
+all,1,1,0,{},0.0

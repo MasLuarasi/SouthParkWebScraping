@@ -1,0 +1,45 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+cartman,53,925,6,"{'god': 2, 'gay': 2, 'bitch': 1, 'hell': 1}",0.65
+kyle,39,422,14,"{'bitch': 2, 'fat': 2, 'bastard': 2, 'fatass': 2, 'hell': 1, 'stupid': 1, 'fucking': 1, 'slope': 1, 'crap': 1, 'ass': 1}",3.32
+fox president,26,330,0,{},0.0
+bart,16,78,2,"{'motherfucker': 1, 'fucking': 1}",2.56
+mitchell,11,296,0,{},0.0
+president bush,9,130,1,{'crap': 1},0.77
+woman,8,52,0,{},0.0
+peter,7,56,0,{},0.0
+snn anchor,5,98,0,{},0.0
+terrance,5,55,2,"{'farts': 1, 'hell': 1}",3.64
+reporters,5,9,0,{},0.0
+network president,4,99,0,{},0.0
+trucker,4,68,1,{'ass': 1},1.47
+phillip,4,52,0,{},0.0
+al zawahri,3,48,0,{},0.0
+receptionist,2,38,0,{},0.0
+reporter 1,2,33,0,{},0.0
+announcer,2,28,0,{},0.0
+tco reporter,2,28,0,{},0.0
+receptionist 2,2,22,0,{},0.0
+lois,2,15,0,{},0.0
+mohammad,2,11,1,{'murder': 1},9.09
+american male 1,2,11,1,{'crap': 1},9.09
+american male 2,2,8,1,{'crap': 1},12.5
+osama bin laden,1,27,1,{'gay': 1},3.7
+reporter 3,1,21,0,{},0.0
+prof thomas,1,16,0,{},0.0
+reporter 4,1,16,0,{},0.0
+staffer,1,16,0,{},0.0
+miss travis,1,16,0,{},0.0
+jesus,1,15,1,{'crap': 1},6.67
+american female,1,11,0,{},0.0
+reporter 2,1,9,0,{},0.0
+lsx reporter,1,6,0,{},0.0
+an official,1,6,0,{},0.0
+all,1,4,1,{'crap': 1},25.0
+gary coleman,1,4,0,{},0.0
+staff,1,3,0,{},0.0
+waiter,1,3,0,{},0.0
+executive,1,3,0,{},0.0
+computer voice,1,3,0,{},0.0
+american male 3,1,2,1,{'crap': 1},50.0
+reporter 5,1,2,0,{},0.0
+programmer 1,1,2,0,{},0.0

@@ -1,0 +1,45 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+kyle,47,546,9,"{'gay': 1, 'bitch': 1, 'raped': 1, 'stupid': 1, 'asshole': 1, 'damn': 1, 'hell': 1, 'kill': 1, 'god': 1}",1.65
+cartman,38,381,10,"{'douchebag': 2, 'hell': 2, 'fuckin': 1, 'pissed': 1, 'screws': 1, 'stupid': 1, 'god': 1, 'damn': 1}",2.62
+det harris,23,244,4,"{'god': 2, 'shit': 1, 'hell': 1}",1.64
+stan,18,192,7,"{'asshole': 1, 'vulgar': 1, 'crap': 1, 'damn': 1, 'clit': 1, 'stupid': 1, 'ass': 1}",3.65
+randy,17,293,5,"{'god': 2, 'bastards': 1, 'bitch': 1, 'shit': 1}",1.71
+record producer,15,317,3,"{'god': 1, 'hell': 1, 'damn': 1}",0.95
+pewdiepie,11,143,5,"{'god': 2, 'fat': 2, 'damn': 1}",3.5
+mjs hologram,11,114,1,{'kill': 1},0.88
+ron,9,100,0,{},0.0
+bill cosby,7,124,0,{},0.0
+sharon,7,41,0,{},0.0
+announcer,6,126,2,{'fuck': 2},1.59
+front desk officer,5,58,0,{},0.0
+sheila,5,29,0,{},0.0
+taylor,5,27,0,{},0.0
+peterson,4,72,2,"{'kill': 1, 'whitey': 1}",2.78
+conner,4,42,1,{'hell': 1},2.38
+dad,4,41,1,{'damn': 1},2.44
+officer 4,4,26,0,{},0.0
+adams,4,23,0,{},0.0
+bills hologram,4,23,0,{},0.0
+officer 1,3,26,1,{'asshole': 1},3.85
+controller 2,3,25,0,{},0.0
+butters,3,19,2,{'gay': 2},10.53
+kid 2,3,19,0,{},0.0
+steve,2,36,0,{},0.0
+kurts hologram,2,20,0,{},0.0
+mitchell,2,18,0,{},0.0
+controller 1,2,17,0,{},0.0
+kid 4,2,15,1,{'crap': 1},6.67
+elvis hologram,2,12,0,{},0.0
+kid 3,2,9,0,{},0.0
+mom,2,9,0,{},0.0
+iggys ass,2,8,0,{},0.0
+exec 1,1,21,0,{},0.0
+exec 2,1,17,1,{'fuck': 1},5.88
+officer 6,1,14,0,{},0.0
+officer 2,1,11,0,{},0.0
+officer 5,1,10,0,{},0.0
+stephen,1,10,0,{},0.0
+officer 3,1,7,0,{},0.0
+girl,1,1,0,{},0.0
+ike,1,1,0,{},0.0
+kids,1,1,0,{},0.0

@@ -1,0 +1,52 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+stan,43,270,13,"{'ass': 3, 'sucks': 3, 'hell': 2, 'suck': 1, 'pee': 1, 'crap': 1, 'god': 1, 'fuck': 1}",4.81
+cartman,39,297,13,"{'bitches': 4, 'screw': 3, 'goddamn': 1, 'suck': 1, 'ass': 1, 'nutsack': 1, 'pee': 1, 'crap': 1}",4.38
+jimbo,36,353,7,"{'hell': 3, 'damn': 2, 'god': 1, 'stupid': 1}",1.98
+kyle,36,245,10,"{'ass': 3, 'fat': 2, 'stupid': 1, 'bastards': 1, 'pee': 1, 'bastard': 1, 'kill': 1}",4.08
+mr garrison,32,359,14,"{'goddammit': 2, 'fuck': 2, 'hell': 2, 'gay': 2, 'bastards': 1, 'shit': 1, 'fuckin': 1, 'sex': 1, 'homo': 1, 'whore': 1}",3.9
+mayor mcdaniels,28,405,10,"{'hell': 3, 'god': 2, 'ass': 1, 'fuckin': 1, 'asshole': 1, 'shits': 1, 'fuck': 1}",2.47
+charlie,12,131,0,{},0.0
+instructor,12,86,1,{'stroke': 1},1.16
+ned,11,73,0,{},0.0
+dr katz,11,67,2,{'gay': 2},2.99
+stu,7,34,0,{},0.0
+aide 2,7,34,0,{},0.0
+aide 1,5,74,0,{},0.0
+officer barbrady,5,45,0,{},0.0
+guard,5,40,0,{},0.0
+creamy goodness,4,152,0,{},0.0
+mr romero,4,58,0,{},0.0
+pip,4,42,0,{},0.0
+reporter,3,47,0,{},0.0
+chef,3,34,1,{'asses': 1},2.94
+lamb chop,3,20,0,{},0.0
+shari,3,14,0,{},0.0
+caller mr mackey,3,12,0,{},0.0
+kids,3,3,0,{},0.0
+audience,3,3,0,{},0.0
+anchor,2,54,0,{},0.0
+man,2,19,0,{},0.0
+kenny,2,15,0,{},0.0
+proprietor,2,13,0,{},0.0
+reporter 4,2,6,0,{},0.0
+stankyle,2,2,0,{},0.0
+mr katz,1,38,3,{'gay': 3},7.89
+tom,1,26,0,{},0.0
+preacher,1,11,0,{},0.0
+citizen,1,11,0,{},0.0
+shari lewis,1,10,0,{},0.0
+mr twig,1,9,0,{},0.0
+assistant,1,8,0,{},0.0
+new mormon,1,8,0,{},0.0
+brett favre,1,8,0,{},0.0
+reporter 2,1,8,0,{},0.0
+father,1,6,0,{},0.0
+citizen 2,1,6,0,{},0.0
+print reporter,1,5,0,{},0.0
+mother,1,4,0,{},0.0
+man 2,1,4,0,{},0.0
+reporter 3,1,4,0,{},0.0
+man 1,1,3,0,{},0.0
+boys,1,2,0,{},0.0
+stankyle kenny,1,1,0,{},0.0
+stankyle cartman,1,1,0,{},0.0

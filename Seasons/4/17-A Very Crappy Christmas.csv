@@ -1,0 +1,47 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+kyle,85,688,7,"{'god': 2, 'sucks': 1, 'fat': 1, 'fuckin': 1, 'fatass': 1, 'hell': 1}",1.02
+stan,61,431,5,"{'fat': 2, 'sucked': 1, 'fatass': 1, 'shit': 1}",1.16
+mr hankey,46,494,8,"{'crap': 3, 'drunk': 2, 'stupid': 2, 'bitchin': 1}",1.62
+cartman,28,254,10,"{'fat': 3, 'god': 1, 'asshole': 1, 'goddamned': 1, 'sucks': 1, 'stupid': 1, 'screw': 1, 'hell': 1}",3.94
+mayor,16,239,0,{},0.0
+cornwallis,14,171,4,"{'crap': 3, 'stupid': 1}",2.34
+autumn,13,141,6,"{'hell': 2, 'god': 1, 'naked': 1, 'breasts': 1, 'penis': 1}",4.26
+sound man,8,52,1,{'fat': 1},1.92
+the boys,5,10,0,{},0.0
+butters,4,139,1,{'titties': 1},0.72
+amber,4,24,0,{},0.0
+boys,4,20,0,{},0.0
+news anchor,3,75,0,{},0.0
+johnson,3,15,0,{},0.0
+ms choksondik,2,56,0,{},0.0
+man,2,29,0,{},0.0
+sheila,2,19,0,{},0.0
+jesus,2,18,0,{},0.0
+santa,2,15,0,{},0.0
+man 2,2,13,0,{},0.0
+ike,2,7,0,{},0.0
+simon,2,5,0,{},0.0
+kenny,2,4,0,{},0.0
+teles owner,1,38,1,{'crap': 1},2.63
+kids,1,16,0,{},0.0
+sharon,1,16,0,{},0.0
+red,1,15,0,{},0.0
+randy,1,14,0,{},0.0
+mr hankey cornwallis,1,12,0,{},0.0
+mr mackey,1,12,0,{},0.0
+charlie brown,1,10,0,{},0.0
+charlie,1,10,0,{},0.0
+aide 2,1,9,0,{},0.0
+woman,1,6,0,{},0.0
+boys hankeys,1,6,0,{},0.0
+aide,1,6,0,{},0.0
+man 5,1,4,1,{'god': 1},25.0
+siimon,1,4,0,{},0.0
+assistant,1,3,0,{},0.0
+man 3,1,3,0,{},0.0
+grandpa,1,3,0,{},0.0
+crowd,1,2,0,{},0.0
+man 4,1,1,1,{'stupid': 1},100.0
+the nuggets,1,1,0,{},0.0
+stan kyle,1,1,0,{},0.0
+various folk,1,1,0,{},0.0

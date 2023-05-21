@@ -1,0 +1,47 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+priest maxi,36,730,14,"{'god': 5, 'sex': 4, 'sexual': 1, 'maxi': 1, 'hell': 1, 'stupid': 1, 'crap': 1}",1.92
+cartman,30,365,8,"{'crap': 4, 'god': 2, 'goddammit': 1, 'stupid': 1}",2.19
+kyle,25,206,10,"{'crap': 3, 'fat': 2, 'fuck': 2, 'stupid': 2, 'ass': 1}",4.85
+randy,19,268,3,"{'assholes': 1, 'screwed': 1, 'god': 1}",1.12
+stan,18,126,3,"{'ass': 2, 'crap': 1}",2.38
+italian cardinal,13,219,7,"{'maxi': 5, 'sex': 2}",3.2
+richard,10,133,4,"{'god': 3, 'maxis': 1}",3.01
+counselor,6,93,2,{'maxi': 2},2.15
+sharon,6,72,2,{'potty': 2},2.78
+tweek,5,24,1,{'kill': 1},4.17
+priest 1,4,63,1,{'maxi': 1},1.59
+old monk,4,58,0,{},0.0
+british cardinal,4,57,1,{'maxi': 1},1.75
+elderly priest,4,52,1,{'maxi': 1},1.92
+linda,4,38,0,{},0.0
+all,4,11,0,{},0.0
+news anchor,3,83,2,"{'ass': 1, 'crap': 1}",2.41
+roger,3,80,1,{'god': 1},1.25
+gelgamek cardinal,3,48,2,"{'vagina': 1, 'sex': 1}",4.17
+french cardinal,3,27,1,{'maxi': 1},3.7
+priest 2,3,24,1,{'sex': 1},4.17
+stephen,3,22,2,"{'kill': 1, 'god': 1}",9.09
+boys,3,3,0,{},0.0
+martha stewart,2,186,3,{'ass': 3},1.61
+a bishop,2,36,0,{},0.0
+another cardinal,2,31,1,{'sex': 1},3.23
+parents,2,16,4,{'god': 4},25.0
+queen spider,2,16,0,{},0.0
+the clergy,2,9,0,{},0.0
+butters,2,6,0,{},0.0
+chef,2,5,0,{},0.0
+other priests,2,4,0,{},0.0
+craig,2,4,0,{},0.0
+surgeon general,1,77,1,{'anus': 1},1.3
+stuart,1,23,0,{},0.0
+moroccan cardinal,1,22,0,{},0.0
+thomas,1,18,0,{},0.0
+singer,1,9,0,{},0.0
+fat priest,1,8,0,{},0.0
+announcer,1,7,0,{},0.0
+fbi agent,1,6,0,{},0.0
+priest 3,1,5,0,{},0.0
+priest 4,1,5,0,{},0.0
+a man,1,5,0,{},0.0
+other cardinals,1,2,0,{},0.0
+stan cartman,1,1,0,{},0.0

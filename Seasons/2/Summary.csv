@@ -1,0 +1,453 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+stan,855,6105,129,"{'god': 19, 'ass': 15, 'hell': 12, 'sucks': 8, 'stupid': 8, 'dick': 7, 'fat': 6, 'damn': 6, 'kill': 5, 'crap': 5, 'herpes': 4, 'suck': 4, 'bitch': 3, 'fatass': 3, 'screwed': 3, 'sucked': 2, 'weirdo': 2, 'dumbass': 2, 'prostitute': 2, 'fucked': 2, 'penis': 1, 'sex': 1, 'goddammit': 1, 'asses': 1, 'fart': 1, 'pee': 1, 'fuck': 1, 'screwing': 1, 'fucking': 1, 'dummy': 1, 'butthole': 1}",2.11
+kyle,854,6090,173,"{'ass': 22, 'hell': 18, 'stupid': 12, 'bastards': 12, 'fat': 12, 'god': 10, 'herpes': 6, 'bastard': 6, 'fatass': 6, 'damn': 5, 'sucks': 5, 'fucking': 5, 'kill': 4, 'dick': 4, 'gods': 3, 'dumbass': 3, 'suck': 3, 'penis': 3, 'fuck': 2, 'fucked': 2, 'fart': 2, 'crap': 2, 'retard': 2, 'sucked': 2, 'bitch': 2, 'goddamn': 2, 'pee': 2, 'gay': 2, 'butthole': 2, 'virgin': 1, 'dong': 1, 'dummy': 1, 'asshole': 1, 'weirdo': 1, 'screwed': 1, 'bitches': 1, 'assholes': 1, 'prostitute': 1, 'whoring': 1, 'pissed': 1, 'oral': 1}",2.84
+cartman,729,6042,204,"{'ass': 25, 'hell': 17, 'screw': 17, 'god': 16, 'stupid': 13, 'bitch': 13, 'crap': 10, 'damn': 10, 'suck': 9, 'pussy': 9, 'sucks': 7, 'bitches': 5, 'fat': 5, 'nutsack': 3, 'gay': 3, 'asshole': 3, 'goddamn': 3, 'penis': 2, 'goddammit': 2, 'fuckin': 2, 'bitchin': 2, 'assholes': 2, 'pot': 2, 'fucking': 2, 'turd': 2, 'virgin': 1, 'screwing': 1, 'piss': 1, 'whiz': 1, 'drunk': 1, 'dick': 1, 'pissed': 1, 'fart': 1, 'kill': 1, 'pee': 1, 'herpes': 1, 'sucked': 1, 'shit': 1, 'horny': 1, 'fatass': 1, 'fuck': 1, 'goddamned': 1, 'dumbass': 1, 'pecker': 1, 'butthole': 1}",3.38
+chef,226,2298,26,"{'hell': 8, 'damn': 3, 'herpes': 2, 'ass': 1, 'fat': 1, 'crap': 1, 'goddamn': 1, 'stupid': 1, 'asses': 1, 'suck': 1, 'whore': 1, 'retarded': 1, 'shit': 1, 'sex': 1, 'sexual': 1, 'god': 1}",1.13
+mr garrison,213,2722,45,"{'hell': 6, 'stupid': 4, 'fuck': 3, 'bitch': 3, 'goddammit': 2, 'gay': 2, 'whore': 2, 'bastards': 2, 'hells': 1, 'god': 1, 'kill': 1, 'dumbass': 1, 'screw': 1, 'bullshit': 1, 'shit': 1, 'fuckin': 1, 'sex': 1, 'homo': 1, 'sexual': 1, 'prostitute': 1, 'weewee': 1, 'farts': 1, 'turd': 1, 'raping': 1, 'oral': 1, 'ass': 1, 'bitches': 1, 'asses': 1, 'turds': 1}",1.65
+jimbo,191,2296,38,"{'hell': 10, 'kill': 8, 'god': 5, 'damn': 4, 'ass': 2, 'stupid': 2, 'pussy': 1, 'napalm': 1, 'bastards': 1, 'crap': 1, 'bitch': 1, 'porn': 1, 'titties': 1}",1.66
+officer barbrady,147,1548,13,"{'screw': 2, 'weirdo': 2, 'god': 1, 'murder': 1, 'goddammit': 1, 'sex': 1, 'damn': 1, 'goddamn': 1, 'sucks': 1, 'ass': 1, 'shit': 1}",0.84
+sharon,146,1470,9,"{'god': 5, 'hell': 1, 'damn': 1, 'fat': 1, 'bastard': 1}",0.61
+mr mackey,135,1315,4,"{'bullshit': 1, 'hell': 1, 'fat': 1, 'stupid': 1}",0.3
+terrance,126,990,30,"{'ugly': 6, 'ass': 6, 'dick': 5, 'god': 4, 'bastard': 2, 'stupid': 2, 'gay': 1, 'murder': 1, 'hell': 1, 'anal': 1, 'fart': 1}",3.03
+sheila,124,1243,6,"{'god': 2, 'ass': 1, 'bastard': 1, 'pissing': 1, 'damn': 1}",0.48
+mayor mcdaniels,105,1375,19,"{'god': 6, 'hell': 5, 'shit': 2, 'ass': 1, 'fuckin': 1, 'asshole': 1, 'shits': 1, 'fuck': 1, 'crap': 1}",1.38
+phillip,100,729,28,"{'ugly': 6, 'god': 6, 'fart': 5, 'ass': 3, 'hell': 2, 'kill': 1, 'dick': 1, 'stupid': 1, 'bitch': 1, 'goddamn': 1, 'bastard': 1}",3.84
+kenny,91,460,23,"{'fuckin': 4, 'dick': 3, 'fuck': 3, 'stupid': 2, 'ass': 2, 'suck': 2, 'god': 2, 'penis': 1, 'vaginas': 1, 'vomit': 1, 'fucking': 1, 'bastard': 1}",5.0
+randy,91,758,6,"{'hell': 2, 'herpes': 1, 'bitch': 1, 'stupid': 1, 'crap': 1}",0.79
+liane,83,695,3,"{'fat': 2, 'sex': 1}",0.43
+dr doctor,74,1069,13,"{'hell': 4, 'fat': 2, 'god': 1, 'fucked': 1, 'damn': 1, 'screwed': 1, 'herpes': 1, 'suck': 1, 'prostitute': 1}",1.22
+scott,66,747,20,"{'fart': 5, 'dick': 4, 'murder': 2, 'goddammit': 2, 'hell': 2, 'kill': 1, 'god': 1, 'farts': 1, 'dicks': 1, 'bitch': 1}",2.68
+gerald,63,650,10,"{'ass': 2, 'bitch': 2, 'gods': 1, 'drunk': 1, 'bastard': 1, 'hell': 1, 'god': 1, 'bastards': 1}",1.54
+ms crabtree,58,480,13,"{'hell': 4, 'ass': 3, 'kill': 2, 'crap': 1, 'turd': 1, 'suck': 1, 'whores': 1}",2.71
+dr mephesto,57,764,3,"{'god': 2, 'hell': 1}",0.39
+larry,50,318,0,{},0.0
+jesus,47,404,1,{'fuck': 1},0.25
+dr adams,46,618,0,{},0.0
+richard,46,732,1,{'dong': 1},0.14
+mr hankey,44,427,0,{},0.0
+tweek,44,237,0,{},0.0
+announcer,41,517,2,"{'prostitute': 1, 'whore': 1}",0.39
+wendy,40,303,4,"{'fatass': 1, 'suck': 1, 'ass': 1, 'sucks': 1}",1.32
+manson,40,576,4,"{'hell': 1, 'god': 1, 'bastard': 1, 'rapists': 1}",0.69
+nurse gollum,37,385,2,"{'stupid': 1, 'god': 1}",0.52
+ned,36,178,1,{'damn': 1},0.56
+stuart,35,361,11,"{'hell': 3, 'fat': 2, 'bitch': 1, 'fuckin': 1, 'fuck': 1, 'asshole': 1, 'damn': 1, 'ass': 1}",3.05
+agent,35,274,4,"{'damn': 3, 'hell': 1}",1.46
+producer,30,384,4,"{'damn': 1, 'hell': 1, 'god': 1, 'pissed': 1}",1.04
+howard,30,263,4,"{'damn': 2, 'hell': 1, 'pissed': 1}",1.52
+saddam,29,444,2,"{'hells': 1, 'hell': 1}",0.45
+greenfield,28,287,4,"{'god': 2, 'hell': 2}",1.39
+carol,28,319,10,"{'shit': 2, 'drunk': 2, 'fuckin': 1, 'ass': 1, 'motherfucker': 1, 'retard': 1, 'hell': 1, 'turd': 1}",3.13
+tom,28,426,1,{'ass': 1},0.23
+truck driver,28,212,1,{'damn': 1},0.47
+operator,28,237,2,{'farts': 2},0.84
+principal victoria,26,335,5,"{'stupid': 1, 'hell': 1, 'vomit': 1, 'pissing': 1, 'bitch': 1}",1.49
+clerk,25,228,9,"{'hell': 5, 'damn': 2, 'pissed': 1, 'drunk': 1}",3.95
+bebe,24,158,2,{'ass': 2},1.27
+robert redford,23,397,2,"{'shit': 1, 'damn': 1}",0.5
+evil cartman,23,276,1,{'murder': 1},0.36
+celine dion,22,150,5,"{'ugly': 4, 'god': 1}",3.33
+postum,22,303,3,"{'fat': 1, 'hell': 1, 'damn': 1}",0.99
+elton john,21,255,1,{'hell': 1},0.39
+pip,20,157,0,{},0.0
+kids,20,35,1,{'bitch': 1},2.86
+aussie,19,338,14,"{'butthole': 6, 'pissed': 4, 'pissing': 2, 'piss': 1, 'testicle': 1}",4.14
+ugly bob,18,140,3,"{'bitch': 1, 'ugly': 1, 'god': 1}",2.14
+ike,18,51,0,{},0.0
+grandma,18,155,2,"{'fat': 1, 'pot': 1}",1.29
+lady member,18,206,2,"{'bastards': 1, 'whore': 1}",0.97
+roy,17,212,2,"{'ass': 1, 'suck': 1}",0.94
+mr big record producer,16,146,1,{'bastards': 1},0.68
+gnome,16,87,5,"{'pussy': 4, 'shit': 1}",5.75
+mephesto,15,221,1,{'penis': 1},0.45
+boys,15,20,0,{},0.0
+chinese commentator,15,151,1,{'stupid': 1},0.66
+reporter,15,331,3,"{'murders': 1, 'ass': 1, 'fucking': 1}",0.91
+van gelder,15,70,0,{},0.0
+aunt flo,15,119,0,{},0.0
+man,14,68,3,"{'god': 1, 'crap': 1, 'screw': 1}",4.41
+bus driver,14,220,1,{'fucking': 1},0.45
+mrs tweak,14,235,1,{'pot': 1},0.43
+runaway girl 1,13,174,4,"{'crap': 2, 'bitch': 1, 'shit': 1}",2.3
+announcer 1,12,187,3,"{'kill': 1, 'hell': 1, 'screwing': 1}",1.6
+the boys,12,17,0,{},0.0
+charlie,12,131,0,{},0.0
+instructor,12,86,1,{'stroke': 1},1.16
+mary,12,91,2,"{'shit': 1, 'god': 1}",2.2
+mayor,12,229,1,{'stupid': 1},0.44
+woman,11,99,4,"{'god': 2, 'asshole': 1, 'fuck': 1}",4.04
+aide 2,11,79,0,{},0.0
+dr katz,11,67,2,{'gay': 2},2.99
+shelly,11,46,0,{},0.0
+fat abbot,11,152,23,"{'bitch': 6, 'ass': 4, 'shit': 4, 'motherfucker': 2, 'punkass': 1, 'shithead': 1, 'fuckin': 1, 'snatch': 1, 'damn': 1, 'suck': 1, 'dick': 1}",15.13
+chief stevens,11,86,0,{},0.0
+barbrady,10,96,0,{},0.0
+cameraman,10,69,0,{},0.0
+audience,10,17,0,{},0.0
+director 3,10,114,2,"{'kill': 1, 'hell': 1}",1.75
+johnnie cochran,10,345,1,{'hell': 1},0.29
+teen mc,10,67,0,{},0.0
+evil stan,10,52,1,{'hells': 1},1.92
+mall hankey,10,54,0,{},0.0
+crowd,9,33,1,{'god': 1},3.03
+dr schwartz,9,97,0,{},0.0
+social worker,9,95,0,{},0.0
+clyde,9,42,1,{'bitchin': 1},2.38
+bob,9,77,2,"{'penis': 1, 'scrotum': 1}",2.6
+talent scout,9,79,1,{'kill': 1},1.27
+officer,9,65,1,{'god': 1},1.54
+anchor,8,208,0,{},0.0
+teen 1,8,51,0,{},0.0
+rancher,8,92,2,"{'sex': 1, 'hells': 1}",2.17
+man 2,8,30,1,{'bastard': 1},3.33
+mr twig,8,72,0,{},0.0
+the class,8,8,0,{},0.0
+judge moses,8,84,0,{},0.0
+leslie,8,101,0,{},0.0
+receptionist,7,120,0,{},0.0
+voice over,7,136,0,{},0.0
+blonde,7,49,0,{},0.0
+aide 1,7,89,0,{},0.0
+kevin,7,39,0,{},0.0
+man 1,7,39,1,{'god': 1},2.56
+all,7,9,0,{},0.0
+boy in the red shirt,7,92,0,{},0.0
+grandpa,7,80,3,"{'whore': 1, 'pot': 1, 'ass': 1}",3.75
+stu,7,34,0,{},0.0
+center judge,7,80,0,{},0.0
+director,7,46,0,{},0.0
+evil kyle,7,58,0,{},0.0
+liane and cartman,7,45,0,{},0.0
+voice,6,54,0,{},0.0
+guard,6,47,0,{},0.0
+hobo,6,27,0,{},0.0
+teen 2,6,37,1,{'weed': 1},2.7
+mrs crabtree,6,16,0,{},0.0
+driver,6,45,0,{},0.0
+carrot ass,6,41,0,{},0.0
+marty,6,67,0,{},0.0
+kid,6,21,0,{},0.0
+candice,6,64,0,{},0.0
+grey hat,6,54,0,{},0.0
+meat loaf,6,36,1,{'hell': 1},2.78
+elvin,6,12,2,{'ass': 2},16.67
+gnome 2,6,39,0,{},0.0
+us army official,5,48,0,{},0.0
+judge,5,45,1,{'hell': 1},2.22
+assistant,5,59,0,{},0.0
+mr freely,5,70,1,{'kill': 1},1.43
+bartender,5,46,0,{},0.0
+father maxi,5,57,1,{'sex': 1},1.75
+teller,5,21,0,{},0.0
+reporter 3,5,36,0,{},0.0
+bob thomas,5,104,1,{'bastards': 1},0.96
+referee,5,20,0,{},0.0
+phyllis,5,62,0,{},0.0
+line ride operator,5,42,1,{'hell': 1},2.38
+ozzy osbourne,5,65,0,{},0.0
+stinky,5,30,0,{},0.0
+mediator,5,90,2,"{'fat': 1, 'douchebag': 1}",2.22
+agent 2,5,28,0,{},0.0
+madame foreperson,4,28,1,{'murder': 1},3.57
+announcer 2,4,54,1,{'anus': 1},1.85
+clinton,4,18,0,{},0.0
+mephesto actor,4,16,0,{},0.0
+mr hat,4,30,1,{'retard': 1},3.33
+mackey,4,47,0,{},0.0
+stankyle,4,4,0,{},0.0
+stan kyle,4,6,0,{},0.0
+player,4,67,0,{},0.0
+class,4,4,0,{},0.0
+creamy goodness,4,152,0,{},0.0
+mr romero,4,58,0,{},0.0
+host,4,68,0,{},0.0
+frida,4,17,0,{},0.0
+rudy,4,29,4,"{'fat': 2, 'bitch': 1, 'ass': 1}",13.79
+fred the announcer,4,77,0,{},0.0
+joe strummer,4,55,1,{'loins': 1},1.82
+veronica crabtree,4,28,2,"{'sex': 1, 'hell': 1}",7.14
+narrator,4,41,0,{},0.0
+florence,4,62,3,"{'god': 1, 'damn': 1, 'hell': 1}",4.84
+harold,4,32,0,{},0.0
+lady member 2,4,39,0,{},0.0
+chef actor,3,39,1,{'god': 1},2.56
+barbrady actor,3,34,0,{},0.0
+halfy,3,7,0,{},0.0
+reporter 2,3,17,0,{},0.0
+player 6,3,16,0,{},0.0
+michael jackson fan,3,77,0,{},0.0
+jesus producer,3,53,0,{},0.0
+man 3,3,8,0,{},0.0
+fonzie,3,3,0,{},0.0
+lamb chop,3,20,0,{},0.0
+shari,3,14,0,{},0.0
+caller mr mackey,3,12,0,{},0.0
+tom hanks,3,31,0,{},0.0
+cowboy,3,23,0,{},0.0
+director 4,3,17,0,{},0.0
+van gelder  mr mackey simultaneously,3,27,1,{'slaves': 1},3.7
+boy,3,11,0,{},0.0
+runaway girl 2,3,37,0,{},0.0
+yolanda,3,16,2,{'fat': 2},12.5
+toss a ball operator,3,42,0,{},0.0
+mitchell,3,34,0,{},0.0
+chamber of farts ride,3,32,4,{'farts': 4},12.5
+soldier,3,14,0,{},0.0
+dean ween,3,23,0,{},0.0
+gene ween,3,22,0,{},0.0
+rick james,3,18,1,{'god': 1},5.56
+rancid,3,13,0,{},0.0
+cous cous,3,12,0,{},0.0
+cartman on left,3,34,0,{},0.0
+george bailey,3,46,3,"{'bitch': 2, 'suck': 1}",6.52
+inmate,3,17,1,{'sucks': 1},5.88
+the adults,3,5,0,{},0.0
+conductor,3,10,0,{},0.0
+delivery man,2,16,0,{},0.0
+sally,2,4,0,{},0.0
+saddam hussein,2,34,0,{},0.0
+john walsh,2,75,0,{},0.0
+oreilly,2,31,0,{},0.0
+goodly,2,25,0,{},0.0
+eric roberts,2,16,0,{},0.0
+singer,2,10,0,{},0.0
+guest,2,15,0,{},0.0
+dispatcher 1,2,34,0,{},0.0
+reporter 1,2,13,0,{},0.0
+player 70,2,21,2,"{'dumbass': 1, 'crap': 1}",9.52
+chinese kid,2,8,0,{},0.0
+referee 2,2,7,0,{},0.0
+sergeant,2,54,0,{},0.0
+michelle,2,36,0,{},0.0
+red haired woman,2,27,0,{},0.0
+large woman,2,26,0,{},0.0
+satan,2,6,0,{},0.0
+trainer,2,131,1,{'kill': 1},0.76
+guide,2,19,0,{},0.0
+john elway,2,11,0,{},0.0
+kathie lee,2,9,0,{},0.0
+proprietor,2,13,0,{},0.0
+reporter 4,2,6,0,{},0.0
+mother,2,8,0,{},0.0
+director 7,2,18,0,{},0.0
+female director,2,15,1,{'willy': 1},6.67
+director 10,2,5,0,{},0.0
+tv voice,2,9,0,{},0.0
+asian reporter,2,48,1,{'stupid': 1},2.08
+cosettes mother,2,24,0,{},0.0
+a girl,2,14,0,{},0.0
+cosette,2,12,0,{},0.0
+missy,2,8,0,{},0.0
+stagehand,2,4,0,{},0.0
+fosse,2,11,0,{},0.0
+chamber of farts operator,2,24,2,"{'farts': 1, 'stupid': 1}",8.33
+photo seller,2,17,0,{},0.0
+jack,2,4,0,{},0.0
+cow,2,2,0,{},0.0
+everyone,2,6,0,{},0.0
+cartman on right,2,5,1,{'screw': 1},20.0
+both cartmans,2,4,0,{},0.0
+robert pooner,2,76,1,{'god': 1},1.32
+sky fi reporter,2,69,1,{'god': 1},1.45
+police chief,2,29,0,{},0.0
+girl,2,25,0,{},0.0
+hankey elf,2,20,0,{},0.0
+lady protester,2,23,0,{},0.0
+customer,2,19,0,{},0.0
+gnomes,2,9,0,{},0.0
+townsman,2,7,1,{'damn': 1},14.29
+johnson,2,6,0,{},0.0
+supporter,2,3,0,{},0.0
+big man,2,27,0,{},0.0
+pilot,2,19,1,{'god': 1},5.26
+stan and kyle,2,13,1,{'hell': 1},7.69
+tardy man,2,11,1,{'screw': 1},9.09
+both,2,2,0,{},0.0
+scott the dick,1,36,0,{},0.0
+crowd outside,1,12,0,{},0.0
+guard on right,1,9,1,{'kill': 1},11.11
+springer,1,8,0,{},0.0
+small group,1,7,0,{},0.0
+large crowd,1,7,0,{},0.0
+middling group,1,6,0,{},0.0
+larger group,1,6,0,{},0.0
+woman 1,1,3,1,{'fuck': 1},33.33
+terrancephillip,1,3,0,{},0.0
+celine,1,3,0,{},0.0
+barky,1,2,0,{},0.0
+purry,1,2,0,{},0.0
+phlllip,1,2,0,{},0.0
+woman 2,1,1,0,{},0.0
+eric roberts as kevin,1,23,0,{},0.0
+nurse goodly,1,16,0,{},0.0
+sid greenfield,1,15,0,{},0.0
+gerald broflovski,1,14,1,{'hell': 1},7.14
+governor,1,14,0,{},0.0
+mephesto tryout,1,13,0,{},0.0
+garrison 1,1,11,0,{},0.0
+garrison 2,1,11,0,{},0.0
+president bill clinton,1,11,0,{},0.0
+garrison actor,1,7,1,{'god': 1},14.29
+nurse,1,7,0,{},0.0
+mr hat 1,1,7,0,{},0.0
+mr hat 2,1,7,0,{},0.0
+mr hat actor,1,4,0,{},0.0
+mayor mcdaneils,1,3,0,{},0.0
+mr allen,1,19,0,{},0.0
+driver 3s passenger,1,17,2,"{'stupid': 1, 'damn': 1}",11.76
+angel,1,15,2,"{'hell': 1, 'pussy': 1}",13.33
+female passenger,1,15,1,{'pot': 1},6.67
+driver 3,1,10,0,{},0.0
+landlord,1,10,0,{},0.0
+barkeep,1,10,0,{},0.0
+devil,1,9,0,{},0.0
+stan cartman,1,9,0,{},0.0
+sheila gerald,1,8,2,{'pee': 2},25.0
+driver 5,1,8,0,{},0.0
+driver 4,1,6,0,{},0.0
+uncle murray,1,6,0,{},0.0
+dr schwartsz,1,4,0,{},0.0
+gerald sheila,1,3,0,{},0.0
+driver 2,1,2,0,{},0.0
+dispatcher,1,16,0,{},0.0
+dispatcher 3,1,14,0,{},0.0
+press coordinator,1,13,0,{},0.0
+intruder,1,13,0,{},0.0
+looter 2,1,10,0,{},0.0
+dispatcher 2,1,9,0,{},0.0
+looter 1,1,4,0,{},0.0
+looter 3,1,4,0,{},0.0
+looter 4,1,3,0,{},0.0
+stan kyle kenny,1,1,0,{},0.0
+player 1,1,12,1,{'fat': 1},8.33
+kevin stoley,1,8,0,{},0.0
+master,1,7,0,{},0.0
+mrs crabtre,1,3,0,{},0.0
+kids chef,1,3,0,{},0.0
+tolkien black,1,1,0,{},0.0
+leader,1,10,0,{},0.0
+man in brown shirt,1,9,1,{'screw': 1},11.11
+stage hand,1,7,0,{},0.0
+man with chair hitting kenny,1,6,0,{},0.0
+disciples vocalist,1,5,0,{},0.0
+husband,1,4,0,{},0.0
+man in blue shirt pulling kenny,1,4,0,{},0.0
+jimbo ned,1,3,0,{},0.0
+man in green shirt pulling kenny,1,3,0,{},0.0
+injured man,1,2,0,{},0.0
+kylecartman,1,1,0,{},0.0
+jay leno,1,11,0,{},0.0
+the parents,1,10,0,{},0.0
+grandpa marsh,1,9,0,{},0.0
+brent musberger,1,6,0,{},0.0
+wife,1,3,0,{},0.0
+joanie cunningham,1,2,0,{},0.0
+the kids,1,1,0,{},0.0
+patron,1,1,0,{},0.0
+scuzzlebutt,1,1,0,{},0.0
+alien,1,1,0,{},0.0
+mr katz,1,38,3,{'gay': 3},7.89
+preacher,1,11,0,{},0.0
+citizen,1,11,0,{},0.0
+shari lewis,1,10,0,{},0.0
+new mormon,1,8,0,{},0.0
+brett favre,1,8,0,{},0.0
+father,1,6,0,{},0.0
+citizen 2,1,6,0,{},0.0
+print reporter,1,5,0,{},0.0
+stankyle kenny,1,1,0,{},0.0
+stankyle cartman,1,1,0,{},0.0
+short man,1,31,0,{},0.0
+director 1,1,13,0,{},0.0
+director 8,1,13,0,{},0.0
+director 6,1,11,0,{},0.0
+director 2,1,10,1,{'ass': 1},10.0
+director 5,1,10,0,{},0.0
+female director 2,1,8,0,{},0.0
+hazmat official,1,8,0,{},0.0
+candices girlfriend,1,7,0,{},0.0
+a woman,1,5,0,{},0.0
+man in background,1,4,0,{},0.0
+an agent,1,3,1,{'god': 1},33.33
+director 9,1,2,0,{},0.0
+fred savage,1,2,0,{},0.0
+a director,1,2,0,{},0.0
+man in foreground,1,1,0,{},0.0
+someone in the crowd,1,1,0,{},0.0
+crowd members,1,1,0,{},0.0
+townsfolk,1,1,0,{},0.0
+barnaby jones,1,20,0,{},0.0
+cheesy poofs commercial,1,17,0,{},0.0
+the marshes answering machine,1,12,0,{},0.0
+police commissioner,1,9,0,{},0.0
+the broflovskis answering machine,1,9,0,{},0.0
+another girl,1,6,0,{},0.0
+several kids,1,4,0,{},0.0
+a boy,1,3,0,{},0.0
+tommy fritz,1,3,0,{},0.0
+blonde judge,1,2,0,{},0.0
+tommy,1,1,0,{},0.0
+elderly woman,1,1,0,{},0.0
+cheesy poof cartman,1,1,0,{},0.0
+bill,1,38,4,"{'ass': 2, 'fat': 1, 'snatch': 1}",10.53
+runaway girl 1 passenger,1,9,0,{},0.0
+donald,1,7,0,{},0.0
+older kid,1,7,0,{},0.0
+butters,1,3,0,{},0.0
+guy in leather jacket,1,2,0,{},0.0
+guy with long hair,1,2,0,{},0.0
+punk,1,2,0,{},0.0
+bob and audience,1,6,1,{'hell': 1},16.67
+leonardo dicaprio,1,5,0,{},0.0
+tom and mary,1,3,0,{},0.0
+cows,1,1,0,{},0.0
+townspeople,1,1,0,{},0.0
+les claypool,1,41,1,{'sucked': 1},2.44
+foreman,1,10,0,{},0.0
+ween,1,6,1,{'homo': 1},16.67
+bailiff,1,6,0,{},0.0
+bulter,1,6,0,{},0.0
+prosecutor,1,4,0,{},0.0
+butler,1,4,0,{},0.0
+chef recording,1,2,0,{},0.0
+alanis morissette,1,1,0,{},0.0
+cartman and kenny,1,1,0,{},0.0
+stan kyle and cartman,1,1,0,{},0.0
+stanley,1,3,0,{},0.0
+kitty,1,1,0,{},0.0
+mr kitty,1,1,0,{},0.0
+field reporter,1,63,0,{},0.0
+officer 2,1,12,0,{},0.0
+uncle howard,1,10,0,{},0.0
+cops,1,10,0,{},0.0
+everyone else,1,8,0,{},0.0
+big blonde,1,7,1,{'god': 1},14.29
+uncle stinky,1,5,0,{},0.0
+security guard 1,1,5,0,{},0.0
+blond cop,1,5,0,{},0.0
+cartmansboys,1,4,0,{},0.0
+officer bob,1,3,0,{},0.0
+kid 1,1,2,0,{},0.0
+officer 1,1,2,0,{},0.0
+kids mom,1,19,0,{},0.0
+townsman 2,1,13,0,{},0.0
+tweek tweak,1,12,0,{},0.0
+blonde protester,1,10,0,{},0.0
+mrs tweek,1,7,0,{},0.0
+ted,1,6,0,{},0.0
+worker 2,1,6,0,{},0.0
+worker 1,1,5,0,{},0.0
+prop 10 supporter,1,5,0,{},0.0
+center gnome,1,4,0,{},0.0
+richard tweak,1,3,0,{},0.0
+supporter 2,1,2,0,{},0.0
+male member,1,1,0,{},0.0
+blond member,1,1,0,{},0.0
+the other members,1,1,0,{},0.0
+supporter 3,1,1,0,{},0.0
+dr mepehsto,1,13,0,{},0.0
+sports reporter,1,13,0,{},0.0
+marilyn manson,1,8,0,{},0.0
+some people,1,1,0,{},0.0
+other people,1,1,0,{},0.0
+sorry,1,1,0,{},0.0

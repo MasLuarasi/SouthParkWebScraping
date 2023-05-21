@@ -1,0 +1,40 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+cartman,67,1033,14,"{'god': 3, 'asshole': 3, 'fuck': 3, 'crap': 1, 'kill': 1, 'stupid': 1, 'assholes': 1, 'fuckin': 1}",1.36
+kyle,43,655,12,"{'stupid': 4, 'fat': 3, 'retarded': 1, 'hell': 1, 'asshole': 1, 'fuck': 1, 'turd': 1}",1.83
+stan,26,247,3,"{'stupid': 1, 'hell': 1, 'dumbass': 1}",1.21
+butters,18,77,1,{'fuck': 1},1.3
+tolkien,15,110,5,"{'hell': 3, 'god': 1, 'dickhead': 1}",4.55
+yates,11,325,0,{},0.0
+gerald,6,45,0,{},0.0
+kenny,6,15,0,{},0.0
+executive 1,5,107,1,{'god': 1},0.93
+announcer,5,77,0,{},0.0
+michael collins,5,64,0,{},0.0
+mc,5,60,0,{},0.0
+sanctified member 1,4,42,0,{},0.0
+field reporter,3,140,1,{'hell': 1},0.71
+randy,3,38,0,{},0.0
+sanctified member 2,3,25,0,{},0.0
+lars,2,27,0,{},0.0
+lars ulrich,2,20,0,{},0.0
+agent 2,2,16,0,{},0.0
+stage hand,2,12,0,{},0.0
+a man,2,6,0,{},0.0
+ceo,1,26,0,{},0.0
+ cartman,1,20,0,{},0.0
+elderly woman,1,17,0,{},0.0
+agent 4,1,13,1,{'ass': 1},7.69
+james hetfield,1,13,0,{},0.0
+t shirt vendor,1,11,0,{},0.0
+trinity,1,11,0,{},0.0
+agent 3,1,7,0,{},0.0
+agent 5,1,7,0,{},0.0
+driver,1,7,0,{},0.0
+sheila,1,6,0,{},0.0
+bible vendor,1,6,0,{},0.0
+fans,1,6,0,{},0.0
+britney,1,5,0,{},0.0
+a fan,1,5,0,{},0.0
+sanctified member 3,1,4,0,{},0.0
+agent 1,1,2,0,{},0.0
+other acts,1,2,0,{},0.0

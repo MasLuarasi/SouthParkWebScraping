@@ -1,0 +1,37 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+heidi,57,786,26,"{'fat': 4, 'bitch': 4, 'fuck': 3, 'shit': 3, 'goddammit': 2, 'bitches': 1, 'shitting': 1, 'slave': 1, 'pissed': 1, 'hell': 1, 'ass': 1, 'bullshit': 1, 'asshole': 1, 'assholes': 1, 'screw': 1}",3.31
+nathan,36,558,11,"{'bitches': 2, 'fuck': 2, 'sex': 1, 'pussy': 1, 'cock': 1, 'assholes': 1, 'muff': 1, 'fucking': 1, 'bullshit': 1}",1.97
+cartman,27,227,6,"{'dick': 1, 'god': 1, 'pissed': 1, 'hell': 1, 'bitch': 1, 'fuck': 1}",2.64
+jerry jones,24,450,0,{},0.0
+jimmy,17,285,0,{},0.0
+mackey,10,139,0,{},0.0
+mimsy,10,130,3,"{'sex': 1, 'cock': 1, 'kill': 1}",2.31
+theresa,7,69,1,{'god': 1},1.45
+wendy,6,66,1,{'slave': 1},1.52
+steve,5,94,0,{},0.0
+pc principal,4,47,0,{},0.0
+sportscaster 1,3,53,0,{},0.0
+francis,3,29,0,{},0.0
+isla,3,15,0,{},0.0
+timmy,3,3,0,{},0.0
+sportscaster 2,2,52,0,{},0.0
+mr mackey,2,15,0,{},0.0
+another owner,2,13,1,{'fat': 1},7.69
+butters,2,12,0,{},0.0
+nichole,2,3,0,{},0.0
+the kids,2,2,0,{},0.0
+millie,1,16,0,{},0.0
+clyde,1,9,0,{},0.0
+blue horse on tv,1,9,0,{},0.0
+stan,1,8,0,{},0.0
+kyle,1,8,0,{},0.0
+roger goodell,1,8,0,{},0.0
+officlal 1,1,7,0,{},0.0
+cartman and heidi,1,4,0,{},0.0
+nelly,1,3,0,{},0.0
+an nfl owner,1,3,0,{},0.0
+an owner,1,3,0,{},0.0
+officlal 2,1,3,0,{},0.0
+owners,1,2,0,{},0.0
+nfl owners special ed kids,1,1,0,{},0.0
+goodell and the officials,1,1,0,{},0.0

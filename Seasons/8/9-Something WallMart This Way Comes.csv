@@ -1,0 +1,29 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+kyle,51,527,10,"{'hell': 4, 'fucking': 1, 'stupid': 1, 'tard': 1, 'sucks': 1, 'fatass': 1, 'god': 1}",1.9
+stan,44,282,3,"{'god': 1, 'crap': 1, 'goddamn': 1}",1.06
+randy,39,591,4,"{'god': 3, 'hell': 1}",0.68
+cartman,37,410,10,"{'crap': 4, 'ass': 1, 'asshole': 1, 'dumbass': 1, 'butthole': 1, 'stupid': 1, 'dick': 1}",2.44
+wall mart,9,149,0,{},0.0
+manager,8,211,0,{},0.0
+herbert garrison,7,50,0,{},0.0
+harvey brown,6,159,0,{},0.0
+gerald,6,78,0,{},0.0
+chef,6,57,1,{'god': 1},1.75
+sharon,6,49,0,{},0.0
+mr farkle,3,56,0,{},0.0
+receptionist,3,41,0,{},0.0
+driver,3,30,0,{},0.0
+marvin marsh,2,16,0,{},0.0
+crowd,2,6,0,{},0.0
+jimmy,1,18,0,{},0.0
+townsfolk,1,12,0,{},0.0
+elderly woman,1,12,0,{},0.0
+butters,1,11,0,{},0.0
+whispers,1,10,0,{},0.0
+stephen,1,10,0,{},0.0
+all,1,7,0,{},0.0
+man,1,6,0,{},0.0
+jimbo,1,6,0,{},0.0
+sheila,1,5,0,{},0.0
+woman,1,5,0,{},0.0
+shelly,1,4,2,"{'stupid': 1, 'turd': 1}",50.0

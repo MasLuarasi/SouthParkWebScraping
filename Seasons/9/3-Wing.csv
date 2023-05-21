@@ -1,0 +1,26 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+cartman,65,860,8,"{'hell': 2, 'stupid': 1, 'assholes': 1, 'gay': 1, 'suck': 1, 'god': 1, 'crap': 1}",0.93
+stan,56,599,5,"{'shitty': 1, 'crap': 1, 'screw': 1, 'bastards': 1, 'kill': 1}",0.83
+kyle,47,318,8,"{'hell': 1, 'fatass': 1, 'crap': 1, 'god': 1, 'damn': 1, 'assholes': 1, 'goddamn': 1, 'stupid': 1}",2.52
+mr kim,19,240,4,{'shitty': 4},1.67
+tong leader,18,302,3,"{'slaves': 1, 'hell': 1, 'god': 1}",0.99
+tolkien,17,157,1,{'god': 1},0.64
+agent,7,84,2,"{'screw': 1, 'ass': 1}",2.38
+producer,6,100,1,{'hell': 1},1.0
+stallone,5,14,0,{},0.0
+mrs garrison,4,104,0,{},0.0
+don,4,67,0,{},0.0
+announcer,4,65,0,{},0.0
+the boys,4,10,0,{},0.0
+kenny,4,6,0,{},0.0
+wing,2,17,0,{},0.0
+contestant,2,12,0,{},0.0
+mc,1,30,0,{},0.0
+man,1,14,0,{},0.0
+principal victoria,1,7,1,{'god': 1},14.29
+contestant 2,1,7,0,{},0.0
+attendant,1,6,0,{},0.0
+guard 1,1,5,0,{},0.0
+stan kyle,1,2,0,{},0.0
+class,1,1,0,{},0.0
+stan cartman,1,1,0,{},0.0

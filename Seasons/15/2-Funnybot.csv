@@ -1,0 +1,40 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+jimmy,35,817,2,{'god': 2},0.24
+funnybot,23,412,9,"{'pecker': 1, 'asshole': 1, 'vaginas': 1, 'pussy': 1, 'dick': 1, 'vagina': 1, 'suck': 1, 'tits': 1, 'tampons': 1}",2.18
+cartman,19,184,2,"{'hell': 1, 'pissed': 1}",1.09
+stan,17,165,4,"{'pissed': 2, 'hell': 2}",2.42
+kyle,13,134,1,{'kill': 1},0.75
+president wulff,10,159,0,{},0.0
+adam sandler,9,72,3,"{'fuck': 2, 'shit': 1}",4.17
+tyler perry,8,94,0,{},0.0
+sandy cervix,5,139,0,{},0.0
+tolkien,5,29,2,"{'god': 1, 'damn': 1}",6.9
+timmy,5,29,0,{},0.0
+butters,4,40,1,{'kill': 1},2.5
+anchor,3,121,1,{'goddamned': 1},0.83
+guard,3,37,0,{},0.0
+announcer,3,24,0,{},0.0
+ryan,3,7,0,{},0.0
+president obama,2,63,0,{},0.0
+jay leno,2,29,5,"{'fuckers': 2, 'kill': 2, 'fuckin': 1}",17.24
+general,2,11,1,{'hell': 1},9.09
+angela merkel,2,10,0,{},0.0
+kids,2,2,0,{},0.0
+mr mackey,1,51,1,{'suck': 1},1.96
+field reporter,1,47,2,"{'vagina': 1, 'shit': 1}",4.26
+robot,1,20,0,{},0.0
+officer 2,1,20,0,{},0.0
+officer 1,1,13,0,{},0.0
+grandmother mother,1,11,1,{'fat': 1},9.09
+sarah,1,11,0,{},0.0
+father,1,8,1,{'fat': 1},12.5
+eugene levy,1,8,0,{},0.0
+uncle,1,7,0,{},0.0
+german 1,1,5,0,{},0.0
+funbot,1,5,0,{},0.0
+german 2,1,3,1,{'fucking': 1},33.33
+louis,1,3,0,{},0.0
+mother,1,3,0,{},0.0
+another kid,1,2,1,{'crap': 1},50.0
+man with afro,1,2,0,{},0.0
+crowd,1,1,0,{},0.0

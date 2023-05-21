@@ -1,0 +1,46 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+cartman,79,986,14,"{'god': 5, 'fuck': 2, 'shit': 2, 'sucks': 1, 'pissed': 1, 'gay': 1, 'stupid': 1, 'ass': 1}",1.42
+tolkien,20,114,7,"{'fucking': 3, 'fuck': 2, 'hell': 1, 'stupid': 1}",6.14
+mr mackey,17,339,1,{'hell': 1},0.29
+nellys mom,15,108,3,"{'god': 2, 'kill': 1}",2.78
+gerry,11,106,3,"{'god': 2, 'pissed': 1}",2.83
+george zimmerman,11,94,0,{},0.0
+jimbo,8,122,0,{},0.0
+pilot,8,103,1,{'god': 1},0.97
+reporter,7,245,0,{},0.0
+co pilot,6,49,1,{'hell': 1},2.04
+agent 1,5,60,1,{'god': 1},1.67
+karin,5,41,0,{},0.0
+kyle,5,33,1,{'sucked': 1},3.03
+mrs zimmerman,4,38,0,{},0.0
+captain,4,32,3,"{'hell': 2, 'god': 1}",9.38
+butters,4,20,0,{},0.0
+rachel,4,12,0,{},0.0
+older daughter,4,11,0,{},0.0
+agent 2,3,33,0,{},0.0
+passenger 3,3,25,1,{'asshole': 1},4.0
+stan,3,18,0,{},0.0
+worker 4,2,35,0,{},0.0
+girls,2,25,0,{},0.0
+constance,2,10,0,{},0.0
+woman,2,8,0,{},0.0
+occupant,2,6,0,{},0.0
+the kids,2,4,0,{},0.0
+man,2,4,0,{},0.0
+herbert garrison,1,40,0,{},0.0
+principal victoria,1,40,0,{},0.0
+worker 1,1,19,0,{},0.0
+cheerleaders,1,15,0,{},0.0
+worker 3,1,14,0,{},0.0
+worker 2,1,12,0,{},0.0
+cartman butters,1,11,0,{},0.0
+announcer,1,8,0,{},0.0
+jimmy,1,7,0,{},0.0
+passenger 4,1,6,0,{},0.0
+flight attendant,1,6,0,{},0.0
+younger daughter,1,5,0,{},0.0
+protester,1,4,1,{'fuck': 1},25.0
+passenger 1,1,2,0,{},0.0
+passenger 2,1,2,0,{},0.0
+judge,1,1,0,{},0.0
+gerrys daughters,1,1,0,{},0.0

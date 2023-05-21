@@ -1,0 +1,24 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+al gore,45,830,8,"{'damn': 2, 'kill': 2, 'god': 1, 'bitch': 1, 'goddamned': 1, 'stupid': 1}",0.96
+kyle,45,315,9,"{'crap': 2, 'hell': 2, 'dick': 1, 'fatass': 1, 'asshole': 1, 'god': 1, 'bitch': 1}",2.86
+cartman,44,521,8,"{'god': 2, 'assholes': 2, 'asshole': 1, 'pissed': 1, 'goddammit': 1, 'crap': 1}",1.54
+stan,41,368,3,"{'goddamned': 1, 'god': 1, 'asshole': 1}",0.82
+tour guide,11,279,0,{},0.0
+miner 1,10,152,1,{'god': 1},0.66
+kenny,7,22,1,{'shit': 1},4.55
+randy,5,51,0,{},0.0
+mr mackey,4,54,0,{},0.0
+miner 3,2,39,1,{'kill': 1},2.56
+tour guide 2,2,37,0,{},0.0
+miner 2,2,24,0,{},0.0
+fireman 2,2,12,0,{},0.0
+miner 4,2,5,1,{'god': 1},20.0
+group,2,2,0,{},0.0
+the boys,2,2,0,{},0.0
+hbc reporter,1,32,0,{},0.0
+police officer,1,13,0,{},0.0
+beast,1,11,0,{},0.0
+woman,1,7,0,{},0.0
+fireman,1,5,0,{},0.0
+butters,1,2,0,{},0.0
+ranger,1,2,0,{},0.0

@@ -1,0 +1,53 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+kyle,73,537,8,"{'ass': 3, 'stupid': 2, 'retard': 1, 'hell': 1, 'fat': 1}",1.49
+mr hankey,44,427,0,{},0.0
+cartman,39,368,20,"{'ass': 4, 'screw': 4, 'gay': 3, 'fat': 2, 'bitch': 2, 'hell': 2, 'stupid': 1, 'god': 1, 'nutsack': 1}",5.43
+stan,39,229,5,"{'sucked': 1, 'ass': 1, 'damn': 1, 'sucks': 1, 'hell': 1}",2.18
+robert redford,23,397,2,"{'shit': 1, 'damn': 1}",0.5
+chef,23,247,2,"{'hell': 1, 'suck': 1}",0.81
+wendy,12,112,3,"{'fatass': 1, 'suck': 1, 'ass': 1}",2.68
+mr garrison,10,115,2,"{'bitch': 1, 'sexual': 1}",1.74
+director 3,10,114,2,"{'kill': 1, 'hell': 1}",1.75
+man,7,31,2,"{'god': 1, 'crap': 1}",6.45
+mayor mcdaniels,6,99,1,{'shit': 1},1.01
+candice,6,64,0,{},0.0
+the boys,6,7,0,{},0.0
+tom,5,100,0,{},0.0
+phyllis,5,62,0,{},0.0
+woman,4,46,0,{},0.0
+kenny,3,35,4,"{'vomit': 1, 'ass': 1, 'fuckin': 1, 'stupid': 1}",11.43
+tom hanks,3,31,0,{},0.0
+cowboy,3,23,0,{},0.0
+director 4,3,17,0,{},0.0
+director 7,2,18,0,{},0.0
+female director,2,15,1,{'willy': 1},6.67
+sheila,2,12,0,{},0.0
+director 10,2,5,0,{},0.0
+man 2,2,4,1,{'bastard': 1},25.0
+crowd,2,2,0,{},0.0
+marty,1,37,0,{},0.0
+short man,1,31,0,{},0.0
+host,1,18,0,{},0.0
+mr twig,1,13,0,{},0.0
+director 1,1,13,0,{},0.0
+director 8,1,13,0,{},0.0
+director 6,1,11,0,{},0.0
+director 2,1,10,1,{'ass': 1},10.0
+director 5,1,10,0,{},0.0
+female director 2,1,8,0,{},0.0
+hazmat official,1,8,0,{},0.0
+man 1,1,7,1,{'god': 1},14.29
+candices girlfriend,1,7,0,{},0.0
+a woman,1,5,0,{},0.0
+voice over,1,5,0,{},0.0
+man 3,1,5,0,{},0.0
+man in background,1,4,0,{},0.0
+aide 2,1,4,0,{},0.0
+an agent,1,3,1,{'god': 1},33.33
+director 9,1,2,0,{},0.0
+fred savage,1,2,0,{},0.0
+a director,1,2,0,{},0.0
+man in foreground,1,1,0,{},0.0
+someone in the crowd,1,1,0,{},0.0
+crowd members,1,1,0,{},0.0
+townsfolk,1,1,0,{},0.0

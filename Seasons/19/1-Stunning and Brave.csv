@@ -1,0 +1,43 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+cartman,44,745,11,"{'fuck': 4, 'dick': 2, 'god': 2, 'hell': 1, 'raping': 1, 'fat': 1}",1.48
+pc principal,36,790,17,"{'fuck': 4, 'fuckin': 4, 'shit': 2, 'fucking': 2, 'retarded': 1, 'wombs': 1, 'kill': 1, 'suck': 1, 'bullshit': 1}",2.15
+kyle,20,359,6,"{'fuck': 3, 'hell': 1, 'fat': 1, 'ass': 1}",1.67
+randy,17,211,3,"{'hell': 1, 'dicks': 1, 'shit': 1}",1.42
+butters,16,118,0,{},0.0
+stan,12,81,1,{'dicks': 1},1.23
+gerald,9,71,1,{'hell': 1},1.41
+pc bro 1,8,61,4,"{'fuckin': 3, 'hell': 1}",6.56
+pc bros,8,39,1,{'fuck': 1},2.56
+pc bro 2,7,50,1,{'fuck': 1},2.0
+commissioner cartman,6,60,5,"{'fuck': 4, 'fucking': 1}",8.33
+mr mackey,5,103,1,{'rape': 1},0.97
+cartman brady,5,43,3,{'fuck': 3},6.98
+pc bro 4,4,38,1,{'fuck': 1},2.63
+stephen,4,30,0,{},0.0
+pc bro 5,4,16,2,{'fuck': 2},12.5
+sharon,3,28,0,{},0.0
+stuart,3,24,0,{},0.0
+ryan,3,12,0,{},0.0
+boys,3,3,0,{},0.0
+pc bro 3,2,34,0,{},0.0
+coach brady,2,25,1,{'fuck': 1},4.0
+janitor,2,23,0,{},0.0
+pc bro 6,2,10,0,{},0.0
+topher,1,25,0,{},0.0
+friend,1,8,0,{},0.0
+mr garrison,1,6,0,{},0.0
+pc bro 8,1,6,0,{},0.0
+tuong lu kim,1,5,0,{},0.0
+coach cartman,1,5,0,{},0.0
+pc bro 9,1,5,0,{},0.0
+a passing bro,1,4,0,{},0.0
+pc bro 7,1,3,0,{},0.0
+pregnant mexican women,1,3,0,{},0.0
+various adults,1,2,0,{},0.0
+pledges,1,2,0,{},0.0
+kenny,1,1,0,{},0.0
+gerald and kyle,1,1,0,{},0.0
+pledge 1,1,1,0,{},0.0
+pledge 2,1,1,0,{},0.0
+a pc bro,1,1,0,{},0.0
+townsman,1,1,0,{},0.0

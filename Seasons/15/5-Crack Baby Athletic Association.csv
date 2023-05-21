@@ -1,0 +1,25 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+cartman,67,1378,18,"{'slaves': 5, 'slave': 3, 'crap': 2, 'hell': 2, 'screwed': 1, 'screw': 1, 'morons': 1, 'goddamn': 1, 'god': 1, 'fucking': 1}",1.31
+kyle,59,992,5,"{'screwed': 3, 'god': 1, 'goddamned': 1}",0.5
+stan,16,96,1,{'god': 1},1.04
+clyde,11,130,0,{},0.0
+betsy macintosh,9,63,0,{},0.0
+dean howland,7,67,2,{'slaves': 2},2.99
+butters,6,31,0,{},0.0
+roger,5,65,0,{},0.0
+craig,5,40,0,{},0.0
+mr peters,4,125,5,"{'fuck': 3, 'damn': 1, 'piss': 1}",4.0
+nurse,4,111,0,{},0.0
+sarah mclachlan,3,87,0,{},0.0
+postmaster,3,78,0,{},0.0
+betsy,3,28,0,{},0.0
+ms williams,3,21,0,{},0.0
+the black eye peas,3,13,1,{'shitting': 1},7.69
+child singers,2,21,0,{},0.0
+postman,1,18,0,{},0.0
+secretary,1,13,0,{},0.0
+announcer,1,10,0,{},0.0
+waiter,1,9,0,{},0.0
+phillip,1,8,0,{},0.0
+singer,1,3,0,{},0.0
+both parents,1,2,0,{},0.0

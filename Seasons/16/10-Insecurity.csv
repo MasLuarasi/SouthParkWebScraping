@@ -1,0 +1,44 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+cartman,44,791,41,"{'raped': 7, 'god': 5, 'damn': 3, 'rape': 3, 'fucking': 3, 'fat': 3, 'bitch': 3, 'sex': 2, 'fuck': 2, 'shit': 2, 'fucked': 2, 'screw': 1, 'rapist': 1, 'bullshit': 1, 'boobs': 1, 'ass': 1, 'retards': 1}",5.18
+randy,31,301,4,"{'shit': 1, 'sucks': 1, 'god': 1, 'homo': 1}",1.33
+kyle,22,287,7,"{'god': 2, 'sex': 2, 'fat': 1, 'bitch': 1, 'fatass': 1}",2.44
+ups man,21,146,1,{'god': 1},0.68
+gerald,13,119,2,"{'hells': 1, 'sexual': 1}",1.68
+stephen,10,176,6,"{'sex': 3, 'lust': 1, 'damn': 1, 'bitch': 1}",3.41
+sheila,9,51,0,{},0.0
+security agent,7,164,0,{},0.0
+jeff,7,53,1,{'rape': 1},1.89
+stan,7,39,4,{'sex': 4},10.26
+mechanic,6,305,9,"{'kill': 3, 'fucking': 2, 'fuckin': 1, 'hell': 1, 'boobs': 1, 'pussy': 1}",2.95
+marcus,6,38,1,{'boobs': 1},2.63
+jimbo,5,73,0,{},0.0
+kevin,4,58,1,{'fucked': 1},1.72
+sharon,4,54,0,{},0.0
+michael,4,33,0,{},0.0
+sgt yates,3,71,1,{'sex': 1},1.41
+brian,3,42,0,{},0.0
+stuart,3,40,1,{'sex': 1},2.5
+husband,3,35,1,{'murder': 1},2.86
+varashnu,3,18,0,{},0.0
+spokesman,2,65,0,{},0.0
+shoe salesman,2,22,2,"{'fucking': 1, 'bastard': 1}",9.09
+martin,2,22,0,{},0.0
+peter,2,21,0,{},0.0
+david,2,20,0,{},0.0
+stranger,2,15,1,{'fucking': 1},6.67
+liane,2,13,0,{},0.0
+mom,2,11,1,{'murder': 1},9.09
+ike,2,9,0,{},0.0
+boy,2,7,0,{},0.0
+announcer,1,81,1,{'sex': 1},1.23
+mr mackey,1,36,0,{},0.0
+steve black,1,18,0,{},0.0
+cat burglar,1,15,0,{},0.0
+alvin,1,9,0,{},0.0
+mike,1,9,0,{},0.0
+officer,1,8,0,{},0.0
+voice,1,6,0,{},0.0
+woman,1,3,1,{'god': 1},33.33
+man,1,3,0,{},0.0
+wife,1,1,0,{},0.0
+the men,1,1,0,{},0.0

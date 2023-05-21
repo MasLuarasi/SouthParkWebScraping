@@ -1,0 +1,42 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+stan,47,535,19,"{'shit': 7, 'fuck': 4, 'shitty': 3, 'god': 2, 'fuckin': 2, 'sniper': 1}",3.55
+kyle,35,375,7,"{'stupid': 1, 'goddamn': 1, 'sucks': 1, 'fatass': 1, 'god': 1, 'fuck': 1, 'ass': 1}",1.87
+cartman,31,324,6,"{'vaginas': 1, 'retarded': 1, 'fuckin': 1, 'god': 1, 'stupid': 1, 'bitch': 1}",1.85
+morpheus,18,384,7,"{'shit': 4, 'fuck': 2, 'bitches': 1}",1.82
+mcdonalds exec,12,185,0,{},0.0
+nurse bronski,8,52,0,{},0.0
+big harry,7,124,0,{},0.0
+neo,7,34,0,{},0.0
+butters,5,45,2,"{'vagina': 1, 'butthole': 1}",4.44
+researcher,4,117,0,{},0.0
+sharon,4,54,0,{},0.0
+wendy,4,53,0,{},0.0
+mike,4,51,0,{},0.0
+mr mackey,3,133,2,"{'shitty': 1, 'sucks': 1}",1.5
+anchor,3,83,1,{'steamy': 1},1.2
+randy,3,74,1,{'shitty': 1},1.35
+mr garrison,3,47,0,{},0.0
+taco bell exec,3,44,0,{},0.0
+kfc exec,2,49,0,{},0.0
+announcer,2,31,1,{'fuck': 1},3.23
+pizza hut exec,2,22,0,{},0.0
+bald guy,2,19,0,{},0.0
+aide 1,2,18,0,{},0.0
+mr mathers,2,17,0,{},0.0
+figure 1,1,28,0,{},0.0
+neo 2,1,19,1,{'shit': 1},5.26
+jill,1,11,0,{},0.0
+burger king exec,1,11,0,{},0.0
+boy 1,1,10,1,{'screw': 1},10.0
+officer barbrady,1,9,0,{},0.0
+clyde,1,8,0,{},0.0
+adam sandler,1,8,0,{},0.0
+other execs,1,7,0,{},0.0
+aide 2,1,6,0,{},0.0
+riley,1,4,0,{},0.0
+martin,1,4,0,{},0.0
+kenny,1,3,0,{},0.0
+boy 2,1,1,0,{},0.0
+molly,1,1,0,{},0.0
+douglas,1,1,0,{},0.0
+crowd,1,1,0,{},0.0

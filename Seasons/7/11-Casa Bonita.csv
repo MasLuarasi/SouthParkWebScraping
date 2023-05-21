@@ -1,0 +1,14 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+cartman,104,1887,19,"{'god': 7, 'fuck': 3, 'asshole': 2, 'hell': 1, 'dick': 1, 'fucking': 1, 'sex': 1, 'crap': 1, 'sucks': 1, 'ass': 1}",1.01
+butters,52,543,10,{'god': 10},1.84
+kyle,46,432,7,"{'dick': 2, 'stupid': 1, 'god': 1, 'fuck': 1, 'screw': 1, 'fatass': 1}",1.62
+stan,11,67,0,{},0.0
+sheila,9,123,0,{},0.0
+yates,6,144,0,{},0.0
+worker,6,55,0,{},0.0
+jimmy,5,86,0,{},0.0
+kenny,3,4,0,{},0.0
+chris,2,39,0,{},0.0
+field reporter,1,22,0,{},0.0
+stan cartman kenny,1,11,0,{},0.0
+linda,1,2,0,{},0.0

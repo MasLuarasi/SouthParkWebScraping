@@ -1,0 +1,49 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+stan,48,604,12,"{'god': 6, 'ass': 2, 'screw': 1, 'menstruate': 1, 'assholes': 1, 'boobs': 1}",1.99
+jesus,35,647,9,{'god': 9},1.39
+cartman,31,544,9,"{'maxi': 2, 'tampon': 2, 'ass': 1, 'goddammit': 1, 'hell': 1, 'titties': 1, 'tampons': 1}",1.65
+kyle,29,287,3,"{'fatass': 1, 'shit': 1, 'ass': 1}",1.05
+kenny,15,92,3,"{'tampons': 1, 'tampon': 1, 'ass': 1}",3.26
+chef,12,102,0,{},0.0
+god,11,188,2,"{'asses': 1, 'titties': 1}",1.06
+netzel,9,286,2,{'god': 2},0.7
+rod,8,33,0,{},0.0
+dr mephesto,7,93,0,{},0.0
+mr garrison,7,58,3,"{'crap': 1, 'ass': 1, 'sucks': 1}",5.17
+dr doctor,6,130,4,"{'ass': 2, 'tampon': 1, 'tampons': 1}",3.08
+crowd,6,20,4,{'god': 4},20.0
+jimbo,4,32,1,{'god': 1},3.12
+woman,4,28,0,{},0.0
+sharon,4,25,0,{},0.0
+ike,4,16,0,{},0.0
+randy,3,17,1,{'god': 1},5.88
+fr maxi,3,16,3,{'god': 3},18.75
+ms mccormick,3,16,2,{'god': 2},12.5
+agent,2,61,0,{},0.0
+miss aliton,2,23,0,{},0.0
+stuart,2,12,0,{},0.0
+man,2,11,0,{},0.0
+man 7,2,10,1,{'god': 1},10.0
+man 5,2,8,0,{},0.0
+skeeter,2,6,0,{},0.0
+anchor tom,1,107,0,{},0.0
+rancher,1,30,0,{},0.0
+announcer,1,16,0,{},0.0
+nurse,1,15,0,{},0.0
+maam,1,15,0,{},0.0
+man 8,1,8,0,{},0.0
+y2k man,1,5,0,{},0.0
+phillip,1,4,1,{'god': 1},25.0
+boy,1,3,0,{},0.0
+man with picket sign,1,3,0,{},0.0
+gerald,1,2,0,{},0.0
+mr mackey,1,2,0,{},0.0
+man 1,1,1,0,{},0.0
+man 2,1,1,0,{},0.0
+man 3,1,1,0,{},0.0
+cameraman,1,1,0,{},0.0
+man 4,1,1,0,{},0.0
+man 6,1,1,0,{},0.0
+mccormick parents,1,1,0,{},0.0
+blonde,1,1,0,{},0.0
+man 9,1,1,0,{},0.0

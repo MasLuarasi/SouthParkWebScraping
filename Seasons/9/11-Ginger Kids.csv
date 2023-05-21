@@ -1,0 +1,33 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+cartman,68,1266,7,"{'goddamned': 2, 'bitch': 2, 'stupid': 1, 'kill': 1, 'god': 1}",0.55
+kyle,40,414,7,"{'fatass': 1, 'crap': 1, 'stupid': 1, 'fat': 1, 'bastard': 1, 'ass': 1, 'asshole': 1}",1.69
+gingers,22,98,4,{'kill': 4},4.08
+stan,20,195,3,"{'hell': 2, 'asshole': 1}",1.54
+father,7,119,0,{},0.0
+gary nelson,6,73,0,{},0.0
+clyde,6,45,0,{},0.0
+liane,6,26,1,{'god': 1},3.85
+boy,6,21,0,{},0.0
+doctor,5,139,0,{},0.0
+ginger girl,5,18,0,{},0.0
+mrs garrison,4,77,0,{},0.0
+ginger boy,4,65,1,{'kill': 1},1.54
+girl,4,12,0,{},0.0
+kenny,4,11,0,{},0.0
+older boy,3,54,0,{},0.0
+tolkien,3,39,0,{},0.0
+reporter,2,57,1,{'ugly': 1},1.75
+mother,2,34,0,{},0.0
+ginger boy 2,2,21,0,{},0.0
+jimmy,2,13,2,"{'retard': 1, 'jackass': 1}",15.38
+butters,2,9,0,{},0.0
+three kids,2,5,0,{},0.0
+kids,2,2,0,{},0.0
+chris,1,64,0,{},0.0
+cartman and the gingers,1,14,1,{'kill': 1},7.14
+craig,1,10,0,{},0.0
+mom,1,5,0,{},0.0
+ginger 3,1,2,0,{},0.0
+class,1,1,0,{},0.0
+ginger 1,1,1,0,{},0.0
+ginger 2,1,1,0,{},0.0

@@ -1,0 +1,32 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+mysterion,36,527,9,"{'fuck': 2, 'pisses': 1, 'coon': 1, 'pussy': 1, 'prick': 1, 'stupid': 1, 'hell': 1, 'fucking': 1}",1.71
+toolshed,18,177,3,"{'god': 2, 'coon': 1}",1.69
+coon,16,542,30,"{'coon': 12, 'stupid': 2, 'god': 2, 'fuckin': 2, 'fat': 1, 'slaves': 1, 'fucking': 1, 'assholes': 1, 'buttholes': 1, 'goddammit': 1, 'jerk': 1, 'screw': 1, 'dick': 1, 'fuck': 1, 'suck': 1, 'bitches': 1}",5.54
+captain hindsight,15,185,3,"{'vodka': 1, 'sex': 1, 'bitch': 1}",1.62
+human kite,13,107,2,"{'god': 1, 'bastards': 1}",1.87
+stuart,9,119,5,"{'stupid': 2, 'bitch': 1, 'hell': 1, 'drunk': 1}",4.2
+mosquito,9,53,2,"{'coon': 1, 'ass': 1}",3.77
+tony hayward,8,109,0,{},0.0
+mint berry crunch,8,51,0,{},0.0
+pete,7,94,2,{'kill': 2},2.13
+carol,7,85,3,"{'asshole': 1, 'prick': 1, 'god': 1}",3.53
+michael,6,62,2,"{'fucking': 1, 'assmunch': 1}",3.23
+singer,6,42,0,{},0.0
+cult leader,5,97,0,{},0.0
+field reporter,4,121,4,"{'coon': 2, 'dick': 1, 'god': 1}",3.31
+blonde girl,4,37,2,{'coon': 2},5.41
+tupperwear,4,8,1,{'hell': 1},12.5
+man 2,3,52,0,{},0.0
+iron maiden,3,3,0,{},0.0
+jack brolin,2,48,0,{},0.0
+professor chaos,2,32,1,{'coon': 1},3.12
+followers,2,10,0,{},0.0
+narrator,1,110,0,{},0.0
+clerk,1,53,0,{},0.0
+firkle,1,23,0,{},0.0
+betsy,1,17,0,{},0.0
+announcer,1,12,0,{},0.0
+man 1,1,8,0,{},0.0
+woman 1,1,7,0,{},0.0
+injured man,1,6,0,{},0.0
+passengers,1,1,0,{},0.0

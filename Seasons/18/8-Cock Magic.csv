@@ -1,0 +1,45 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+cartman,50,532,12,"{'shit': 4, 'asshole': 1, 'fuckin': 1, 'shitty': 1, 'screw': 1, 'goddamned': 1, 'cock': 1, 'fucking': 1, 'dick': 1}",2.26
+stan,32,254,3,"{'hell': 1, 'cock': 1, 'shit': 1}",1.18
+kyle,28,211,2,"{'ass': 1, 'shit': 1}",0.95
+randy,17,361,5,"{'cock': 4, 'god': 1}",1.39
+det harris,13,265,7,"{'cock': 6, 'crap': 1}",2.64
+promoter,9,123,4,"{'cock': 3, 'hell': 1}",3.25
+announcer,8,192,1,{'hell': 1},0.52
+woman,7,54,0,{},0.0
+kenny,7,28,0,{},0.0
+breeder,6,120,1,{'fuckin': 1},0.83
+sharon,6,28,0,{},0.0
+man,5,100,3,{'penis': 3},3.0
+butters,5,17,0,{},0.0
+espn host,4,189,3,"{'cock': 2, 'god': 1}",1.59
+slaughterhouse,4,49,0,{},0.0
+crowd,4,4,0,{},0.0
+coach,3,88,0,{},0.0
+janitor,3,71,1,{'shit': 1},1.41
+wendy,3,45,0,{},0.0
+mr lu kim,3,28,0,{},0.0
+stuart,3,15,2,{'cock': 2},13.33
+boys,3,3,0,{},0.0
+girl 1,2,41,0,{},0.0
+girl 3,2,18,0,{},0.0
+manager,2,15,0,{},0.0
+referee,2,11,0,{},0.0
+voice,2,10,1,{'cock': 1},10.0
+kindergarten boy,2,8,0,{},0.0
+mr garrison,1,24,0,{},0.0
+spectator 2,1,20,0,{},0.0
+shelly,1,18,0,{},0.0
+spectator 1,1,17,1,{'hell': 1},5.88
+espn announcer,1,12,1,{'cock': 1},8.33
+announcer 2,1,12,0,{},0.0
+mr tuong,1,10,0,{},0.0
+someone,1,8,0,{},0.0
+girl 2,1,6,0,{},0.0
+rené dif,1,6,0,{},0.0
+jimmy,1,5,0,{},0.0
+craig,1,4,0,{},0.0
+kindergartners,1,2,0,{},0.0
+the boys,1,1,0,{},0.0
+girl,1,1,0,{},0.0
+spectator 3,1,1,0,{},0.0

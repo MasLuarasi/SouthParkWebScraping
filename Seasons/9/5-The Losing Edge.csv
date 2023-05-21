@@ -1,0 +1,64 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+randy,39,438,5,"{'ass': 2, 'sucks': 2, 'god': 1}",1.14
+stan,30,240,4,"{'sucking': 2, 'gay': 1, 'suck': 1}",1.67
+umpire,23,58,0,{},0.0
+kyle,21,207,4,"{'god': 2, 'hell': 1, 'crap': 1}",1.93
+cartman,17,157,4,"{'goddamned': 1, 'hell': 1, 'sucks': 1, 'ass': 1}",2.55
+kyle schwartz,13,172,0,{},0.0
+stephen,9,114,0,{},0.0
+bat dad,9,112,0,{},0.0
+sharon,9,78,1,{'ass': 1},1.28
+mr varcas,7,60,5,"{'asshole': 2, 'sucks': 1, 'hell': 1, 'goddamned': 1}",8.33
+butters,7,57,0,{},0.0
+sp team,7,12,1,{'god': 1},8.33
+fc pitcher,6,70,1,{'hell': 1},1.43
+gerald,6,45,1,{'drunk': 1},2.22
+morgan,6,41,1,{'hell': 1},2.44
+announcer,5,71,0,{},0.0
+mr pratt,5,53,3,"{'turds': 1, 'ass': 1, 'bitch': 1}",5.66
+craig,4,30,0,{},0.0
+fc team,4,6,0,{},0.0
+tom nelson,3,59,0,{},0.0
+reporter,3,58,0,{},0.0
+reporter chris,3,50,0,{},0.0
+umpire 2,3,41,0,{},0.0
+fc announcer,3,34,0,{},0.0
+roger,3,31,0,{},0.0
+denver pitcher,3,27,0,{},0.0
+commentator,2,48,0,{},0.0
+fc batter,2,21,2,"{'stupid': 1, 'ass': 1}",9.52
+local announcer 1,2,18,0,{},0.0
+a woman,1,28,0,{},0.0
+anchor tom,1,27,0,{},0.0
+a voice,1,17,2,"{'sucks': 1, 'ass': 1}",11.76
+richard,1,11,1,{'crap': 1},9.09
+mr donovan,1,11,0,{},0.0
+denver player 2,1,11,0,{},0.0
+dj,1,10,0,{},0.0
+denver player,1,9,1,{'hell': 1},11.11
+tom,1,9,0,{},0.0
+crowd,1,9,0,{},0.0
+denver catcher,1,8,1,{'asses': 1},12.5
+denver cop,1,8,0,{},0.0
+denver player 4,1,8,0,{},0.0
+clyde,1,8,0,{},0.0
+mickey,1,7,0,{},0.0
+jimmy,1,6,0,{},0.0
+fc fat player,1,6,0,{},0.0
+denver player 3,1,6,0,{},0.0
+second baseman,1,6,0,{},0.0
+fc catcher,1,5,0,{},0.0
+pueblo dad,1,5,0,{},0.0
+woman,1,5,0,{},0.0
+greeley team,1,4,0,{},0.0
+pueblo team,1,4,0,{},0.0
+mr williams,1,4,0,{},0.0
+the other boys,1,3,0,{},0.0
+greeley man,1,3,0,{},0.0
+fc batter 1,1,2,0,{},0.0
+sheila,1,2,0,{},0.0
+men,1,1,0,{},0.0
+greeley batter,1,1,0,{},0.0
+tolkien,1,1,0,{},0.0
+denver team,1,1,0,{},0.0
+sp adults,1,1,0,{},0.0

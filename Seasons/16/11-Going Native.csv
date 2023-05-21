@@ -1,0 +1,46 @@
+Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
+butters,43,699,12,"{'stupid': 2, 'god': 2, 'crap': 1, 'pissed': 1, 'skank': 1, 'jerks': 1, 'fucking': 1, 'butthole': 1, 'kill': 1, 'testes': 1}",1.72
+chief david,17,196,1,{'god': 1},0.51
+kenny,15,310,4,"{'vodka': 1, 'boobs': 1, 'fucking': 1, 'gods': 1}",1.29
+stephen,14,357,0,{},0.0
+chief,14,212,0,{},0.0
+cartman,10,160,5,"{'shit': 3, 'crap': 1, 'fat': 1}",3.12
+blond man,9,100,0,{},0.0
+resident 4,8,104,1,{'kill': 1},0.96
+stan,7,33,1,{'fuck': 1},3.03
+kyle,5,39,1,{'hell': 1},2.56
+older man,4,130,0,{},0.0
+linda,4,35,0,{},0.0
+captain,4,28,2,"{'god': 1, 'damn': 1}",7.14
+principal victoria,3,27,0,{},0.0
+residents,3,7,0,{},0.0
+anchor,2,52,0,{},0.0
+teller,2,39,0,{},0.0
+resident 1,2,32,1,{'gods': 1},3.12
+vacationer 1,2,26,1,{'screw': 1},3.85
+resident 9,2,19,0,{},0.0
+officer,2,17,0,{},0.0
+woman,2,17,0,{},0.0
+patty,2,14,0,{},0.0
+man,2,10,0,{},0.0
+canyoner,1,31,0,{},0.0
+resident 3,1,21,0,{},0.0
+resident 8,1,18,1,{'gods': 1},5.56
+resident 12,1,15,1,{'vodka': 1},6.67
+resident 2,1,13,0,{},0.0
+older woman,1,12,0,{},0.0
+man 1,1,12,0,{},0.0
+resident 15,1,12,0,{},0.0
+donna,1,11,0,{},0.0
+the king,1,11,0,{},0.0
+woman 1,1,8,1,{'skank': 1},12.5
+resident 5,1,8,0,{},0.0
+resident 6,1,8,0,{},0.0
+resident 11,1,8,0,{},0.0
+brunet man,1,7,0,{},0.0
+resident 10,1,7,0,{},0.0
+first mate,1,4,0,{},0.0
+announcer,1,4,0,{},0.0
+resident 13,1,4,0,{},0.0
+resident 14,1,4,0,{},0.0
+resident 7,1,3,0,{},0.0
