@@ -7,6 +7,7 @@ import json
 import time
 import operator
 import csv
+import os
 
 st = time.time()#Start time
 
@@ -43,16 +44,41 @@ def computeSeasonSummary(index, episodeTitles):#Add all the data from each episo
     with open('Series\\'+ str(index) +'Summary.json', 'w') as f:
         f.write(json.dumps(seasonSummary))#Create the season summary json file in the series folder with the contents in the dictionary
     f.close()
-    writeToCSV(seasonSummary, str(index), 'Summary')#Write the csv file for the season summary
+    writeToCSV(seasonSummary, ('Seasons\\' + str(index)), 'Summary')#Write the csv file for the season summary
 
-def writeToCSV(data, index, titleFile):#Write the input data to a csv file
+def computeSeriesSummary():#Add all the data from each season summary into a series summary
+    directory = 'Series/'#Navigate to folder
+    if os.path.exists("Series\Summary.csv"):
+        os.remove("Series\Summary.csv")
+    if os.path.exists("Series\Summary.json"):
+        os.remove("Series\Summary.json")
+    seriesSummary = dict()
+    for filename in os.listdir(directory):#For each seasonSummary in the directory
+        current = dict(json.load(open(os.path.join(directory, filename))))#Get the data of current seasonSummary
+        for c in current:#For each key
+            if(c in seriesSummary.keys()):#If character already has an entry in the dictionary, so if they were in one of previous episodes
+                for j in range(0,3):
+                    seriesSummary[c][j] += current[c][j]#Update lines, words, and profanity count
+                seriesSummary[c][4] = round(seriesSummary[c][2]/seriesSummary[c][1] * 100, 2)#Update the profanity % with updated words and profanity count data
+                seriesSummary[c][3] = dict(sorted((Counter(seriesSummary[c][3]) + Counter(current[c][3])).items(), key=operator.itemgetter(1), reverse=True))#Merge the profanity frequency dictionaries and sort in descending order 
+            else:
+                seriesSummary[c] = current[c]#Make a new entry
+
+    seriesSummary = dict(sorted(seriesSummary.items(), key=lambda x: x[1][0], reverse=True))#Sort dictionary so character with most lines is first
+
+    with open('Series/Summary.json', 'w') as f:
+        f.write(json.dumps(seriesSummary))#Create the series summary json file with the contents in the dictionary
+    f.close()
+    writeToCSV(seriesSummary, 'Series\\' ,'Summary')
+
+def writeToCSV(data, directory, titleFile):#Write the input data to a csv file
     csv_data = []
     for entry_name, entry_values in data.items():#Organizing to csv
         name = entry_name
         lines, words, profanityCount, profanityList, profanityFrequency = entry_values
         csv_data.append([name, lines, words, profanityCount, profanityList, profanityFrequency])#Data headers
 
-    with open('Seasons\\'+ str(index) +'\\' + titleFile + '.csv', 'w', newline="") as f:#Writing to csv
+    with open(directory +'\\' + titleFile + '.csv', 'w', newline="") as f:#Writing to csv
         writer = csv.writer(f)
         writer.writerow(["Name", "Lines", "Words", "Profanity Count", "Profanity List", "Profanity Frequency"])
         writer.writerows(csv_data) 
@@ -130,12 +156,13 @@ def main():
                 f.write(json.dumps(sortedCharacterDataByLines))#Write the final dictionary of the episode to a json file
             f.close()
             
-            writeToCSV(sortedCharacterDataByLines, str(index), titleFile)#Write the data to a csv file as well
+            writeToCSV(sortedCharacterDataByLines, ('Seasons\\'+ str(index)), titleFile)#Write the data to a csv file as well
 
             time.sleep(2)#2 second sleeper to avoid overloading site with requests and getting booted
 
         computeSeasonSummary(index, episodeTitles)#Summarize the data across all episodes in a season
 
-main()
+# main()
+computeSeriesSummary()
 et = time.time()#End time
 print((et-st)*1000)#Total time for program to run
