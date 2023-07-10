@@ -1,7 +1,7 @@
 Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
 cartman,801,9868,255,"{'god': 70, 'hell': 44, 'ass': 15, 'screw': 11, 'fat': 11, 'tits': 9, 'crap': 8, 'suck': 7, 'bitch': 6, 'asshole': 6, 'damn': 5, 'screwed': 5, 'stupid': 5, 'penis': 3, 'pee': 3, 'assholes': 3, 'sucks': 3, 'dumbass': 2, 'hooters': 2, 'naked': 2, 'ugly': 2, 'hells': 2, 'gay': 2, 'pissed': 2, 'bitches': 2, 'kill': 2, 'pussies': 2, 'oral': 1, 'scum': 1, 'fag': 1, 'dicks': 1, 'piss': 1, 'raped': 1, 'pot': 1, 'goddammit': 1, 'screws': 1, 'bastard': 1, 'pussy': 1, 'penetration': 1, 'gods': 1, 'dumbasses': 1, 'douchebag': 1, 'retarded': 1, 'boner': 1, 'bastards': 1, 'retard': 1, 'dummy': 1, 'goddamned': 1}",2.58
 stan,607,5463,109,"{'hell': 19, 'god': 15, 'ass': 10, 'fatass': 9, 'fat': 9, 'stupid': 6, 'prostitute': 5, 'shit': 5, 'bitch': 4, 'asses': 3, 'sucks': 2, 'bastards': 2, 'damn': 2, 'kill': 2, 'pissed': 2, 'sucked': 2, 'hells': 1, 'homos': 1, 'retarded': 1, 'dick': 1, 'sexual': 1, 'gay': 1, 'fuck': 1, 'suck': 1, 'facial': 1, 'screwed': 1, 'pee': 1, 'sex': 1}",2.0
-kyle,502,4080,92,"{'hell': 14, 'fatass': 11, 'fat': 9, 'god': 8, 'ass': 7, 'stupid': 4, 'suck': 3, 'pissed': 3, 'pussies': 3, 'sucks': 3, 'sex': 2, 'kill': 2, 'dumbass': 2, 'screw': 2, 'crap': 2, 'bastards': 2, 'fuck': 1, 'fart': 1, 'bitch': 1, 'bastard': 1, 'douche': 1, 'gods': 1, 'gay': 1, 'asses': 1, 'goddammit': 1, 'damn': 1, 'piss': 1, 'hells': 1, 'uterus': 1, 'screwed': 1, 'fuckin': 1}",2.25
+kyle,502,4084,92,"{'hell': 14, 'fatass': 11, 'fat': 9, 'god': 8, 'ass': 7, 'stupid': 4, 'suck': 3, 'pissed': 3, 'pussies': 3, 'sucks': 3, 'sex': 2, 'kill': 2, 'dumbass': 2, 'screw': 2, 'crap': 2, 'bastards': 2, 'fuck': 1, 'fart': 1, 'bitch': 1, 'bastard': 1, 'douche': 1, 'gods': 1, 'gay': 1, 'asses': 1, 'goddammit': 1, 'damn': 1, 'piss': 1, 'hells': 1, 'uterus': 1, 'screwed': 1, 'fuckin': 1}",2.25
 mr garrison,135,2061,38,"{'hell': 5, 'god': 5, 'gay': 3, 'suck': 3, 'crap': 3, 'klan': 2, 'poontang': 2, 'vaginas': 1, 'sex': 1, 'bastards': 1, 'titties': 1, 'poon': 1, 'breasts': 1, 'dongs': 1, 'schlongs': 1, 'penis': 1, 'bastard': 1, 'bitch': 1, 'vulgar': 1, 'damn': 1, 'stupid': 1, 'ass': 1}",1.84
 kenny,129,486,16,"{'fuck': 5, 'fuckin': 2, 'god': 1, 'damn': 1, 'fucking': 1, 'bullshit': 1, 'screw': 1, 'stupid': 1, 'vagina': 1, 'shit': 1, 'titties': 1}",3.29
 timmy,122,287,0,{},0.0
@@ -63,6 +63,7 @@ mr foley,16,243,5,"{'ass': 3, 'crap': 1, 'hell': 1}",2.06
 boy 1,16,168,0,{},0.0
 the boys,16,36,0,{},0.0
 clinic doctor,16,258,2,{'god': 2},0.78
+bill,16,137,0,{},0.0
 tolkien,15,99,7,"{'ass': 2, 'fat': 2, 'kills': 2, 'sucks': 1}",7.07
 janet reno,15,174,1,{'god': 1},0.57
 jeffrey,15,160,0,{},0.0
@@ -77,7 +78,6 @@ kkk leader,13,185,1,{'god': 1},0.54
 autumn,13,141,6,"{'hell': 2, 'god': 1, 'naked': 1, 'breasts': 1, 'penis': 1}",4.26
 jesus,12,198,5,"{'god': 2, 'hell': 1, 'crap': 1, 'prostitute': 1}",2.53
 brunette,12,63,7,{'god': 7},11.11
-bill,12,110,0,{},0.0
 susan,12,82,0,{},0.0
 boy 2,11,97,1,{'hell': 1},1.03
 jonesy,11,86,1,{'sucks': 1},1.16
@@ -175,7 +175,6 @@ members,4,7,0,{},0.0
 johnson,4,33,0,{},0.0
 jonbenét ramsey,4,25,2,"{'sucks': 1, 'god': 1}",8.0
 stankyle,4,6,0,{},0.0
-bil,4,27,0,{},0.0
 supporters,4,12,0,{},0.0
 steve,4,44,1,{'hell': 1},2.27
 johnny knoxville,4,13,1,{'whore': 1},7.69

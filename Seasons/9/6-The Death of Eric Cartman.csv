@@ -1,6 +1,6 @@
 Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
 butters,74,619,2,"{'god': 1, 'stupid': 1}",0.32
-cartman,73,1077,17,"{'god': 9, 'stupid': 2, 'fags': 1, 'titty': 1, 'fuck': 1, 'crap': 1, 'retarded': 1, 'butthole': 1}",1.58
+cartman,73,1080,18,"{'god': 9, 'stupid': 2, 'fags': 1, 'titty': 1, 'fuck': 1, 'crap': 1, 'retarded': 1, 'butthole': 1, 'bitch': 1}",1.67
 stan,21,152,2,"{'fat': 1, 'asshole': 1}",1.32
 kyle,18,143,4,"{'god': 2, 'shit': 1, 'fat': 1}",2.8
 stephen,13,147,0,{},0.0

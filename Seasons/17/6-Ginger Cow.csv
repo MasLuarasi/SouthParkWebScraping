@@ -1,7 +1,7 @@
 Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
 kyle,79,608,19,"{'farts': 9, 'fat': 2, 'skank': 2, 'god': 1, 'damn': 1, 'shit': 1, 'hell': 1, 'tits': 1, 'dick': 1}",3.12
 cartman,41,780,10,"{'farts': 3, 'fat': 1, 'skank': 1, 'tits': 1, 'god': 1, 'penis': 1, 'dick': 1, 'sucking': 1}",1.28
-stan,27,336,18,"{'farts': 7, 'dick': 6, 'suck': 2, 'fuck': 1, 'stupid': 1, 'fuckin': 1}",5.36
+stan,27,335,18,"{'farts': 7, 'dick': 6, 'suck': 2, 'fuck': 1, 'stupid': 1, 'fuckin': 1}",5.37
 mr mackey,13,116,1,{'farts': 1},0.86
 rabbi 1,12,233,2,"{'fat': 1, 'penis': 1}",0.86
 butters,6,40,0,{},0.0

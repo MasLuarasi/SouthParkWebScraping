@@ -1,6 +1,6 @@
 Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
 stan,62,523,8,"{'god': 3, 'kill': 1, 'fat': 1, 'fart': 1, 'ass': 1, 'dumbass': 1}",1.53
-kyle,58,442,19,"{'fat': 2, 'fart': 2, 'crap': 2, 'bastard': 2, 'fatass': 1, 'fuck': 1, 'bitches': 1, 'damn': 1, 'god': 1, 'stupid': 1, 'kill': 1, 'bastards': 1, 'retard': 1, 'penis': 1, 'fucked': 1}",4.3
+kyle,58,442,20,"{'fat': 2, 'fart': 2, 'crap': 2, 'bastard': 2, 'fatass': 1, 'fuck': 1, 'dumbass': 1, 'bitches': 1, 'damn': 1, 'god': 1, 'stupid': 1, 'kill': 1, 'bastards': 1, 'retard': 1, 'penis': 1, 'fucked': 1}",4.52
 ms crabtree,53,437,13,"{'hell': 4, 'ass': 3, 'kill': 2, 'crap': 1, 'turd': 1, 'suck': 1, 'whores': 1}",2.97
 cartman,48,387,11,"{'ass': 3, 'assholes': 1, 'suck': 1, 'sucks': 1, 'fart': 1, 'god': 1, 'kill': 1, 'damn': 1, 'bitch': 1}",2.84
 truck driver,28,212,1,{'damn': 1},0.47

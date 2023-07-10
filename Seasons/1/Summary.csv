@@ -1,8 +1,8 @@
 Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
 cartman,691,6148,220,"{'ass': 35, 'god': 22, 'hell': 20, 'stupid': 18, 'bitch': 17, 'damn': 12, 'crap': 12, 'screw': 9, 'kill': 8, 'gay': 5, 'pot': 5, 'fat': 5, 'pissed': 5, 'fart': 4, 'sucks': 4, 'dildo': 3, 'homo': 3, 'piss': 3, 'anal': 2, 'pee': 2, 'shit': 2, 'bitches': 1, 'dildos': 1, 'weenies': 1, 'kills': 1, 'goddammit': 1, 'poop': 1, 'sissy': 1, 'sex': 1, 'fuckin': 1, 'screwed': 1, 'hitler': 1, 'whore': 1, 'pisses': 1, 'asshole': 1, 'bastards': 1, 'screws': 1, 'pissing': 1, 'bullshit': 1, 'bastard': 1, 'weirdo': 1, 'slut': 1, 'goddamn': 1, 'dumbass': 1, 'fucking': 1}",3.58
-stan,680,4925,137,"{'ass': 18, 'gay': 15, 'fat': 12, 'god': 12, 'kill': 9, 'hell': 9, 'sucks': 8, 'damn': 6, 'stupid': 5, 'bitch': 5, 'crap': 4, 'ugly': 4, 'fart': 3, 'fucked': 3, 'bastard': 2, 'pissed': 2, 'goddammit': 2, 'lesbians': 2, 'whore': 2, 'dildo': 1, 'anal': 1, 'rectum': 1, 'fuck': 1, 'pee': 1, 'suck': 1, 'fucker': 1, 'asses': 1, 'drunk': 1, 'sex': 1, 'dumbass': 1, 'anus': 1, 'slut': 1, 'goddamn': 1}",2.78
+stan,680,4926,137,"{'ass': 18, 'gay': 15, 'fat': 12, 'god': 12, 'kill': 9, 'hell': 9, 'sucks': 8, 'damn': 6, 'stupid': 5, 'bitch': 5, 'crap': 4, 'ugly': 4, 'fart': 3, 'fucked': 3, 'bastard': 2, 'pissed': 2, 'goddammit': 2, 'lesbians': 2, 'whore': 2, 'dildo': 1, 'anal': 1, 'rectum': 1, 'fuck': 1, 'pee': 1, 'suck': 1, 'fucker': 1, 'asses': 1, 'drunk': 1, 'sex': 1, 'dumbass': 1, 'anus': 1, 'slut': 1, 'goddamn': 1}",2.78
 kyle,563,4159,121,"{'ass': 14, 'god': 12, 'fat': 11, 'damn': 10, 'hell': 8, 'bastards': 8, 'fuck': 5, 'stupid': 5, 'bastard': 5, 'anal': 3, 'kill': 3, 'pot': 3, 'bitch': 3, 'fart': 3, 'drunk': 2, 'dildo': 1, 'shits': 1, 'fucking': 1, 'asshole': 1, 'fuckers': 1, 'shit': 1, 'pee': 1, 'gay': 1, 'sucks': 1, 'poop': 1, 'retarded': 1, 'retard': 1, 'sex': 1, 'murders': 1, 'porno': 1, 'sissy': 1, 'hitler': 1, 'whore': 1, 'pissed': 1, 'fatass': 1, 'weirdo': 1, 'lesbians': 1, 'screw': 1, 'goddammit': 1, 'suck': 1, 'screwed': 1}",2.91
-chef,276,2702,51,"{'hell': 12, 'damn': 9, 'drunk': 4, 'ass': 4, 'crap': 4, 'kill': 3, 'sexual': 2, 'gay': 2, 'fat': 2, 'bastards': 2, 'god': 2, 'anal': 1, 'hells': 1, 'lesbians': 1, 'slope': 1, 'bitch': 1}",1.89
+chef,277,2709,52,"{'hell': 12, 'damn': 9, 'drunk': 4, 'ass': 4, 'crap': 4, 'kill': 3, 'god': 3, 'sexual': 2, 'gay': 2, 'fat': 2, 'bastards': 2, 'anal': 1, 'hells': 1, 'lesbians': 1, 'slope': 1, 'bitch': 1}",1.92
 mr garrison,249,2908,51,"{'hell': 11, 'damn': 6, 'stupid': 5, 'gay': 4, 'kill': 3, 'god': 2, 'ass': 2, 'bitch': 1, 'nazi': 1, 'queer': 1, 'dumbass': 1, 'screws': 1, 'pot': 1, 'weed': 1, 'bastard': 1, 'weirdo': 1, 'crap': 1, 'poop': 1, 'screwed': 1, 'herpes': 1, 'goddamned': 1, 'screw': 1, 'drunk': 1, 'sex': 1, 'gods': 1}",1.75
 wendy,145,1054,15,"{'fat': 3, 'ass': 3, 'kill': 2, 'fuck': 2, 'hitler': 1, 'god': 1, 'hell': 1, 'stupid': 1, 'bitch': 1}",1.42
 jimbo,136,1441,32,"{'hell': 8, 'damn': 4, 'kill': 3, 'hells': 3, 'asses': 3, 'gay': 3, 'bastard': 2, 'god': 2, 'fat': 1, 'jerk': 1, 'crap': 1, 'goddamned': 1}",2.22
@@ -178,7 +178,6 @@ bebe stevens,1,25,0,{},0.0
 lil kathie lee,1,11,0,{},0.0
 geraldo,1,11,0,{},0.0
 show announcer,1,10,0,{},0.0
-chef mcdaniels,1,7,1,{'god': 1},14.29
 clyde donovan,1,7,0,{},0.0
 jimbo kern,1,4,0,{},0.0
 kathie lee gifford,1,4,0,{},0.0

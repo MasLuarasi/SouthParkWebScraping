@@ -4,8 +4,8 @@ stan,44,337,10,"{'ass': 2, 'fat': 2, 'pee': 1, 'hell': 1, 'kill': 1, 'sex': 1, '
 mr garrison,40,902,8,"{'god': 3, 'crap': 2, 'hell': 1, 'stupid': 1, 'ass': 1}",0.89
 kyle,36,264,12,"{'fat': 3, 'ass': 3, 'crap': 2, 'goddammit': 1, 'damn': 1, 'dumbass': 1, 'screw': 1}",4.55
 bsm 471,23,476,1,{'kill': 1},0.21
+bill,16,137,0,{},0.0
 filmore,15,121,1,{'stupid': 1},0.83
-bill,12,110,0,{},0.0
 trapper keeper,9,34,0,{},0.0
 sally,8,50,0,{},0.0
 ike,7,20,0,{},0.0
@@ -13,7 +13,6 @@ rosie odonnell,6,116,0,{},0.0
 flora,6,16,0,{},0.0
 liane,5,51,0,{},0.0
 barbrady,5,28,0,{},0.0
-bil,4,27,0,{},0.0
 supporters,4,12,0,{},0.0
 guard 2,3,21,0,{},0.0
 jesse jackson,3,19,0,{},0.0

@@ -5,12 +5,12 @@ stan,17,105,3,"{'kill': 2, 'hell': 1}",2.86
 satan,15,135,3,{'god': 3},2.22
 michael,14,498,11,"{'god': 5, 'hell': 2, 'goddamned': 1, 'goddammit': 1, 'stupid': 1, 'hells': 1}",2.21
 hooded figure,12,96,2,"{'murder': 1, 'gods': 1}",2.08
-carol,11,117,1,{'asshole': 1},0.85
-doctor,10,180,1,{'organs': 1},0.56
+carol,11,116,1,{'asshole': 1},0.86
+doctor,10,179,1,{'organs': 1},0.56
 gabriel,10,97,2,"{'hells': 1, 'god': 1}",2.06
 kenny,8,46,1,{'fuck': 1},2.17
+lawyer,7,165,0,{},0.0
 peter,7,164,4,"{'god': 3, 'hell': 1}",2.44
-lawyer,7,164,0,{},0.0
 stuart,7,75,1,{'bitch': 1},1.33
 uriel,6,65,1,{'goddammit': 1},1.54
 anchor,5,123,0,{},0.0

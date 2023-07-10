@@ -1,5 +1,5 @@
 Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
-cartman,464,6875,71,"{'god': 16, 'stupid': 9, 'hell': 6, 'crap': 5, 'goddamned': 3, 'bitch': 3, 'fags': 2, 'fucking': 2, 'assholes': 2, 'goddammit': 2, 'damn': 2, 'fuck': 2, 'kill': 2, 'titties': 1, 'pot': 1, 'jackass': 1, 'gay': 1, 'suck': 1, 'sucks': 1, 'ass': 1, 'titty': 1, 'retarded': 1, 'butthole': 1, 'virgin': 1, 'penis': 1, 'vagina': 1, 'cock': 1, 'asshole': 1}",1.03
+cartman,464,6878,72,"{'god': 16, 'stupid': 9, 'hell': 6, 'crap': 5, 'bitch': 4, 'goddamned': 3, 'fags': 2, 'fucking': 2, 'assholes': 2, 'goddammit': 2, 'damn': 2, 'fuck': 2, 'kill': 2, 'titties': 1, 'pot': 1, 'jackass': 1, 'gay': 1, 'suck': 1, 'sucks': 1, 'ass': 1, 'titty': 1, 'retarded': 1, 'butthole': 1, 'virgin': 1, 'penis': 1, 'vagina': 1, 'cock': 1, 'asshole': 1}",1.05
 stan,441,4036,35,"{'hell': 6, 'kill': 3, 'crap': 3, 'fat': 3, 'god': 3, 'sucking': 2, 'asshole': 2, 'goddammit': 2, 'shitty': 1, 'screw': 1, 'bastards': 1, 'gay': 1, 'suck': 1, 'dumbass': 1, 'fucking': 1, 'fuck': 1, 'pissed': 1, 'stupid': 1, 'drunk': 1}",0.87
 kyle,346,3371,51,"{'hell': 8, 'stupid': 7, 'god': 7, 'ass': 3, 'crap': 3, 'fat': 3, 'fatass': 3, 'sex': 2, 'asshole': 2, 'penis': 1, 'vagina': 1, 'pissed': 1, 'kill': 1, 'damn': 1, 'assholes': 1, 'goddamn': 1, 'shit': 1, 'retarded': 1, 'weirdos': 1, 'gays': 1, 'bastard': 1, 'goddammit': 1}",1.51
 randy,203,2510,31,"{'god': 8, 'ass': 5, 'hell': 3, 'sucks': 2, 'virgin': 2, 'vodka': 2, 'goddammit': 1, 'fag': 1, 'pee': 1, 'damn': 1, 'crap': 1, 'stupid': 1, 'drunk': 1, 'kill': 1, 'willys': 1}",1.24
@@ -13,7 +13,7 @@ sharon,38,300,3,"{'god': 2, 'ass': 1}",1.0
 president,35,811,7,"{'stupid': 3, 'crap': 2, 'dummy': 1, 'fucking': 1}",0.86
 linda,33,203,4,{'god': 4},1.97
 dr biber,32,487,14,"{'penis': 4, 'testicles': 3, 'sex': 2, 'scrotum': 2, 'organs': 1, 'god': 1, 'testicle': 1}",2.87
-doctor,29,539,3,"{'sex': 1, 'womb': 1, 'organs': 1}",0.56
+doctor,29,538,3,"{'sex': 1, 'womb': 1, 'organs': 1}",0.56
 clyde,29,234,2,"{'damn': 1, 'ass': 1}",0.85
 kenny,25,90,4,{'fuck': 4},4.44
 michael,25,762,16,"{'god': 10, 'hell': 2, 'goddamned': 1, 'goddammit': 1, 'stupid': 1, 'hells': 1}",2.1
@@ -48,7 +48,7 @@ alf leader,13,161,2,"{'bastards': 1, 'god': 1}",1.24
 hooded figure,12,96,2,"{'murder': 1, 'gods': 1}",2.08
 shauna,12,119,0,{},0.0
 man 1,11,133,1,{'raping': 1},0.75
-carol,11,117,1,{'asshole': 1},0.85
+carol,11,116,1,{'asshole': 1},0.86
 red,11,77,0,{},0.0
 jakartha,11,84,4,"{'kill': 2, 'hell': 1, 'murder': 1}",4.76
 gabriel,10,97,2,"{'hells': 1, 'god': 1}",2.06
@@ -66,8 +66,8 @@ instructor,8,43,0,{},0.0
 mr garrison,7,51,2,"{'god': 1, 'sex': 1}",3.92
 reporter,7,188,1,{'ugly': 1},0.53
 agent,7,84,2,"{'screw': 1, 'ass': 1}",2.38
+lawyer,7,165,0,{},0.0
 peter,7,164,4,"{'god': 3, 'hell': 1}",2.44
-lawyer,7,164,0,{},0.0
 stuart,7,75,1,{'bitch': 1},1.33
 mr varcas,7,60,5,"{'asshole': 2, 'sucks': 1, 'hell': 1, 'goddamned': 1}",8.33
 sp team,7,12,1,{'god': 1},8.33

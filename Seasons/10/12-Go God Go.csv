@@ -1,6 +1,6 @@
 Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
 cartman,49,488,7,"{'god': 3, 'asshole': 2, 'screwed': 1, 'butthole': 1}",1.43
-mrs garrison,42,696,31,"{'retard': 10, 'sex': 4, 'god': 4, 'crap': 3, 'retarded': 2, 'dick': 2, 'screwed': 1, 'faggot': 1, 'hell': 1, 'fuckin': 1, 'vagina': 1, 'gods': 1}",4.45
+mrs garrison,42,694,31,"{'retard': 10, 'sex': 4, 'god': 4, 'crap': 3, 'retarded': 2, 'dick': 2, 'screwed': 1, 'faggot': 1, 'hell': 1, 'fuckin': 1, 'vagina': 1, 'gods': 1}",4.47
 mr dawkins,32,381,4,"{'god': 2, 'spunk': 1, 'breasts': 1}",1.05
 butters,24,126,1,{'kill': 1},0.79
 shvek,12,140,0,{},0.0

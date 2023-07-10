@@ -37,10 +37,10 @@ liane,18,154,0,{},0.0
 rick,18,204,1,{'dick': 1},0.49
 the boys,17,43,0,{},0.0
 jimbo,17,179,3,"{'hell': 1, 'bastards': 1, 'god': 1}",1.68
-tolkien,17,126,5,"{'hell': 3, 'god': 1, 'dickhead': 1}",3.97
 yates,17,469,0,{},0.0
 mime,17,167,1,{'bullshit': 1},0.6
 joozian 2,16,124,4,"{'suck': 2, 'god': 2}",3.23
+tolkien,16,121,5,"{'hell': 3, 'god': 1, 'dickhead': 1}",4.13
 singers,16,90,0,{},0.0
 michael,15,266,1,{'hell': 1},0.38
 stephen,13,143,1,{'gay': 1},0.7
@@ -365,6 +365,7 @@ the other kids,1,9,0,{},0.0
 angel,1,8,0,{},0.0
 the family,1,6,0,{},0.0
 blacksmith,1,6,0,{},0.0
+token,1,5,0,{},0.0
 older brother,1,4,0,{},0.0
 amanda,1,2,0,{},0.0
 the kids,1,2,0,{},0.0

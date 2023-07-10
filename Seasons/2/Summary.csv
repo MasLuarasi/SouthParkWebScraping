@@ -1,6 +1,6 @@
 Name,Lines,Words,Profanity Count,Profanity List,Profanity Frequency
 stan,855,6105,129,"{'god': 19, 'ass': 15, 'hell': 12, 'sucks': 8, 'stupid': 8, 'dick': 7, 'fat': 6, 'damn': 6, 'kill': 5, 'crap': 5, 'herpes': 4, 'suck': 4, 'bitch': 3, 'fatass': 3, 'screwed': 3, 'sucked': 2, 'weirdo': 2, 'dumbass': 2, 'prostitute': 2, 'fucked': 2, 'penis': 1, 'sex': 1, 'goddammit': 1, 'asses': 1, 'fart': 1, 'pee': 1, 'fuck': 1, 'screwing': 1, 'fucking': 1, 'dummy': 1, 'butthole': 1}",2.11
-kyle,854,6090,173,"{'ass': 22, 'hell': 18, 'stupid': 12, 'bastards': 12, 'fat': 12, 'god': 10, 'herpes': 6, 'bastard': 6, 'fatass': 6, 'damn': 5, 'sucks': 5, 'fucking': 5, 'kill': 4, 'dick': 4, 'gods': 3, 'dumbass': 3, 'suck': 3, 'penis': 3, 'fuck': 2, 'fucked': 2, 'fart': 2, 'crap': 2, 'retard': 2, 'sucked': 2, 'bitch': 2, 'goddamn': 2, 'pee': 2, 'gay': 2, 'butthole': 2, 'virgin': 1, 'dong': 1, 'dummy': 1, 'asshole': 1, 'weirdo': 1, 'screwed': 1, 'bitches': 1, 'assholes': 1, 'prostitute': 1, 'whoring': 1, 'pissed': 1, 'oral': 1}",2.84
+kyle,854,6090,174,"{'ass': 22, 'hell': 18, 'stupid': 12, 'bastards': 12, 'fat': 12, 'god': 10, 'herpes': 6, 'bastard': 6, 'fatass': 6, 'damn': 5, 'sucks': 5, 'fucking': 5, 'dumbass': 4, 'kill': 4, 'dick': 4, 'gods': 3, 'suck': 3, 'penis': 3, 'fuck': 2, 'fucked': 2, 'fart': 2, 'crap': 2, 'retard': 2, 'sucked': 2, 'bitch': 2, 'goddamn': 2, 'pee': 2, 'gay': 2, 'butthole': 2, 'virgin': 1, 'dong': 1, 'dummy': 1, 'asshole': 1, 'weirdo': 1, 'screwed': 1, 'bitches': 1, 'assholes': 1, 'prostitute': 1, 'whoring': 1, 'pissed': 1, 'oral': 1}",2.86
 cartman,729,6042,204,"{'ass': 25, 'hell': 17, 'screw': 17, 'god': 16, 'stupid': 13, 'bitch': 13, 'crap': 10, 'damn': 10, 'suck': 9, 'pussy': 9, 'sucks': 7, 'bitches': 5, 'fat': 5, 'nutsack': 3, 'gay': 3, 'asshole': 3, 'goddamn': 3, 'penis': 2, 'goddammit': 2, 'fuckin': 2, 'bitchin': 2, 'assholes': 2, 'pot': 2, 'fucking': 2, 'turd': 2, 'virgin': 1, 'screwing': 1, 'piss': 1, 'whiz': 1, 'drunk': 1, 'dick': 1, 'pissed': 1, 'fart': 1, 'kill': 1, 'pee': 1, 'herpes': 1, 'sucked': 1, 'shit': 1, 'horny': 1, 'fatass': 1, 'fuck': 1, 'goddamned': 1, 'dumbass': 1, 'pecker': 1, 'butthole': 1}",3.38
 chef,226,2298,26,"{'hell': 8, 'damn': 3, 'herpes': 2, 'ass': 1, 'fat': 1, 'crap': 1, 'goddamn': 1, 'stupid': 1, 'asses': 1, 'suck': 1, 'whore': 1, 'retarded': 1, 'shit': 1, 'sex': 1, 'sexual': 1, 'god': 1}",1.13
 mr garrison,213,2722,45,"{'hell': 6, 'stupid': 4, 'fuck': 3, 'bitch': 3, 'goddammit': 2, 'gay': 2, 'whore': 2, 'bastards': 2, 'hells': 1, 'god': 1, 'kill': 1, 'dumbass': 1, 'screw': 1, 'bullshit': 1, 'shit': 1, 'fuckin': 1, 'sex': 1, 'homo': 1, 'sexual': 1, 'prostitute': 1, 'weewee': 1, 'farts': 1, 'turd': 1, 'raping': 1, 'oral': 1, 'ass': 1, 'bitches': 1, 'asses': 1, 'turds': 1}",1.65
@@ -57,7 +57,7 @@ ike,18,51,0,{},0.0
 grandma,18,155,2,"{'fat': 1, 'pot': 1}",1.29
 lady member,18,206,2,"{'bastards': 1, 'whore': 1}",0.97
 roy,17,212,2,"{'ass': 1, 'suck': 1}",0.94
-mr big record producer,16,146,1,{'bastards': 1},0.68
+mr big record producer,16,147,1,{'bastards': 1},0.68
 gnome,16,87,5,"{'pussy': 4, 'shit': 1}",5.75
 mephesto,15,221,1,{'penis': 1},0.45
 boys,15,20,0,{},0.0

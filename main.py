@@ -85,7 +85,12 @@ def writeToCSV(data, directory, titleFile):#Write the input data to a csv file
     f.close()
 
 def main():
-    for index in range(26,27):#Seasons 1-26
+    heatmap = [[f"" for j in range(1, 21)] for i in range(1, 27)]
+    with open("heatmap.csv", "w", newline="") as file:
+        writer = csv.writer(file)
+        writer.writerows(heatmap)
+
+    for index in range(1,2):#Seasons 1-26
         file = open("Seasons\\"+ str(index) + "\\Links.txt", "r")#URLs for episodes of each season are in Links.txt file in each seasons folder
         episodeLinks = file.read().split("\n")#Assign the URLs to episodeLinks
         file.close()
@@ -157,12 +162,23 @@ def main():
             f.close()
             
             writeToCSV(sortedCharacterDataByLines, ('Seasons\\'+ str(index)), titleFile)#Write the data to a csv file as well
+            
+            with open("heatmap.csv", "r", newline="") as file:
+                reader = csv.reader(file)
+                rows = list(reader)  # Read all rows from the CSV file
+
+            rows[index-1][int(titleFile[0:1])-1] = next(iter(sortedCharacterDataByLines))  # Update the specified cell
+
+            with open("heatmap.csv", "w", newline="") as file:
+                writer = csv.writer(file)
+                writer.writerows(rows)  # Write all rows back to the CSV file
+
 
             time.sleep(2)#2 second sleeper to avoid overloading site with requests and getting booted
 
         computeSeasonSummary(index, episodeTitles)#Summarize the data across all episodes in a season
 
-# main()
-computeSeriesSummary()
+main()
+# computeSeriesSummary()
 et = time.time()#End time
 print((et-st)*1000)#Total time for program to run
