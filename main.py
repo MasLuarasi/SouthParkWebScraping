@@ -90,7 +90,7 @@ def main():
         writer = csv.writer(file)
         writer.writerows(heatmap)
 
-    for index in range(1,2):#Seasons 1-26
+    for index in range(1,27):#Seasons 1-26
         file = open("Seasons\\"+ str(index) + "\\Links.txt", "r")#URLs for episodes of each season are in Links.txt file in each seasons folder
         episodeLinks = file.read().split("\n")#Assign the URLs to episodeLinks
         file.close()
@@ -167,12 +167,11 @@ def main():
                 reader = csv.reader(file)
                 rows = list(reader)  # Read all rows from the CSV file
 
-            rows[index-1][int(titleFile[0:1])-1] = next(iter(sortedCharacterDataByLines))  # Update the specified cell
+            rows[index-1][int(titleFile.split('-')[0])-1] = next(iter(sortedCharacterDataByLines))  # Update the specified cell
 
             with open("heatmap.csv", "w", newline="") as file:
                 writer = csv.writer(file)
                 writer.writerows(rows)  # Write all rows back to the CSV file
-
 
             time.sleep(2)#2 second sleeper to avoid overloading site with requests and getting booted
 
