@@ -64,4 +64,4 @@ firstTen(dataByProfanityFreq, 4)#Get top 10 characters by profanity frequency
 print("\nTotal count of profanities and breakdown")
 listProfanities(data)#Total profanities and breakdown of each one in this data set
 
-wordInData(data, "fag")#How many times is a word mentinoed in this data set
+wordInData(data, "")#How many times is a word mentinoed in this data set

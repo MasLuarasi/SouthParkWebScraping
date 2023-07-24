@@ -163,15 +163,15 @@ def main():
             
             writeToCSV(sortedCharacterDataByLines, ('Seasons\\'+ str(index)), titleFile)#Write the data to a csv file as well
             
-            with open("heatmap.csv", "r", newline="") as file:
-                reader = csv.reader(file)
-                rows = list(reader)  # Read all rows from the CSV file
+            # with open("heatmap.csv", "r", newline="") as file:
+            #     reader = csv.reader(file)
+            #     rows = list(reader)  # Read all rows from the CSV file
 
-            rows[index-1][int(titleFile.split('-')[0])-1] = next(iter(sortedCharacterDataByLines))  # Update the specified cell
+            # rows[index-1][int(titleFile.split('-')[0])-1] = next(iter(sortedCharacterDataByLines))  # Update the specified cell
 
-            with open("heatmap.csv", "w", newline="") as file:
-                writer = csv.writer(file)
-                writer.writerows(rows)  # Write all rows back to the CSV file
+            # with open("heatmap.csv", "w", newline="") as file:
+            #     writer = csv.writer(file)
+            #     writer.writerows(rows)  # Write all rows back to the CSV file
 
             time.sleep(2)#2 second sleeper to avoid overloading site with requests and getting booted
 
