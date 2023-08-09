@@ -86,7 +86,7 @@ def writeToCSV(data, directory, titleFile):#Write the input data to a csv file
 
 def main():
     heatmap = [[f"" for j in range(1, 21)] for i in range(1, 27)]
-    with open("heatmap.csv", "w", newline="") as file:
+    with open("Heatmaps\Main Character Heatmap.csv", "w", newline="") as file:
         writer = csv.writer(file)
         writer.writerows(heatmap)
 
@@ -163,13 +163,13 @@ def main():
             
             writeToCSV(sortedCharacterDataByLines, ('Seasons\\'+ str(index)), titleFile)#Write the data to a csv file as well
             
-            # with open("heatmap.csv", "r", newline="") as file:
+            # with open("Heatmaps\Main Character Heatmap.csv", "r", newline="") as file:
             #     reader = csv.reader(file)
             #     rows = list(reader)  # Read all rows from the CSV file
 
             # rows[index-1][int(titleFile.split('-')[0])-1] = next(iter(sortedCharacterDataByLines))  # Update the specified cell
 
-            # with open("heatmap.csv", "w", newline="") as file:
+            # with open("Heatmaps\Main Character Heatmap.csv", "w", newline="") as file:
             #     writer = csv.writer(file)
             #     writer.writerows(rows)  # Write all rows back to the CSV file
 

@@ -5,7 +5,7 @@ import csv
 from natsort import natsorted
 from operator import itemgetter
 
-with open("Rating Heatmap.csv", "r", newline="") as file:
+with open("Heatmaps\Rating Heatmap.csv", "r", newline="") as file:
     reader = csv.reader(file)
     rows = list(reader)  # Read all rows from the CSV file
 
@@ -24,9 +24,6 @@ characters = {
             }
 
 #Is there a way we can combine names? Cartman and Coon. Mr & Mrs Garrison
-
-# characterName = 'craig'
-# minLines = 1#How many lines are needed for an appearance to be recorded.
 
 for c in characters:
     characterAppearances = 0
