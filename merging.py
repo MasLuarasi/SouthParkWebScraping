@@ -1,6 +1,12 @@
 import json
 from collections import Counter
 
+characterAlias = [
+                ['priest maxi', 'fr maxi', 'father maxi', 'maxi'],
+                ['mayor mcdaniels', 'mayor mcdaneils', 'mayor mcdanniels', 'mayor']
+                ]           
+                
+
 with open('Series\\Summary.json', 'r') as file:#Will be set to series summary or go through each episode
     data = json.load(file)
 
@@ -15,9 +21,9 @@ def mergeDicts(*dicts):#Looking at profanity count dictionaries for a given char
     
     return merged_dict#dict a = {'f':5, 'g':2} dict b = {'f':2, 'h':1} return {'f':7, 'h':1, 'g':1}
 
-def combineEntries(*dicts):
+def combineEntries(characterList):
     lines, words, profanities, profCount = 0, 0, 0, {}
-    for d in dicts: 
+    for d in characterList: 
         if d in data:#If this name is in the dataset
             lines += data[d][0]#Increment each of these values
             words += data[d][1]
@@ -27,9 +33,10 @@ def combineEntries(*dicts):
     combinedDict = [lines, words, profanities, dict(Counter(profCount).most_common()), (round(profanities/words * 100, 2))]#Put all the data together
     return combinedDict
 
-combinedData = combineEntries('priest maxi', 'fr maxi', 'father maxi', 'maxi')
-# print(combinedData)
-data['priest maxi'] = combinedData#Assign the single entry in the dataset to the returned combined data
+for c in characterAlias:
+    combinedData = combineEntries(c)
+    data[c[0]] = combinedData#Assign the single entry in the dataset to the returned combined data
+
 data = dict(sorted(data.items(), key=lambda x: x[1][0], reverse=True))#Sort dictionary so character with most lines is first
 
 with open('Z.json', 'w') as f:
