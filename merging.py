@@ -1,13 +1,11 @@
 import json
 from collections import Counter
-from difflib import SequenceMatcher
 
-def similar(a, b):
-    return SequenceMatcher(None, a, b).ratio()
+with open('Series\\Summary.json', 'r') as file:#Will be set to series summary or go through each episode
+    data = json.load(file)
 
-def merge_dicts(*dicts):
+def mergeDicts(*dicts):#Looking at profanity count dictionaries for a given character entry
     merged_dict = {}
-    
     for dictionary in dicts:
         for key, value in dictionary.items():
             if key in merged_dict:
@@ -15,39 +13,27 @@ def merge_dicts(*dicts):
             else:
                 merged_dict[key] = value
     
-    return merged_dict
+    return merged_dict#dict a = {'f':5, 'g':2} dict b = {'f':2, 'h':1} return {'f':7, 'h':1, 'g':1}
 
-with open('Series\\Summary.json', 'r') as file:
-    data = json.load(file)
-#'Seasons\\1\\1-Cartman Gets an Anal Probe.json'
-# data['Eric Cartman'] = [0, 0, 0, {}, 0.0]
+def combineEntries(*dicts):
+    lines, words, profanities, profCount = 0, 0, 0, {}
+    for d in dicts: 
+        if d in data:#If this name is in the dataset
+            lines += data[d][0]#Increment each of these values
+            words += data[d][1]
+            profanities += data[d][2]
+            profCount = mergeDicts(profCount, data[d][3])#Merge the profanity count dictionaries into one
+            data.pop(d)#Remove their entry from the dataset
+    combinedDict = [lines, words, profanities, dict(Counter(profCount).most_common()), (round(profanities/words * 100, 2))]#Put all the data together
+    return combinedDict
 
-# temp = data['Eric Cartman']
+combinedData = combineEntries('priest maxi', 'fr maxi', 'father maxi', 'maxi')
+# print(combinedData)
+data['priest maxi'] = combinedData#Assign the single entry in the dataset to the returned combined data
+data = dict(sorted(data.items(), key=lambda x: x[1][0], reverse=True))#Sort dictionary so character with most lines is first
 
-# for i in range(0,3):
-#     temp[i] = data['cartman'][i] + data['eric cartman'][i]
-
-# if(temp[1] == 0):#Trying to get how often their words have profanities. If words == 0
-#     temp[4] = 0#just add 0 to avoid divide by zero error
-# else:
-#     temp[4] = (round(temp[2]/temp[1] * 100, 2))#Append how often character uses profanity as a %. Profanities/Words 
-
-# merged_dict = merge_dicts(data['cartman'][3], data['eric cartman'][3])
-# temp[3] = merged_dict
-
-# temp[3] = dict(Counter(temp[3]).most_common())#Count the frequency of each profanity. Replace the list in the character data with a dictionary that has profanity as key and number of times as value
-
-# print(data["Eric Cartman"])
-
-for key1 in data:
-    for key2 in data:
-        if data[key1][0] > 50 and key1 != key2 and data[key1][0] >= data[key2][0] and data[key1][1] >= data[key2][1]:
-            combined_key = key1 + '\t' + key2
-            simPercent = similar(key1, key2)
-            if(simPercent > .5 and key1 in key2):
-                print(combined_key + '\t' + str(similar(key1, key2)))
-
-
+with open('Z.json', 'w') as f:
+    f.write(json.dumps(data))
 
 # cartman # kyle cartman # eric cartman
 # kyle # kyle broflovski # kyle cartman # kyle ms crabtree
@@ -73,3 +59,9 @@ for key1 in data:
 # the boys
 # kid
 # jason
+
+
+# if(temp[1] == 0):#Trying to get how often their words have profanities. If words == 0
+#     temp[4] = 0#just add 0 to avoid divide by zero error
+# else:
+#     temp[4] = (round(temp[2]/temp[1] * 100, 2))#Append how often character uses profanity as a %. Profanities/Words 
