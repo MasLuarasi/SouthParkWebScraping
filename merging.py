@@ -35,6 +35,12 @@ data = dict(sorted(data.items(), key=lambda x: x[1][0], reverse=True))#Sort dict
 with open('Z.json', 'w') as f:
     f.write(json.dumps(data))
 
+#NEXT STEPS
+#Make lists for all the characters and the entries we have to look for for each one
+#Reorganize the code to sort through them
+#Remove the pop statement from the loop, we're gonna pop everything we don't need at the end
+#See how to get the name we want (first in each list) an assign that as the replacement name
+
 # cartman # kyle cartman # eric cartman
 # kyle # kyle broflovski # kyle cartman # kyle ms crabtree
 # stan # stan marsh # stan 
