@@ -2,9 +2,11 @@ from bs4 import BeautifulSoup
 from urllib.request import urlopen
 from better_profanity import profanity
 from collections import Counter
+from natsort import natsorted
 import re
 import json
 import time
+import glob
 import operator
 import csv
 import os
@@ -53,16 +55,25 @@ def computeSeriesSummary():#Add all the data from each season summary into a ser
     if os.path.exists("Series\Summary.json"):
         os.remove("Series\Summary.json")
     seriesSummary = dict()
-    for filename in os.listdir(directory):#For each seasonSummary in the directory
-        current = dict(json.load(open(os.path.join(directory, filename))))#Get the data of current seasonSummary
-        for c in current:#For each key
-            if(c in seriesSummary.keys()):#If character already has an entry in the dictionary, so if they were in one of previous episodes
-                for j in range(0,3):
-                    seriesSummary[c][j] += current[c][j]#Update lines, words, and profanity count
-                seriesSummary[c][4] = round(seriesSummary[c][2]/seriesSummary[c][1] * 100, 2)#Update the profanity % with updated words and profanity count data
-                seriesSummary[c][3] = dict(sorted((Counter(seriesSummary[c][3]) + Counter(current[c][3])).items(), key=operator.itemgetter(1), reverse=True))#Merge the profanity frequency dictionaries and sort in descending order 
-            else:
-                seriesSummary[c] = current[c]#Make a new entry
+    for index in range(1, 27):
+        filePath = os.path.join('Seasons\\', str(index))#'Seasons\1...
+        if os.path.exists(filePath):
+            epFiles = natsorted(glob.glob(os.path.join(filePath, '*.json')))#Gather all the json files
+            for ep in epFiles:#For each episode in this season
+                if ep.endswith('Summary.json'):#If it's a season summary
+                    with open(ep, 'r') as file:
+                        current = json.load(file)
+                        for c in current:#For each key
+                            if(c in seriesSummary.keys()):#If character already has an entry in the dictionary, so if they were in one of previous episodes
+                                for j in range(0,3):
+                                    seriesSummary[c][j] += current[c][j]#Update lines, words, and profanity count
+                                if(seriesSummary[c][1] == 0):#Trying to get how often their words have profanities. If words == 0
+                                    seriesSummary[c][4] = 0#just add 0 to avoid divide by zero error
+                                else:
+                                    seriesSummary[c][4] = round(seriesSummary[c][2]/seriesSummary[c][1] * 100, 2)#Append how often character uses profanity as a %. Profanities/Words 
+                                seriesSummary[c][3] = dict(sorted((Counter(seriesSummary[c][3]) + Counter(current[c][3])).items(), key=operator.itemgetter(1), reverse=True))#Merge the profanity frequency dictionaries and sort in descending order 
+                            else:
+                                seriesSummary[c] = current[c]#Make a new entry
 
     seriesSummary = dict(sorted(seriesSummary.items(), key=lambda x: x[1][0], reverse=True))#Sort dictionary so character with most lines is first
 

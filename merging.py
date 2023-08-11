@@ -7,9 +7,9 @@ from natsort import natsorted
 characterAlias = [
                 ['butters', 'professor chaos', 'butters voice', 'butters '],
                 ['carol', 'carol mccormick'],
-                ['cartman', 'eric cartman', 'cartman as jennifer lopez', 'cartman smurf',
-                 'cartman voiceover', 'cheesy poof cartman', ' cartman', 'coon', 'the coon',
-                 'the boys', 'boys'],
+                ['cartman', 'eric cartman', 'cartman as jennifer lopez', 'mitch conner', 
+                 'cartman smurf', 'cartman voiceover', 'cheesy poof cartman', 'coon', 'the coon',
+                 ' cartman', 'the boys', 'boys'],
                 ['chef', 'jerome chef mcelroy', 'darth chef', 'chef falsetto'],
                 ['clyde', 'clyde donovan', 'mosquito'],
                 ['craig', 'craig tucker',],
