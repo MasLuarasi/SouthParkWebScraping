@@ -23,8 +23,6 @@ characters = {
             'towelie' : [1, 'Towelie'], 'doctor' : [1, 'Doctor']
             }
 
-#Is there a way we can combine names? Cartman and Coon. Mr & Mrs Garrison
-
 for c in characters:
     characterAppearances = 0
     characterTopEpisodes = {}
