@@ -9,9 +9,9 @@ The Pandemic Special,84,8.3
 Pinewood Derby,83,7.8
 Bloody Mary,81,7.9
 Japanese Toilet,80,7.7
+Crème Fraiche,69,8.2
 Over Logging,65,8.6
 Holiday Special,65,7.6
-Crème Fraiche,64,8.2
 South Park The Streaming Wars Part 2,63,6.6
 Two Guys Naked in a Hot Tub,61,8
 Average
@@ -31,7 +31,7 @@ crap,23
 
 Season Progression
 Season,Lines,Profanity Count,Profanity Frequency
-1,23,2,0.83,
+1,25,2,0.81,
 2,91,6,0.79,
 3,164,28,1.66,
 4,81,5,0.53,
@@ -44,12 +44,12 @@ Season,Lines,Profanity Count,Profanity Frequency
 11,185,18,0.83,
 12,157,47,2.6,
 13,157,38,1.61,
-14,224,48,1.62,
+14,229,48,1.61,
 15,153,39,1.81,
 16,160,20,0.91,
 17,96,37,2.61,
-18,179,33,1.31,
-19,198,60,2.07,
+18,180,33,1.31,
+19,199,60,2.06,
 20,83,30,2.54,
 21,199,45,1.45,
 22,179,59,2.76,

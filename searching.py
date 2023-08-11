@@ -15,9 +15,9 @@ characters = {
             'craig' : [1, 'Craig Tucker'], 'tweek' : [1, 'Tweek Tweak'], 'tolkien' : [1, 'Tolkein Black'], 'clyde' : [1, 'Clyde Donovan'],
             'ike' : [1, 'Ike Broflovski'], 'heidi' : [1, 'Heidi Turner'], 'scott' : [1, 'Scott Malkinson'], 'shelly' : [1, 'Shelly Marsh'],
             'randy' : [5, 'Randy Marsh'], 'sharon' : [1, 'Sharon Marsh'], 'gerald' : [1, 'Gerald Broflovski'], 'sheila' : [1, 'Sheila Broflovski'],
-            'carol' : [1, 'Carol McCormick'], 'stuart' : [1, 'Stuart McCormick'], 'linda' : [1, 'Linda Stotch'], 'stephen' : [1, 'Stephen Stotch'],
-            'liane' : [1, 'Liane Cartman'], 'mr garrison' : [1, 'Mr Garrison'], 'chef' : [1, 'Chef'], 'principal victoria' : [1, 'Principal Victoria'],
-            'mr mackey' : [1, 'Mr Mackey'], 'pc principal' : [1, 'PC Principal'], 'jesus' : [1, 'Jesus Christ'], 'satan' : [1, 'Satan'],
+            'carol' : [1, 'Carol McCormick'], 'stuart' : [1, 'Stuart McCormick'], 'stephen' : [1, 'Stephen Stotch'], 'liane' : [1, 'Liane Cartman'],
+            'mr garrison' : [1, 'Mr Garrison'], 'chef' : [1, 'Chef'], 'mr mackey' : [1, 'Mr Mackey'],  
+            'principal victoria' : [1, 'Principal Victoria'], 'pc principal' : [1, 'PC Principal'], 'jesus' : [1, 'Jesus Christ'], 'satan' : [1, 'Satan'],
             'santa' : [1, 'Santa'], 'mr hankey' : [1, 'Mr Hankey'], 'mayor mcdaniels' : [1, 'Mayor McDaniels'], 'officer barbrady' : [1, 'Officer Barbrady'],
             'yates' : [1, 'Detective Yates'], 'priest maxi' : [1, 'Father Maxi'], 'jimbo' : [1, 'Jimbo'], 'mr slave' : [1, 'Mr Slave'],
             'towelie' : [1, 'Towelie'], 'doctor' : [1, 'Doctor']

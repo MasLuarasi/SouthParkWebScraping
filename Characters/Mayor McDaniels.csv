@@ -1,19 +1,19 @@
 Mayor McDaniels
 
-Appearanes,35
+Appearanes,48
 
 Top Episodes
 Episode,Lines,Rating
+Jakovasaurs,40,6.5
 Weight Gain 4000,29,7.5
 Summer Sucks,28,7.4
 Starvin Marvin,25,8.1
 Volcano,21,7.6
 Spontaneous Combustion,20,8.1
+Hooked on Monkey Fonics,19,8
+Christmas Snow,18,7.6
+Cartmans Mom is Still a Dirty Slut,16,8.2
 Conjoined Fetus Lady,16,7.7
-Cartmans Mom is Still a Dirty Slut,15,8.2
-Naughty Ninjas,15,8.2
-The City Part of Town,15,7.6
-Die Hippie Die,14,8.7
 Average
 
 Top Profanities
@@ -31,10 +31,10 @@ stupid,1
 
 Season Progression
 Season,Lines,Profanity Count,Profanity Frequency
-1,90,10,1.05,
-2,105,19,1.38,
-3,20,3,1.09,
-4,0,0,0,
+1,94,11,1.11,
+2,118,20,1.24,
+3,88,8,0.76,
+4,27,0,0.0,
 5,3,1,2.33,
 6,16,0,0.0,
 7,12,0,0.0,
@@ -44,7 +44,7 @@ Season,Lines,Profanity Count,Profanity Frequency
 11,7,0,0.0,
 12,0,0,0,
 13,9,3,2.36,
-14,1,0,0.0,
+14,7,0,0.0,
 15,0,0,0,
 16,0,0,0,
 17,0,0,0,
@@ -52,8 +52,8 @@ Season,Lines,Profanity Count,Profanity Frequency
 19,34,2,0.34,
 20,0,0,0,
 21,8,0,0.0,
-22,12,1,0.49,
-23,3,0,0.0,
+22,26,2,0.56,
+23,27,2,0.47,
 24,3,1,1.89,
 25,6,0,0.0,
 26,2,0,0.0,

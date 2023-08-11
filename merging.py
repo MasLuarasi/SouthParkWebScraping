@@ -85,43 +85,9 @@ for index in range(1, 27):
                 data = json.load(file)
                 for c in characterAlias:#For every character list in the characterAlias list
                     data[c[0]] = combineEntries(c)#Assign the single entry in the dataset to the returned combined data
-                # for c in characterAlias:
-                #     for a in range(1, len(c)):
-                #         try: data.pop(c[a])
-                #         except: continue
-
                 data = dict(sorted(data.items(), key=lambda x: x[1][0], reverse=True))#Sort dictionary after all changes so character with most lines is first
-
                 with open(ep, 'w') as f:
                     f.write(json.dumps(data))
 
-
-
-
-
-
-# for c in characterAlias:
-# #    combinedData = combineEntries(c) Keep for potential debugging purposes
-#     data[c[0]] = combineEntries(c)#Assign the single entry in the dataset to the returned combined data
-
-# for c in characterAlias:
-#     for a in range(1, len(c)):
-#         try: data.pop(c[a])
-#         except: continue
-
-# data = dict(sorted(data.items(), key=lambda x: x[1][0], reverse=True))#Sort dictionary after all changes so character with most lines is first
-
-# with open('Z.json', 'w') as f:
-#     f.write(json.dumps(data))
-
 #NEXT STEPS
 #List for characters could be a text file
-#Reorganize the code to sort through them
-
-# for index in range(1, 2):
-#     filePath = os.path.join('Seasons', str(index))#'Seasons\1...
-#     if os.path.exists(filePath):
-#         epFiles = natsorted(glob.glob(os.path.join(filePath, '*.json')))#Gather all the json files
-#         for ep in epFiles:#For each episode in this season
-#             with open(ep, 'r') as file:
-#                 data = json.load(file)

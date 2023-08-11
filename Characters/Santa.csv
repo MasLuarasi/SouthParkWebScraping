@@ -12,6 +12,8 @@ Bike Parade,7,7.6
 Imaginationland Episode III,3,9
 201,3,8.7
 A Very Crappy Christmas,2,7.5
+Mr Hankey the Christmas Poo,1,8.1
+Scott Tenorman Must Die,0,9.6
 Average
 
 Top Profanities
@@ -29,7 +31,7 @@ fuckin,1
 
 Season Progression
 Season,Lines,Profanity Count,Profanity Frequency
-1,0,0,0,
+1,1,0,0.0,
 2,0,0,0,
 3,21,2,1.39,
 4,2,0,0.0,

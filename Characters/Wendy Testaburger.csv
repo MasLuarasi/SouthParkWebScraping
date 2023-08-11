@@ -10,9 +10,9 @@ Breast Cancer Show Ever,55,8.7
 Chef Goes Nanners,43,8.2
 Weight Gain 4000,30,7.5
 The List,29,8.5
+Dances with Smurfs,28,8.1
 Stupid Spoiled Whore Video Playset,27,8.4
 Deep Learning,25,8.3
-Dances with Smurfs,23,8.1
 Clubhouses,23,7.9
 Average
 
@@ -43,7 +43,7 @@ Season,Lines,Profanity Count,Profanity Frequency
 10,1,0,0.0,
 11,29,1,0.22,
 12,75,18,3.05,
-13,35,7,1.46,
+13,40,17,3.24,
 14,18,1,0.36,
 15,11,1,0.82,
 16,3,0,0.0,

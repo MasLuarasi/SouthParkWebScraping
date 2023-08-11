@@ -1,9 +1,11 @@
 Kenny McCormick
 
-Appearanes,71
+Appearanes,75
 
 Top Episodes
 Episode,Lines,Rating
+Mysterion Rises,36,8.3
+Coon vs Coon  Friends,36,8.3
 The Ring,36,8.1
 Jewbilee,35,7.4
 Quintuplets 2000,27,7.3
@@ -12,8 +14,6 @@ The Scoots,23,8
 Poor and Stupid,22,7.5
 Cartman Joins NAMBLA,21,9
 Rainforest Shmainforest,19,8.4
-DikinBaus Hot Dogs,17,7.8
-Kenny Dies,15,8.8
 Average
 
 Top Profanities
@@ -31,7 +31,7 @@ hell,7
 
 Season Progression
 Season,Lines,Profanity Count,Profanity Frequency
-1,66,23,6.2,
+1,67,25,6.58,
 2,91,23,5.0,
 3,133,27,4.05,
 4,129,16,3.29,
@@ -43,9 +43,9 @@ Season,Lines,Profanity Count,Profanity Frequency
 10,19,4,5.33,
 11,14,6,9.38,
 12,51,17,6.94,
-13,58,16,4.64,
-14,43,20,12.99,
-15,23,3,3.85,
+13,76,17,2.72,
+14,126,51,4.12,
+15,29,4,2.5,
 16,45,14,3.04,
 17,26,4,2.9,
 18,34,6,5.31,

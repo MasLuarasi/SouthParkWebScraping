@@ -177,7 +177,7 @@ def main():
 
         computeSeasonSummary(index, episodeTitles)#Summarize the data across all episodes in a season
 
-main()
-# computeSeriesSummary()
+# main()
+computeSeriesSummary()
 et = time.time()#End time
 print((et-st)*1000)#Total time for program to run

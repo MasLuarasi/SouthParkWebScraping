@@ -31,8 +31,8 @@ kill,8
 
 Season Progression
 Season,Lines,Profanity Count,Profanity Frequency
-1,12,0,0.0,
-2,63,10,1.54,
+1,13,0,0.0,
+2,64,11,1.66,
 3,144,17,1.2,
 4,30,4,1.42,
 5,18,6,2.64,
@@ -49,7 +49,7 @@ Season,Lines,Profanity Count,Profanity Frequency
 16,18,4,2.58,
 17,2,0,0.0,
 18,19,1,0.7,
-19,36,4,0.96,
+19,39,5,0.95,
 20,258,129,3.59,
 21,9,0,0.0,
 22,7,1,1.32,

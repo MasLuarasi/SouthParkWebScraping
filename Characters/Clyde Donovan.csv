@@ -1,6 +1,6 @@
 Clyde Donovan
 
-Appearanes,72
+Appearanes,75
 
 Top Episodes
 Episode,Lines,Rating
@@ -11,9 +11,9 @@ Deep Learning,18,8.3
 South Park Post Covid The Return of Covid,18,7.5
 Reverse Cowgirl,13,7.7
 The Return of the Fellowship of the Ring to the Two Towers,12,9.3
+Coon 2 Hindsight,12,8.1
 Tweek vs Craig,12,7.6
 Marjorine,11,8.8
-The List,11,8.5
 Average
 
 Top Profanities
@@ -31,7 +31,7 @@ sucks,2
 
 Season Progression
 Season,Lines,Profanity Count,Profanity Frequency
-1,21,4,4.0,
+1,22,4,3.74,
 2,9,1,2.38,
 3,17,0,0.0,
 4,23,6,3.33,
@@ -44,7 +44,7 @@ Season,Lines,Profanity Count,Profanity Frequency
 11,36,2,0.74,
 12,10,0,0.0,
 13,22,0,0.0,
-14,1,0,0.0,
+14,28,3,1.21,
 15,17,1,0.62,
 16,24,2,1.26,
 17,19,6,3.21,
