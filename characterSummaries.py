@@ -9,7 +9,7 @@ with open("Heatmaps\Rating Heatmap.csv", "r", newline="") as file:
     reader = csv.reader(file)
     rows = list(reader)  # Read all rows from the CSV file
 
-characters = {
+characters = {#Find the key (lowercase name). Count an appearance if they have n lines(5 for main characters, 1 for supporting). Rename it to the proper name
             'cartman' : [5, 'Eric Cartman'], 'kenny' : [5, 'Kenny McCormick'], 'kyle' : [5, 'Kyle Broflovski'], 'stan' : [5, 'Stan Marsh'],
             'butters' : [5, 'Butters Stotch'], 'wendy' : [1, 'Wendy Testaburger'], 'jimmy' : [1, 'Jimmy Valmer'], 'timmy' : [1, 'Timmy'],
             'craig' : [1, 'Craig Tucker'], 'tweek' : [1, 'Tweek Tweak'], 'tolkien' : [1, 'Tolkein Black'], 'clyde' : [1, 'Clyde Donovan'],
